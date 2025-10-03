@@ -33,6 +33,62 @@
 
 I'm a **software engineer specializing in AI systems, game development, and security-focused applications**. Currently a member of the **Epic Games organization** and **GitHub Developer Program**, I focus on building innovative solutions at the intersection of gaming, artificial intelligence, and secure systems architecture.
 
+### 💻 Language Proficiency Breakdown
+
+My coding expertise spans multiple languages, ranked by fluency and organized by proficiency category:
+
+#### 🔥 **Fluent** (Production-Ready & Daily Use)
+
+- **🐍 Python** - Primary language for AI/ML systems, automation, and backend development
+  - Multi-agent AI frameworks (OBLISK, CrewAI)
+  - Deep learning & neural networks
+  - API development & microservices
+  - Security automation & pentesting tools
+  - Data processing & analytics
+
+- **⚙️ C++** - High-performance game systems and low-level programming
+  - Game engine development
+  - Systems programming
+  - Performance-critical applications
+  - Unreal Engine integration
+  - Real-time processing systems
+
+- **🎮 C#** - .NET ecosystem, Unity development, and automation tools
+  - Unity game development
+  - PS4/PS5 Remote Play automation (PS4RemotePlayInterceptor)
+  - Desktop applications & tools
+  - Cross-platform solutions
+  - Windows system integration
+
+#### ⚡ **Functional** (Comfortable & Project-Ready)
+
+- **📱 Kotlin** - Modern Android development and mobile solutions
+  - Android application development (PSPhone)
+  - Mobile streaming solutions
+  - Cross-platform mobile frameworks
+  - Reactive programming patterns
+
+- **☕ Java** - Enterprise applications and Android development
+  - Enterprise backend systems
+  - Android applications
+  - Spring Boot microservices
+  - Legacy system maintenance
+
+- **🌐 JavaScript/TypeScript** - Web development and automation
+  - Full-stack web development
+  - Node.js backend services
+  - Browser automation & scraping
+  - API integrations
+  - Modern frontend frameworks
+
+#### 🧪 **Experimental** (Learning & Exploration)
+
+- **🦀 Rust** - Systems programming and performance-critical applications
+- **📊 Go** - Concurrent systems and microservices
+- **⚡ Swift** - iOS development and Apple ecosystem
+- **🔷 Lua** - Game scripting and embedded systems
+- **📜 Bash/Shell** - System automation and DevOps workflows
+
 ### 🎯 Core Expertise
 
 - 🤖 **Multi-Agent AI Systems** - Designing autonomous agents with sophisticated coordination and governance
@@ -41,13 +97,13 @@ I'm a **software engineer specializing in AI systems, game development, and secu
 - 📱 **Cross-Platform Development** - Android/iOS streaming solutions and mobile-to-console integration
 - 🏗️ **System Architecture** - Scalable backend systems, API design, and distributed computing
 
-### 🌟 What I'm Working On
+## 🌟 What I'm Working On
 
-- 🔭 Building next-generation **AI agent frameworks** with symbolic planning and encrypted collaboration
-- 🎮 Developing **PlayStation streaming and automation tools** for mobile platforms
-- 🛡️ Creating **security-first applications** with governance models and access control
-- 🌐 Contributing to **open-source gaming and AI projects** in the community
-- 📚 Exploring **Unreal Engine internals** and game engine architecture
+- 🔭 Building next-generation AI agent frameworks with symbolic planning and encrypted collaboration
+- 🎮 Developing PlayStation streaming and automation tools for mobile platforms
+- 🛡️ Creating security-first applications with governance models and access control
+- 🌐 Contributing to open-source gaming and AI projects in the community
+- 📚 Exploring Unreal Engine internals and game engine architecture
 
 ---
 
@@ -55,29 +111,33 @@ I'm a **software engineer specializing in AI systems, game development, and secu
 
 ### 🌌 [OBLISK](https://github.com/POWDER-RANGER/OBLISK)
 **Multi-Agent AI System with Encrypted Vaults & Governance**
+
 - 🐍 Python-based autonomous agent framework
 - 🔐 Encrypted collaboration and secure data vaults
 - 🎭 Multi-agent coordination with symbolic planning
 - 🏛️ Governance models and access control systems
-- 🚀 Part of the **"Triple Launch"** - 3 major repos in one day (Oct 1, 2025)
+- 🚀 Part of the "Triple Launch" - 3 major repos in one day (Oct 1, 2025)
 
 ### 📱 [PSPhone](https://github.com/POWDER-RANGER/PSPhone)
 **PlayStation Mobile Mirror - Android/iOS Gameplay Streaming**
+
 - 📲 Kotlin-based mobile streaming solution
 - 🎮 Mirror PlayStation gameplay to mobile devices
 - 🔒 Secure transport protocols and adaptive controls
 - 📡 Real-time streaming with low latency
-- 🚀 Part of the **"Triple Launch"**
+- 🚀 Part of the "Triple Launch"
 
 ### 🛡️ [CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH)
 **Civic Monitoring & Security Application**
+
 - 🔍 Security-focused surveillance and monitoring
 - 📊 Real-time data processing and analysis
 - 🛡️ Privacy-first architecture
-- 🚀 Part of the **"Triple Launch"**
+- 🚀 Part of the "Triple Launch"
 
 ### 🔌 [PSPhone-Passthrough](https://github.com/POWDER-RANGER/PSPhone-Passthrough)
 **Sony PlayStation Phone Screen Streaming Solution**
+
 - 📺 View Android device screen on PS4/PS5
 - 🔗 USB and WiFi streaming support
 - 📖 Comprehensive setup guides and troubleshooting
@@ -85,6 +145,7 @@ I'm a **software engineer specializing in AI systems, game development, and secu
 
 ### 🎮 [PS4RemotePlayInterceptor](https://github.com/POWDER-RANGER/PS4RemotePlayInterceptor)
 **Ultimate PS4/PS5 Remote Play Automation Toolkit**
+
 - 🔧 C# library for PS4/PS5 Remote Play control injection
 - 🤖 AI integration, macro recording, and scripting
 - 🎯 Controller interception and automation
@@ -96,11 +157,11 @@ I'm a **software engineer specializing in AI systems, game development, and secu
 
 <div align="center">
 
-![POWDER-RANGER's GitHub Stats](https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+[![POWDER-RANGER's GitHub Stats](https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/POWDER-RANGER)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/POWDER-RANGER)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=POWDER-RANGER&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=POWDER-RANGER&theme=tokyonight&hide_border=true)](https://github.com/POWDER-RANGER)
 
 </div>
 
@@ -109,11 +170,13 @@ I'm a **software engineer specializing in AI systems, game development, and secu
 ## 🎖️ Notable Achievements & Milestones
 
 ### 🏅 GitHub Recognition
-- 🦈 **Pull Shark** - Earned for significant merged pull request contributions
-- 👨‍💻 **Developer Program Member** - Active GitHub Developer Program participant
-- ⭐ **23 Stars Earned** - Community recognition across projects
+
+- 🦈 Pull Shark - Earned for significant merged pull request contributions
+- 👨‍💻 Developer Program Member - Active GitHub Developer Program participant
+- ⭐ 23 Stars Earned - Community recognition across projects
 
 ### 🏢 Organization Memberships
+
 - 🎮 **Epic Games** - Member of Epic Games organization on GitHub
   - Access to Unreal Engine source code and private repositories
   - Contributing to game development ecosystem
@@ -121,23 +184,23 @@ I'm a **software engineer specializing in AI systems, game development, and secu
 
 ### 🚀 Recent Milestones (October 2025)
 
-#### **The Triple Launch** 🎯
-*Created 3 major repositories in a single day (October 1, 2025)*
+#### The Triple Launch 🎯
+Created 3 major repositories in a single day (October 1, 2025)
+1. OBLISK - Multi-agent AI system with encrypted vaults and governance (Python)
+2. PSPhone - PlayStation Mobile Mirror for Android/iOS devices (Kotlin)
+3. PSPhone-Passthrough - Sony PlayStation Phone screen streaming solution
 
-1. **OBLISK** - Multi-agent AI system with encrypted vaults and governance (Python)
-2. **PSPhone** - PlayStation Mobile Mirror for Android/iOS devices (Kotlin)
-3. **PSPhone-Passthrough** - Sony PlayStation Phone screen streaming solution
-
-#### **Productivity Metrics**
-- ⚡ **34 Commits** in October 2025 across 6 repositories
-- 📝 **15 commits to OBLISK** (45% of October activity)
-- 📱 **10 commits to PSPhone** (30% of October activity)
-- 🛡️ **3 commits to CIVWATCH** (9% of October activity)
+#### Productivity Metrics
+- ⚡ 34 Commits in October 2025 across 6 repositories
+- 📝 15 commits to OBLISK (45% of October activity)
+- 📱 10 commits to PSPhone (30% of October activity)
+- 🛡️ 3 commits to CIVWATCH (9% of October activity)
 
 ### 🎯 Repository Highlights
-- 📚 **15+ Public Repositories** - Active open-source contributor
-- 🎯 **Hello-G-World** - First repository achievement (1 star)
-- 🤖 **AI & Gaming Focus** - Specialized projects in:
+
+- 📚 15+ Public Repositories - Active open-source contributor
+- 🎯 Hello-G-World - First repository achievement (1 star)
+- 🤖 AI & Gaming Focus - Specialized projects in:
   - Game agent frameworks (SerpentAI, CrewAI)
   - Gaming automation toolkits (PS4RemotePlayInterceptor)
   - Multi-agent AI systems (OBLISK, Autocrew)
