@@ -15,9 +15,41 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+#### 🔥 **Fluent** (Daily Use/Production-Ready)
+- **🐍 Python** - AI/ML systems, automation, backend development
+  - *Projects: OBELISK, CrewAI, GAIN, Rocket League Optimizer*
+- **⚡ C++** - Game development, embedded systems, high-performance computing
+  - *Projects: Cronus Zen Alt, PS4RemotePlayInterceptor*
+- **💎 C#** - Game engines, desktop applications, .NET development
+  - *Projects: CIVWATCH, PSPhone*
+- **🐚 Bash/PowerShell** - System automation, DevOps scripting, CI/CD pipelines
+- **🌐 JavaScript** - Web development, browser automation, full-stack applications
+
+#### ⚙️ **Functional** (Project-Ready)
+- **📱 Kotlin** - Android development, cross-platform mobile apps
+- **☕ Java** - Enterprise applications, Android development
+- **📘 TypeScript** - Type-safe web applications, modern frontend
+- **🎮 Lua** - Game scripting, modding, embedded scripting
+- **🎨 HTML/CSS/React** - Modern web UIs, responsive design
+- **🚀 Go** - Microservices, concurrent systems, cloud-native apps
+
+#### 🧪 **Experimental** (Emerging/Supportive)
+- **🦀 Rust** - Systems programming, WebAssembly, secure low-level code
+- **📊 MATLAB** - Mathematical computing, algorithm prototyping
+- **🗄️ PHP/SQL** - Database management, legacy system maintenance
+- **📈 R** - Statistical analysis, data science exploration
+
+> **Evolution Journey**: From scripting automation (Bash/PowerShell) → embedded systems & game development (C++/C#) → AI/ML & intelligent agents (Python) → modern distributed systems. My trajectory reflects continuous adaptation to emerging technologies while maintaining deep expertise in production-critical languages.
 
 ### 🏆 Achievements & Recognition
 
@@ -25,201 +57,14 @@
 ![Developer Program](https://img.shields.io/badge/GitHub%20Developer-Member-green?style=for-the-badge)
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-Organization-black?style=for-the-badge&logo=epicgames&logoColor=white)
 
-</div>
-
 ---
 
 ## 🚀 About Me
 
 I'm a **software engineer specializing in AI systems, game development, and security-focused applications**. Currently a member of the **Epic Games organization** and **GitHub Developer Program**, I focus on building innovative solutions at the intersection of gaming, artificial intelligence, and secure systems architecture.
 
-### 💻 Language Proficiency Breakdown
+### 💻 Core Specializations
 
-My coding expertise spans multiple languages, ranked by fluency and organized by proficiency category:
-
-#### 🔥 **Fluent** (Production-Ready & Daily Use)
-
-- **🐍 Python** - Primary language for AI/ML systems, automation, and backend development
-  - Multi-agent AI frameworks (OBLISK, CrewAI)
-  - Deep learning & neural networks
-  - API development & microservices
-  - Security automation & pentesting tools
-  - Data processing & analytics
-
-- **⚙️ C++** - High-performance game systems and low-level programming
-  - Game engine development
-  - Systems programming
-  - Performance-critical applications
-  - Unreal Engine integration
-  - Real-time processing systems
-
-- **🎮 C#** - .NET ecosystem, Unity development, and automation tools
-  - Unity game development
-  - PS4/PS5 Remote Play automation (PS4RemotePlayInterceptor)
-  - Desktop applications & tools
-  - Cross-platform solutions
-  - Windows system integration
-
-#### ⚡ **Functional** (Comfortable & Project-Ready)
-
-- **📱 Kotlin** - Modern Android development and mobile solutions
-  - Android application development (PSPhone)
-  - Mobile streaming solutions
-  - Cross-platform mobile frameworks
-  - Reactive programming patterns
-
-- **☕ Java** - Enterprise applications and Android development
-  - Enterprise backend systems
-  - Android applications
-  - Spring Boot microservices
-  - Legacy system maintenance
-
-- **🌐 JavaScript/TypeScript** - Web development and automation
-  - Full-stack web development
-  - Node.js backend services
-  - Browser automation & scraping
-  - API integrations
-  - Modern frontend frameworks
-
-#### 🧪 **Experimental** (Learning & Exploration)
-
-- **🦀 Rust** - Systems programming and performance-critical applications
-- **📊 Go** - Concurrent systems and microservices
-- **⚡ Swift** - iOS development and Apple ecosystem
-- **🔷 Lua** - Game scripting and embedded systems
-- **📜 Bash/Shell** - System automation and DevOps workflows
-
-### 🎯 Core Expertise
-
-- 🤖 **Multi-Agent AI Systems** - Designing autonomous agents with sophisticated coordination and governance
-- 🎮 **Game Systems Development** - PlayStation automation, remote play solutions, and gaming frameworks
-- 🔐 **Security Engineering** - Encrypted vaults, secure transport protocols, and privacy-focused architecture
-- 📱 **Cross-Platform Development** - Android/iOS streaming solutions and mobile-to-console integration
-- 🏗️ **System Architecture** - Scalable backend systems, API design, and distributed computing
-
-## 🌟 What I'm Working On
-
-- 🔭 Building next-generation AI agent frameworks with symbolic planning and encrypted collaboration
-- 🎮 Developing PlayStation streaming and automation tools for mobile platforms
-- 🛡️ Creating security-first applications with governance models and access control
-- 🌐 Contributing to open-source gaming and AI projects in the community
-- 📚 Exploring Unreal Engine internals and game engine architecture
-
----
-
-## 💼 Featured Projects
-
-### 🌌 [OBLISK](https://github.com/POWDER-RANGER/OBLISK)
-**Multi-Agent AI System with Encrypted Vaults & Governance**
-
-- 🐍 Python-based autonomous agent framework
-- 🔐 Encrypted collaboration and secure data vaults
-- 🎭 Multi-agent coordination with symbolic planning
-- 🏛️ Governance models and access control systems
-- 🚀 Part of the "Triple Launch" - 3 major repos in one day (Oct 1, 2025)
-
-### 📱 [PSPhone](https://github.com/POWDER-RANGER/PSPhone)
-**PlayStation Mobile Mirror - Android/iOS Gameplay Streaming**
-
-- 📲 Kotlin-based mobile streaming solution
-- 🎮 Mirror PlayStation gameplay to mobile devices
-- 🔒 Secure transport protocols and adaptive controls
-- 📡 Real-time streaming with low latency
-- 🚀 Part of the "Triple Launch"
-
-### 🛡️ [CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH)
-**Civic Monitoring & Security Application**
-
-- 🔍 Security-focused surveillance and monitoring
-- 📊 Real-time data processing and analysis
-- 🛡️ Privacy-first architecture
-- 🚀 Part of the "Triple Launch"
-
-### 🔌 [PSPhone-Passthrough](https://github.com/POWDER-RANGER/PSPhone-Passthrough)
-**Sony PlayStation Phone Screen Streaming Solution**
-
-- 📺 View Android device screen on PS4/PS5
-- 🔗 USB and WiFi streaming support
-- 📖 Comprehensive setup guides and troubleshooting
-- 🛠️ Open-source streaming scripts
-
-### 🎮 [PS4RemotePlayInterceptor](https://github.com/POWDER-RANGER/PS4RemotePlayInterceptor)
-**Ultimate PS4/PS5 Remote Play Automation Toolkit**
-
-- 🔧 C# library for PS4/PS5 Remote Play control injection
-- 🤖 AI integration, macro recording, and scripting
-- 🎯 Controller interception and automation
-- 💻 Windows/macOS cross-platform support
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-[![POWDER-RANGER's GitHub Stats](https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/POWDER-RANGER)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/POWDER-RANGER)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=POWDER-RANGER&theme=tokyonight&hide_border=true)](https://github.com/POWDER-RANGER)
-
-</div>
-
----
-
-## 🎖️ Notable Achievements & Milestones
-
-### 🏅 GitHub Recognition
-
-- 🦈 Pull Shark - Earned for significant merged pull request contributions
-- 👨‍💻 Developer Program Member - Active GitHub Developer Program participant
-- ⭐ 23 Stars Earned - Community recognition across projects
-
-### 🏢 Organization Memberships
-
-- 🎮 **Epic Games** - Member of Epic Games organization on GitHub
-  - Access to Unreal Engine source code and private repositories
-  - Contributing to game development ecosystem
-- 📢 **Public Relations/CHaoS iNK** - Community involvement and engagement
-
-### 🚀 Recent Milestones (October 2025)
-
-#### The Triple Launch 🎯
-Created 3 major repositories in a single day (October 1, 2025)
-1. OBLISK - Multi-agent AI system with encrypted vaults and governance (Python)
-2. PSPhone - PlayStation Mobile Mirror for Android/iOS devices (Kotlin)
-3. PSPhone-Passthrough - Sony PlayStation Phone screen streaming solution
-
-#### Productivity Metrics
-- ⚡ 34 Commits in October 2025 across 6 repositories
-- 📝 15 commits to OBLISK (45% of October activity)
-- 📱 10 commits to PSPhone (30% of October activity)
-- 🛡️ 3 commits to CIVWATCH (9% of October activity)
-
-### 🎯 Repository Highlights
-
-- 📚 15+ Public Repositories - Active open-source contributor
-- 🎯 Hello-G-World - First repository achievement (1 star)
-- 🤖 AI & Gaming Focus - Specialized projects in:
-  - Game agent frameworks (SerpentAI, CrewAI)
-  - Gaming automation toolkits (PS4RemotePlayInterceptor)
-  - Multi-agent AI systems (OBLISK, Autocrew)
-
----
-
-## 🔧 Technical Contributions
-
-### 💻 Development Focus Areas
-
-**Programming Languages**
-- 🐍 Python (AI/ML, Backend, Automation)
-- ⚙️ C++ (Game Development, Systems Programming)
-- 🎮 C# (.NET, Unity, Game Tools)
-- 📱 Kotlin (Android Development, Mobile)
-- ☕ Java (Enterprise, Android)
-- 🌐 JavaScript (Web Development, Automation)
-
-**Specializations**
 - 🎮 **Gaming Automation & AI** - PlayStation Remote Play, game agents, bot frameworks
 - 🔐 **Security-Focused Development** - Encrypted systems, governance models, secure protocols
 - 📡 **Cross-Platform Streaming** - Mobile-to-console streaming, real-time video transport
