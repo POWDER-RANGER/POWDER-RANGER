@@ -1,18 +1,10 @@
 <div align="center">
 
-<!-- Neon Animated Header with Flashing B -->
+<!-- Neon Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20,27,6&height=300&section=header&text=POWDER-RANGER&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=00ffff&desc=⚡%20Curtis%20Farrar%20•%20AI%20Systems%20Architect%20•%20Network%20Pentester%20⚡&descAlignY=55&descSize=20&descColor=ff00ff" />
 
-<!-- Animated Neon B Logo with Cyberpunk Styling -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=180&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&repeat=true&width=800&height=200&lines=⚡+B+⚡;🔮+B+🔮;⚡+B+⚡">
-  <img alt="Neon B" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=180&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&repeat=true&width=800&height=200&lines=⚡+B+⚡;🔮+B+🔮;⚡+B+⚡">
-</picture>
-
-<!-- Cyberpunk Status Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=POWDER-RANGER&color=blueviolet&style=for-the-badge)](https://github.com/POWDER-RANGER)
-[![Followers](https://img.shields.io/github/followers/POWDER-RANGER?style=for-the-badge&color=00ffff&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/POWDER-RANGER?tab=followers)
-[![Stars](https://img.shields.io/github/stars/POWDER-RANGER?style=for-the-badge&color=ff00ff&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/POWDER-RANGER?tab=repositories)
+<!-- Profile View Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=POWDER-RANGER&color=blueviolet&style=for-the-badge)](https://github.com/POWDER-RANGER) [![Followers](https://img.shields.io/github/followers/POWDER-RANGER?style=for-the-badge&color=00ffff&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/POWDER-RANGER?tab=followers) [![Stars](https://img.shields.io/github/stars/POWDER-RANGER?style=for-the-badge&color=ff00ff&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/POWDER-RANGER?tab=repositories) [![Repositories](https://img.shields.io/badge/Repositories-18-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/POWDER-RANGER?tab=repositories)
 
 </div>
 
@@ -120,7 +112,5 @@ $ ./collaborate.sh --topics="AI/ML Research" --focus="Security" --mode="Open-Sou
 ### ⚡ **Star repos • Fork to contribute • Reach out to collaborate** ⚡
 
 **💻 "Code with purpose. Secure with passion. Innovate with impact." 💻**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=⚡+POWERED+BY+CYBERPUNK+AESTHETICS+⚡;🔮+BUILDING+THE+FUTURE+WITH+CODE+🔮;⚡+SECURITY+%7C+AI+%7C+PERFORMANCE+⚡" />
 
 </div>
