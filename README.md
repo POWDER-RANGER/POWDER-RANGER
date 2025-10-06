@@ -17,6 +17,22 @@
 
 ---
 
+## 👋 About Me
+
+**Curtis Farrar (POWDER-RANGER)** — AI Systems Architect | Network Pentester | Open Source Advocate
+
+I'm a security-focused engineer specializing in building intelligent systems at scale and hardening digital infrastructure. Currently architecting AI/ML solutions and conducting offensive security research at **Epic Games**. My work spans advanced neural architecture optimization, penetration testing frameworks, and high-performance computing systems.
+
+**Current Focus:**
+- 🤖 **AI Systems Architecture** — Designing scalable ML pipelines and neural network optimization
+- 🔐 **Network Penetration Testing** — Red team operations and vulnerability research
+- 🌍 **Open Source Advocacy** — Contributing to high-impact projects and community-driven development
+- ⚡ **Performance Engineering** — Building systems that operate at microsecond latencies and millions of ops/second
+
+**Tech Stack:** Python, C++, C#, Kotlin, Java, JavaScript/TypeScript • TensorFlow, PyTorch, scikit-learn • Docker, Kubernetes, AWS, Azure • Metasploit, Burp Suite, Wireshark
+
+---
+
 ## 🏆 ⚡ FEATURED IN & SUPPORTED BY ⚡ 🏆
 
 <div align="center">
@@ -30,35 +46,43 @@
 
 ---
 
-## 🌐 CYBER PROFILE 🌐
+![Neon Separator](https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/.github/assets/neon-separator.gif)
 
-```python
-class CyberEngineer:
-    def __init__(self):
-        self.name = "Curtis Farrar"
-        self.alias = "POWDER-RANGER"
-        self.role = "AI Systems Architect | Network Pentester"
-        self.company = "Epic Games"
-        self.location = "🏠 Iowa City, IA [Remote]"
-        self.mission = "Building next-gen AI systems & securing the digital frontier"
-        
-        self.tech_stack = {
-            "languages": ["Python", "C++", "C#", "JavaScript/TypeScript", "Kotlin", "Java"],
-            "ai_ml": ["TensorFlow", "PyTorch", "scikit-learn", "Neural Architecture Search"],
-            "security": ["Metasploit", "Burp Suite", "Wireshark", "Custom Exploits"],
-            "infrastructure": ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD"]
-        }
-        
-        self.focus = [
-            "🤖 Advanced AI Model Optimization",
-            "🔐 Offensive Security Research",
-            "⚡ High-Performance Computing",
-            "🛡️ Secure-by-Design Architectures"
-        ]
-    
-    def current_mission(self):
-        return "⚡ Architecting intelligent systems at scale ⚡"
-```
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 🎮 [NextGenGameAutomation](https://github.com/POWDER-RANGER/NextGenGameAutomation)
+**Next-generation automation platform for game testing and digital twin simulation**
+- Automated testing framework for complex game scenarios
+- Digital twin simulation for predictive analysis
+- Integration with major game engines
+- Python-based with extensible plugin architecture
+
+### 🤖 [OBLISK](https://github.com/POWDER-RANGER/OBLISK)
+**Multi-agent AI system with encrypted vaults, governance, and symbolic planning**
+- Advanced multi-agent coordination and task planning
+- Secure encrypted vault system for sensitive data
+- Symbolic reasoning engine for complex decision-making
+- Production-ready Python framework
+
+### 🏛️ [CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH)
+**Civic transparency and accountability platform**
+- Real-time government activity monitoring
+- Open data aggregation and visualization
+- Community-driven oversight tools
+- Full-stack platform with modern architecture
+
+### 📱 [PSPhone](https://github.com/POWDER-RANGER/PSPhone)
+**Mirror PlayStation gameplay to Android/iOS devices with secure transport**
+- Low-latency game streaming to mobile devices
+- Adaptive control systems for touch interfaces
+- Secure encrypted transport protocols
+- Kotlin-based with cross-platform support
+
+---
+
+![Neon Separator](https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/.github/assets/neon-separator.gif)
 
 ---
 
@@ -66,68 +90,18 @@ class CyberEngineer:
 
 <div align="center">
 
-<!-- GitHub Stats Card with Live Data -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff)](https://github.com/POWDER-RANGER)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff)](https://github.com/POWDER-RANGER)
 
-<!-- Top Languages Card -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff)](https://github.com/POWDER-RANGER)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff)](https://github.com/POWDER-RANGER)
 
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=POWDER-RANGER&theme=synthwave&hide_border=true&background=0d1117&ring=00ffff&fire=ff00ff&currStreakLabel=ffffff)](https://github.com/POWDER-RANGER)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=POWDER-RANGER&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=ff00ff&fire=ff6b35&currStreakLabel=00ffff)](https://github.com/POWDER-RANGER)
 
-<!-- GitHub Trophy -->
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=POWDER-RANGER&theme=radical&no-frame=true&row=1&column=7)](https://github.com/POWDER-RANGER)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=POWDER-RANGER&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/POWDER-RANGER)
 
 </div>
 
 ---
 
-<!-- NEON DIVIDER -->
-![Neon Separator](https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/.github/assets/neon-separator.gif)
-
----
-
-## 🚀 FEATURED PROJECTS 🚀
-
-### 🤖 AI & Machine Learning
-
-• **Neural Architecture Optimizer**: Automated ML pipeline discovering optimal neural network architectures
-  - 40% reduction in training time
-  - 15% improvement in accuracy
-  - Self-evolving model selection
-
-• **Real-Time Threat Detection**: ML-powered security system analyzing network traffic patterns
-  - 98.7% accuracy in identifying zero-day exploits
-  - Sub-second response time
-  - Adaptive threat modeling
-
-### 🔐 Security & Infrastructure
-
-• **Distributed Penetration Testing Framework**: Scalable security assessment platform
-  - Concurrent vulnerability scanning orchestration
-  - 60% faster critical CVE identification
-  - Automated exploit verification
-
-• **Zero-Trust Authentication System**: Multi-factor authentication framework
-  - Biometric integration with adaptive risk scoring
-  - Deployed across 500K+ endpoints
-  - Real-time anomaly detection
-
-### ⚡ Performance Engineering
-
-• **Game Engine Optimization Tools**: Custom profiling suite for Unreal Engine
-  - 35% reduction in frame time variance
-  - 25% decrease in memory footprint
-  - Hot-reload diagnostics
-
-• **High-Throughput Message Queue**: Lock-free distributed messaging system
-  - 10M+ messages/second throughput
-  - Microsecond latencies
-  - Zero-copy data transfers
-
----
-
-<!-- NEON DIVIDER -->
 ![Neon Separator](https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/.github/assets/neon-separator.gif)
 
 ---
@@ -139,6 +113,7 @@ class CyberEngineer:
 [![GitHub](https://img.shields.io/badge/GitHub-POWDER--RANGER-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/POWDER-RANGER)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9273--2458-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9273-2458)
 [![Email](https://img.shields.io/badge/Email-curtis%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:curtis@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curtis-farrar)
 
 </div>
 
@@ -149,14 +124,13 @@ $ ./collaborate.sh --topics="AI/ML Research" --focus="Security" --mode="Open-Sou
 ```
 
 **Collaboration Areas:**
-• 🤖 Advanced AI/ML research and deployment  
-• 🔐 Security research and responsible disclosure  
-• 🌍 Open-source contributions to high-impact projects  
-• 🎤 Speaking engagements on AI systems and cybersecurity  
+- 🤖 Advanced AI/ML research and deployment
+- 🔐 Security research and responsible disclosure
+- 🌍 Open-source contributions to high-impact projects
+- 🎤 Speaking engagements on AI systems and cybersecurity
 
 ---
 
-<!-- NEON DIVIDER -->
 ![Neon Separator](https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/.github/assets/neon-separator.gif)
 
 ---
