@@ -23,6 +23,8 @@
 
 I'm a security-focused engineer specializing in building intelligent systems at scale and hardening digital infrastructure. Currently architecting AI/ML solutions and conducting offensive security research at **Epic Games**. My work spans advanced neural architecture optimization, penetration testing frameworks, and high-performance computing systems.
 
+**Contact:** 📧 [curtiscf2006@gmail.com](mailto:curtiscf2006@gmail.com) | 🆔 ORCID: [0009-0008-9273-2458](https://orcid.org/0009-0008-9273-2458)
+
 **Current Focus:**
 - 🤖 **AI Systems Architecture** — Designing scalable ML pipelines and neural network optimization
 - 🔐 **Network Penetration Testing** — Red team operations and vulnerability research
@@ -112,7 +114,7 @@ I'm a security-focused engineer specializing in building intelligent systems at 
 
 [![GitHub](https://img.shields.io/badge/GitHub-POWDER--RANGER-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/POWDER-RANGER)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9273--2458-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9273-2458)
-[![Email](https://img.shields.io/badge/Email-curtis%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:curtis@example.com)
+[![Email](https://img.shields.io/badge/Email-curtiscf2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:curtiscf2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curtis-farrar)
 
 </div>
