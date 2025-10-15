@@ -18,69 +18,81 @@
 
 **Engineering intelligent systems that adapt, heal, and evolve.** Pioneering AI-enabled solutions with resilient architectures, data-driven automation, and human-centric feedback loops. Every system designed for clarity, modularity, and explainability—built to think, secure to trust, and governed to scale.
 
+**Built to thrive, not just survive, when chaos comes calling.**
+
 ---
 
 ## 🧠 Core Projects
 
 ### 🎮 NextGenGameAutomation
+
 **Enterprise-grade game testing and digital twin operations platform**
 
 #### Intelligent Design Principles:
+
 - **Adaptive Algorithms**: Self-optimizing test scenarios using state graph analysis and predictive QA workflows
 - **Data-Driven Automation**: Telemetry heatmaps and behavioral pattern recognition for intelligent test orchestration
 - **Resilient Architecture**: Built on Unreal Engine with fault-tolerant Python and C++ integration
 - **User-Centric Feedback**: Real-time telemetry visualization and actionable insight generation
 - **Self-Healing**: Automated error detection and recovery workflows with scenario rollback
+- **Chaos Engineering**: Robust error-handling with fuzz testing and resilience validation under unpredictable conditions
 
 **Repository**: [NextGenGameAutomation](https://github.com/POWDER-RANGER/NextGenGameAutomation)
 
 ---
 
 ### 🛡️ OBLISK
+
 **Multi-agent AI governance framework with security-first architecture**
 
 #### Intelligent Design Principles:
+
 - **Security & Governance**: HSM-backed encrypted vault management with cryptographic policy verification
 - **Adaptive Intelligence**: Graph-based planners with toolformer agents and contextual retrieval systems
 - **Explainability**: Comprehensive audit trails with symbolic oversight and decision provenance
 - **Modular Architecture**: Composable agent systems with pluggable capabilities and tool integration
 - **Resilience**: Multi-layer security controls with graceful degradation and failover mechanisms
+- **Anti-Fragility**: Stress-tested against adversarial scenarios and chaotic multi-agent interactions
 
 **Repository**: [OBLISK](https://github.com/POWDER-RANGER/OBLISK)
 
 ---
 
 ### 🏛️ CIVWATCH
+
 **Open-source civic transparency and monitoring platform**
 
 #### Intelligent Design Principles:
+
 - **Data-Driven Transparency**: Real-time dashboards with automated alerts and open data pipelines
 - **Trust & Verification**: Cryptographic provenance tracking and tamper-evident audit logs
 - **User-Centric Design**: Community governance tools with intuitive engagement interfaces
 - **Adaptive Monitoring**: Intelligent anomaly detection and predictive civic event analysis
 - **Resilient Infrastructure**: Distributed architecture with redundancy and high-availability design
+- **Chaos-Resilient**: Engineered for uptime and reliability during unexpected data surges and system disruptions
 
 **Repository**: [CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH)
 
 ---
 
 ### 📱 PSPhone
+
 **Secure mobile gaming infrastructure with low-latency streaming**
 
 #### Intelligent Design Principles:
+
 - **Adaptive Performance**: QUIC-based streaming with dynamic GPU scaling and edge optimization
 - **User-Centric Experience**: Intelligent adaptive controls, haptic feedback, and context-aware HUD
 - **Security-First**: End-to-end encryption with secure session management and zero-trust architecture
 - **Resilient Networking**: Automatic failover, packet loss recovery, and latency compensation
 - **Data-Driven Optimization**: Real-time telemetry analysis for performance tuning and QoS management
+- **Chaos-Ready**: Network chaos testing and adaptive protocols for unpredictable mobile environments
 
 **Repository**: [PSPhone](https://github.com/POWDER-RANGER/PSPhone)
 
 ---
 
 ## 🧭 Design Philosophy
-
-<div style="background-color: #1a1a1a; padding: 20px; border-left: 4px solid #DC143C;">
 
 ### Principles That Drive Innovation
 
@@ -102,7 +114,8 @@ Every decision backed by telemetry, every optimization guided by evidence, every
 **🔷 Human-Centric Automation**  
 AI that amplifies human capability—building trust through transparency, control, and ethical design.
 
-</div>
+**🔷 Chaos Management & Anti-Fragility**  
+Embracing complexity, engineering for unpredictability, and building adaptive systems that thrive in chaotic environments. Systems don't just withstand disruption—they grow stronger through stress.
 
 ---
 
@@ -124,7 +137,7 @@ OpenTelemetry • Prometheus • Grafana • Loki • eBPF
 SLSA • Cosign • In-Toto • Trivy • Grype
 
 **Testing & QA**  
-Pytest • Property-Based Testing • Mutation Testing • Load Testing • Synthetic User Testing
+Pytest • Property-Based Testing • Mutation Testing • Load Testing • Synthetic User Testing • Chaos Mesh • Fuzz Testing
 
 **CI/CD**  
 GitHub Actions • Container Builds • SBOM Generation • Provenance Attestation
