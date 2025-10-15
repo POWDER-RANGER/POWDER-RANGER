@@ -3,7 +3,7 @@
 # 🌑 Curtis Farrar | POWDER-RANGER
 
 ```diff
-! Jetblk Glow and Blow - Where darkness meets precision
+! Jetblk Glow - Where darkness meets precision
 ```
 
 </div>
@@ -38,9 +38,7 @@ Engineer building open source AI, gaming, and security tools. Always learning. P
 
 ### <sub>🎮</sub> [NextGenGameAutomation](https://github.com/POWDER-RANGER/NextGenGameAutomation) <sub>⚡</sub>
 
-<blockquote>
-Enterprise game testing and digital twin platform. Features automation workflows, predictive analytics, and Unreal Engine integration to help teams test more efficiently.
-</blockquote>
+> Enterprise game testing and digital twin platform. Features automation workflows, predictive analytics, and Unreal Engine integration to help teams test more efficiently.
 
 <div align="center">
 
@@ -52,9 +50,7 @@ Enterprise game testing and digital twin platform. Features automation workflows
 
 ### <sub>🤖</sub> [OBLISK](https://github.com/POWDER-RANGER/OBLISK) <sub>⚡</sub>
 
-<blockquote>
-Multi-agent AI governance platform with encrypted vaults, governance frameworks, and symbolic reasoning engines. Built for production use with security in mind.
-</blockquote>
+> Multi-agent AI governance platform with encrypted vaults, governance frameworks, and symbolic reasoning engines. Built for production use with security in mind.
 
 <div align="center">
 
@@ -66,9 +62,7 @@ Multi-agent AI governance platform with encrypted vaults, governance frameworks,
 
 ### <sub>🏛️</sub> [CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH) <sub>⚡</sub>
 
-<blockquote>
-Open-source civic transparency and accountability platform. Features real-time monitoring, data visualization, and community-driven governance tools.
-</blockquote>
+> Open-source civic transparency and accountability platform. Features real-time monitoring, data visualization, and community-driven governance tools.
 
 <div align="center">
 
@@ -80,9 +74,7 @@ Open-source civic transparency and accountability platform. Features real-time m
 
 ### <sub>📱</sub> [PSPhone](https://github.com/POWDER-RANGER/PSPhone) <sub>⚡</sub>
 
-<blockquote>
-Secure mobile gaming infrastructure with low-latency game streaming, adaptive controls, and encryption.
-</blockquote>
+> Secure mobile gaming infrastructure with low-latency game streaming, adaptive controls, and encryption.
 
 <div align="center">
 
@@ -152,7 +144,7 @@ Feedback, ideas, and contributions are always welcome. Feel free to open an issu
 
 <div align="center">
 
-<sub>⚡ Powered by **Jetblk Glow and Blow** aesthetic ⚡</sub>
+<sub>⚡ Powered by **Jetblk Glow** aesthetic ⚡</sub>
 
 *Dark mode optimized • Minimalist design • Subtle luminescence*
 
