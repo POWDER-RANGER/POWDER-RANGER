@@ -28,6 +28,7 @@ This repository documents a transparent, real-time learning experiment: from fou
 ```
 
 ### **Q1 (Oct-Dec 2024): Foundation & Methodology**
+
 - ✅ Established AI partnership framework and ethical guidelines
 - ✅ Python fundamentals and software architecture patterns
 - ✅ Git/GitHub mastery and version control workflows
@@ -37,6 +38,7 @@ This repository documents a transparent, real-time learning experiment: from fou
 **Milestone**: Defined *cognitive arbitrage*—human strategic thinking drives AI tactical execution
 
 ### **Q2 (Jan-Mar 2025): Technical Acceleration**
+
 - ✅ **NextGenGameAutomation**: Enterprise game testing platform (Unreal Engine + Python/C++)
 - ✅ State graph analysis and predictive QA workflows
 - ✅ Telemetry systems and behavioral pattern recognition
@@ -46,6 +48,7 @@ This repository documents a transparent, real-time learning experiment: from fou
 **Milestone**: First production-grade system demonstrating adaptive, resilient architecture
 
 ### **Q3 (Apr-Jun 2025): Security & Governance**
+
 - ✅ **OBLISK**: Multi-agent AI governance with HSM-backed security
 - ✅ **CIVWATCH**: Open-source civic transparency platform
 - ✅ Zero-trust architecture and cryptographic policy verification
@@ -55,6 +58,7 @@ This repository documents a transparent, real-time learning experiment: from fou
 **Milestone**: Demonstrated secure, governable AI systems with full transparency
 
 ### **Q4 (Jul-Oct 2025): Integration & Creative Synthesis**
+
 - ✅ **PSPhone**: Secure mobile gaming infrastructure
 - ✅ Full-length novel completed (creative AI collaboration)
 - ✅ Infrastructure mastery: Docker, Kubernetes, AWS, GCP
@@ -69,6 +73,7 @@ This repository documents a transparent, real-time learning experiment: from fou
 
 ### 🎮 [NextGenGameAutomation](https://github.com/POWDER-RANGER/NextGenGameAutomation)
 **Enterprise game testing & digital twin platform**
+
 - Adaptive test scenarios with state graph analysis
 - Self-healing workflows and chaos engineering
 - Unreal Engine integration with Python/C++ orchestration
@@ -76,6 +81,7 @@ This repository documents a transparent, real-time learning experiment: from fou
 
 ### 🛡️ [OBLISK](https://github.com/POWDER-RANGER/OBLISK)
 **Multi-agent AI governance framework**
+
 - HSM-backed security and cryptographic policy verification
 - Graph-based planners with contextual memory
 - Comprehensive audit trails and explainability
@@ -83,6 +89,7 @@ This repository documents a transparent, real-time learning experiment: from fou
 
 ### 🏛️ [CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH)
 **Open-source civic transparency platform**
+
 - Real-time dashboards with automated alerts
 - Cryptographic provenance and tamper-evident logs
 - Community governance tools
@@ -90,6 +97,7 @@ This repository documents a transparent, real-time learning experiment: from fou
 
 ### 📱 [PSPhone](https://github.com/POWDER-RANGER/PSPhone)
 **Secure mobile gaming infrastructure**
+
 - QUIC-based low-latency streaming
 - Dynamic GPU scaling and edge optimization
 - End-to-end encryption with zero-trust architecture
@@ -139,6 +147,19 @@ Cognitive arbitrage places human intelligence where it matters most—strategy, 
 
 ---
 
+## 🏆 Professional Credentials
+
+![Epic Games](https://img.shields.io/badge/Epic_Games-Developer-313131?logo=epicgames&logoColor=white&labelColor=1a1a1a)
+![GitHub](https://img.shields.io/badge/GitHub-Active_Developer-181717?logo=github&logoColor=white&labelColor=1a1a1a)
+![Verified](https://img.shields.io/badge/Status-Verified_Open_Source-DC143C?labelColor=1a1a1a)
+
+- **Epic Games Developer Account** holder with active experience in Unreal Engine SDK integration and cross-platform automation (2024–2025)
+- **GitHub Active Developer** badge (2025) with verified open-source status
+- Contributor to public automation and CI/CD toolkit development
+- Active participation in game development and infrastructure communities
+
+---
+
 ## 📚 Portfolio Documentation
 
 **Comprehensive reports documenting this development journey:**
@@ -158,6 +179,7 @@ Cognitive arbitrage places human intelligence where it matters most—strategy, 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836)](mailto:curtiscf2006@gmail.com)
 
 **Open to collaboration on:**
+
 - AI governance and ethical AI systems
 - Game automation and digital twin technologies
 - Security tooling and zero-trust architectures
