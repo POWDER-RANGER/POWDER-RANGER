@@ -1,80 +1,151 @@
-# Curtis Farrar | POWDER-RANGER | Engineer
+<div align="center">
 
-![GitHub Release](https://img.shields.io/github/v/release/POWDER-RANGER/POWDER-RANGER?display_name=tag&labelColor=2b2b2b&color=4a9eff)
-![Status](https://img.shields.io/badge/status-active-success?labelColor=2b2b2b)
+# 🔴 Curtis Farrar | POWDER-RANGER | Intelligent Systems Engineer
 
----
+### *Bleeding-Edge Intelligent Design*
 
-## About
+![GitHub Release](https://img.shields.io/github/v/release/POWDER-RANGER/POWDER-RANGER?display_name=tag&labelColor=8B0000&color=DC143C)
+![Status](https://img.shields.io/badge/status-active-DC143C?labelColor=1a1a1a)
+![AI-Enabled](https://img.shields.io/badge/AI-Enabled-DC143C?labelColor=1a1a1a)
+![Security-First](https://img.shields.io/badge/Security-First-8B0000?labelColor=1a1a1a)
+![Governance](https://img.shields.io/badge/Governance-Built--In-DC143C?labelColor=1a1a1a)
 
-Software engineer specializing in open-source AI systems, game automation, and security infrastructure. Focused on building scalable, observable, and resilient tools that bridge AI governance, digital twin testing, and civic transparency. Experienced in multi-agent orchestration, enterprise game testing frameworks, secure mobile infrastructure, and supply chain security.
-
----
-
-## Core Projects
-
-### NextGenGameAutomation
-Enterprise-grade game testing and digital twin operations platform.
-- Automated regression testing with state graph analysis and telemetry heatmaps
-- Built on Unreal Engine with Python and C++ integration
-- Predictive QA workflows and scenario orchestration
-- Repository: [https://github.com/POWDER-RANGER/NextGenGameAutomation](https://github.com/POWDER-RANGER/NextGenGameAutomation)
-
-### OBLISK
-Multi-agent AI governance framework with security-first architecture.
-- Encrypted vault management with HSM key storage and policy verification
-- Graph-based planners, toolformer agents, and retrieval systems
-- Comprehensive audit trails and symbolic oversight
-- Repository: [https://github.com/POWDER-RANGER/OBLISK](https://github.com/POWDER-RANGER/OBLISK)
-
-### CIVWATCH
-Open-source civic transparency and monitoring platform.
-- Real-time dashboards, alerts, and open data pipelines
-- Community governance tools with provenance tracking
-- Trust verification and public engagement systems
-- Repository: [https://github.com/POWDER-RANGER/CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH)
-
-### PSPhone
-Secure mobile gaming infrastructure with low-latency streaming.
-- QUIC-based streaming with GPU scaling and edge deployment
-- Adaptive controls, haptic feedback, and customizable HUD
-- End-to-end encryption and secure session management
-- Repository: [https://github.com/POWDER-RANGER/PSPhone](https://github.com/POWDER-RANGER/PSPhone)
+</div>
 
 ---
 
-## Technology Stack
+## 🎯 Mission
 
-**Languages & Frameworks:**  
+**Engineering intelligent systems that adapt, heal, and evolve.** Pioneering AI-enabled solutions with resilient architectures, data-driven automation, and human-centric feedback loops. Every system designed for clarity, modularity, and explainability—built to think, secure to trust, and governed to scale.
+
+---
+
+## 🧠 Core Projects
+
+### 🎮 NextGenGameAutomation
+**Enterprise-grade game testing and digital twin operations platform**
+
+#### Intelligent Design Principles:
+- **Adaptive Algorithms**: Self-optimizing test scenarios using state graph analysis and predictive QA workflows
+- **Data-Driven Automation**: Telemetry heatmaps and behavioral pattern recognition for intelligent test orchestration
+- **Resilient Architecture**: Built on Unreal Engine with fault-tolerant Python and C++ integration
+- **User-Centric Feedback**: Real-time telemetry visualization and actionable insight generation
+- **Self-Healing**: Automated error detection and recovery workflows with scenario rollback
+
+**Repository**: [NextGenGameAutomation](https://github.com/POWDER-RANGER/NextGenGameAutomation)
+
+---
+
+### 🛡️ OBLISK
+**Multi-agent AI governance framework with security-first architecture**
+
+#### Intelligent Design Principles:
+- **Security & Governance**: HSM-backed encrypted vault management with cryptographic policy verification
+- **Adaptive Intelligence**: Graph-based planners with toolformer agents and contextual retrieval systems
+- **Explainability**: Comprehensive audit trails with symbolic oversight and decision provenance
+- **Modular Architecture**: Composable agent systems with pluggable capabilities and tool integration
+- **Resilience**: Multi-layer security controls with graceful degradation and failover mechanisms
+
+**Repository**: [OBLISK](https://github.com/POWDER-RANGER/OBLISK)
+
+---
+
+### 🏛️ CIVWATCH
+**Open-source civic transparency and monitoring platform**
+
+#### Intelligent Design Principles:
+- **Data-Driven Transparency**: Real-time dashboards with automated alerts and open data pipelines
+- **Trust & Verification**: Cryptographic provenance tracking and tamper-evident audit logs
+- **User-Centric Design**: Community governance tools with intuitive engagement interfaces
+- **Adaptive Monitoring**: Intelligent anomaly detection and predictive civic event analysis
+- **Resilient Infrastructure**: Distributed architecture with redundancy and high-availability design
+
+**Repository**: [CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH)
+
+---
+
+### 📱 PSPhone
+**Secure mobile gaming infrastructure with low-latency streaming**
+
+#### Intelligent Design Principles:
+- **Adaptive Performance**: QUIC-based streaming with dynamic GPU scaling and edge optimization
+- **User-Centric Experience**: Intelligent adaptive controls, haptic feedback, and context-aware HUD
+- **Security-First**: End-to-end encryption with secure session management and zero-trust architecture
+- **Resilient Networking**: Automatic failover, packet loss recovery, and latency compensation
+- **Data-Driven Optimization**: Real-time telemetry analysis for performance tuning and QoS management
+
+**Repository**: [PSPhone](https://github.com/POWDER-RANGER/PSPhone)
+
+---
+
+## 🧭 Design Philosophy
+
+<div style="background-color: #1a1a1a; padding: 20px; border-left: 4px solid #DC143C;">
+
+### Principles That Drive Innovation
+
+**🔷 Modularity First**  
+Composable systems with clean interfaces—every component independent, every integration seamless.
+
+**🔷 Clarity & Explainability**  
+Transparent decision-making, interpretable AI, and comprehensive observability at every layer.
+
+**🔷 Self-Healing & Resilience**  
+Systems that anticipate failure, adapt to change, and recover gracefully without human intervention.
+
+**🔷 Security & Governance**  
+Zero-trust architecture, cryptographic verification, and policy-driven control from foundation to deployment.
+
+**🔷 Data-Driven Intelligence**  
+Every decision backed by telemetry, every optimization guided by evidence, every insight actionable.
+
+**🔷 Human-Centric Automation**  
+AI that amplifies human capability—building trust through transparency, control, and ethical design.
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+**Languages & Frameworks**  
 Python • C++ • Rust • Unreal Engine
 
-**AI & ML:**  
+**AI & ML**  
 LangChain • LangGraph • LiteLLM • OpenAI • Anthropic • Vector Databases • Graph Memory Systems
 
-**Infrastructure:**  
+**Infrastructure**  
 Docker • Kubernetes • AWS • GCP • PostgreSQL • Redis • Kafka
 
-**Observability:**  
+**Observability**  
 OpenTelemetry • Prometheus • Grafana • Loki • eBPF
 
-**Security & Supply Chain:**  
+**Security & Supply Chain**  
 SLSA • Cosign • In-Toto • Trivy • Grype
 
-**Testing & QA:**  
+**Testing & QA**  
 Pytest • Property-Based Testing • Mutation Testing • Load Testing • Synthetic User Testing
 
-**CI/CD:**  
+**CI/CD**  
 GitHub Actions • Container Builds • SBOM Generation • Provenance Attestation
 
 ---
 
-## Contact
+## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&labelColor=2b2b2b)](https://www.linkedin.com/in/curtis-farrar)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white&labelColor=2b2b2b)](https://github.com/POWDER-RANGER)  
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?logo=orcid&logoColor=white&labelColor=2b2b2b)](https://orcid.org/0009-0008-9273-2458)  
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white&labelColor=2b2b2b)](mailto:curtiscf2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-DC143C?style=for-the-badge&logo=linkedin&labelColor=1a1a1a)](https://www.linkedin.com/in/curtis-farrar)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-DC143C?style=for-the-badge&logo=github&labelColor=1a1a1a)](https://github.com/POWDER-RANGER)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-DC143C?style=for-the-badge&logo=orcid&labelColor=1a1a1a)](https://orcid.org/0009-0008-9273-2458)
+[![Email](https://img.shields.io/badge/Email-Contact-DC143C?style=for-the-badge&logo=gmail&labelColor=1a1a1a)](mailto:curtiscf2006@gmail.com)
+
+Open to collaboration on AI governance, game automation, security tooling, and civic technology projects.
 
 ---
 
-Open to collaboration on AI governance, game automation, security tooling, and civic technology projects. Feel free to reach out to discuss ideas or explore partnership opportunities.
+<div align="center">
+
+### 🔴 *Building systems that think. Open to challenges.*
+
+**POWDER-RANGER** | Intelligent Systems Engineering
+
+</div>
