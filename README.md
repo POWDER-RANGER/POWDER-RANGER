@@ -18,6 +18,8 @@
 
 **Engineering intelligent systems that adapt, heal, and evolve.** Pioneering AI-enabled solutions with resilient architectures, data-driven automation, and human-centric feedback loops. Every system designed for clarity, modularity, and explainability—built to think, secure to trust, and governed to scale.
 
+**Committed to AI systems that serve humanity, are interpretable, controllable, and reinforce ethical boundaries. This is not Skynet—it's intelligent technology for good.**
+
 **Built to thrive, not just survive, when chaos comes calling.**
 
 ---
@@ -113,6 +115,9 @@ Every decision backed by telemetry, every optimization guided by evidence, every
 
 **🔷 Human-Centric Automation**  
 AI that amplifies human capability—building trust through transparency, control, and ethical design.
+
+**🔷 Ethical AI Commitment**  
+Committed to AI systems that serve humanity, are interpretable, controllable, and reinforce ethical boundaries. This is not Skynet—it's intelligent technology for good.
 
 **🔷 Chaos Management & Anti-Fragility**  
 Embracing complexity, engineering for unpredictability, and building adaptive systems that thrive in chaotic environments. Systems don't just withstand disruption—they grow stronger through stress.
