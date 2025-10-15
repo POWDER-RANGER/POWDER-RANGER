@@ -1,43 +1,159 @@
-# Curtis Farrar | POWDER-RANGER
+<div align="center">
+
+# 🌑 Curtis Farrar | POWDER-RANGER
+
+```diff
+! Jetblk Glow and Blow - Where darkness meets precision
+```
+
+</div>
+
+<div align="center">
+
+```css
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+```
+
+</div>
 
 Engineer building open source AI, gaming, and security tools. Always learning. Projects below are open for collaboration and improvement.
 
-## Projects
+<div align="center">
 
-### 🎮 [NextGenGameAutomation](https://github.com/POWDER-RANGER/NextGenGameAutomation)
+```css
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+```
 
+</div>
+
+## <sub>✦</sub> Projects <sub>✦</sub>
+
+<div align="center">
+
+```
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+```
+
+</div>
+
+### <sub>🎮</sub> [NextGenGameAutomation](https://github.com/POWDER-RANGER/NextGenGameAutomation) <sub>⚡</sub>
+
+<blockquote>
 Enterprise game testing and digital twin platform. Features automation workflows, predictive analytics, and Unreal Engine integration to help teams test more efficiently.
+</blockquote>
 
-### 🤖 [OBLISK](https://github.com/POWDER-RANGER/OBLISK)
+<div align="center">
 
+```
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+```
+
+</div>
+
+### <sub>🤖</sub> [OBLISK](https://github.com/POWDER-RANGER/OBLISK) <sub>⚡</sub>
+
+<blockquote>
 Multi-agent AI governance platform with encrypted vaults, governance frameworks, and symbolic reasoning engines. Built for production use with security in mind.
+</blockquote>
 
-### 🏛️ [CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH)
+<div align="center">
 
+```
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+```
+
+</div>
+
+### <sub>🏛️</sub> [CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH) <sub>⚡</sub>
+
+<blockquote>
 Open-source civic transparency and accountability platform. Features real-time monitoring, data visualization, and community-driven governance tools.
+</blockquote>
 
-### 📱 [PSPhone](https://github.com/POWDER-RANGER/PSPhone)
+<div align="center">
 
+```
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+```
+
+</div>
+
+### <sub>📱</sub> [PSPhone](https://github.com/POWDER-RANGER/PSPhone) <sub>⚡</sub>
+
+<blockquote>
 Secure mobile gaming infrastructure with low-latency game streaming, adaptive controls, and encryption.
+</blockquote>
 
-## Technology Stack
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![ML/AI](https://img.shields.io/badge/ML%2FAI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Security](https://img.shields.io/badge/Security-DC382D?style=for-the-badge&logo=security&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+```css
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+```
 
-## Contact
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curtis-farrar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/POWDER-RANGER)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9273-2458)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:curtiscf2006@gmail.com)
+## <sub>✦</sub> Technology Stack <sub>✦</sub>
+
+<div align="center">
+
+```
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+```
+
+</div>
+
+<div align="center">
+
+`Python` • `C++` • `ML/AI` • `Security` • `Kubernetes` • `AWS` • `Docker` • `Unreal Engine`
+
+</div>
+
+<div align="center">
+
+```css
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+```
+
+</div>
+
+## <sub>✦</sub> Contact <sub>✦</sub>
+
+<div align="center">
+
+```
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+```
+
+</div>
+
+<div align="center">
+
+[**LinkedIn**](https://www.linkedin.com/in/curtis-farrar) • [**GitHub**](https://github.com/POWDER-RANGER) • [**ORCID**](https://orcid.org/0009-0008-9273-2458) • [**Email**](mailto:curtiscf2006@gmail.com)
+
+</div>
+
+<div align="center">
+
+```css
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+```
+
+</div>
+
+<div align="center">
+
+**Thanks for stopping by!**
+
+Feedback, ideas, and contributions are always welcome. Feel free to open an issue or reach out if you'd like to collaborate.
+
+</div>
 
 ---
 
-Thanks for stopping by! Feedback, ideas, and contributions are always welcome. Feel free to open an issue or reach out if you'd like to collaborate.
+<div align="center">
+
+<sub>⚡ Powered by **Jetblk Glow and Blow** aesthetic ⚡</sub>
+
+*Dark mode optimized • Minimalist design • Subtle luminescence*
+
+</div>
