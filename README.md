@@ -85,6 +85,74 @@
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 365 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                535 commits         ███████████░░░░░░░░░░░░░░   43.11 % 
+🌆 Daytime                492 commits         ██████████░░░░░░░░░░░░░░░   39.65 % 
+🌃 Evening                188 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+🌙 Night                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Tuesday                  36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Wednesday                116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Thursday                 11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Friday                   35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Saturday                 882 commits         ██████████████████░░░░░░░   71.07 % 
+Sunday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+PowerShell               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/12/2025 04:42:11 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Get In Touch
