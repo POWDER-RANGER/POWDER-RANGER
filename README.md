@@ -82,6 +82,11 @@
 
 ---
 
+## 📊 Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📫 Get In Touch
 
 **Available for:** Full-time developer roles • Contract systems engineering • Technical collaboration on AI/networking/automation projects
