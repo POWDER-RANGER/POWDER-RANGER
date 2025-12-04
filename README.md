@@ -3,6 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-powder--ranger.github.io-667eea?style=for-the-badge)](https://powder-ranger.github.io)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9273--2458-green?style=for-the-badge)](https://orcid.org/0009-0008-9273-2458)
 [![Hireable](https://img.shields.io/badge/Status-Hireable-success?style=for-the-badge)](https://github.com/POWDER-RANGER)
+[![Sponsor](https://img.shields.io/badge/Sponsor-POWDER--RANGER-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/POWDER-RANGER)
 
 <div align="center">
 
@@ -10,9 +11,29 @@
 
 *Building production-grade open-source systems at the intersection of AI automation, game networking research, and cybersecurity tooling.*
 
-[View Portfolio](https://powder-ranger.github.io) • [GitHub](https://github.com/POWDER-RANGER) • [ORCID](https://orcid.org/0009-0008-9273-2458)
+[View Portfolio](https://powder-ranger.github.io) • [GitHub](https://github.com/POWDER-RANGER) • [ORCID](https://orcid.org/0009-0008-9273-2458) • [💖 Sponsor](https://github.com/sponsors/POWDER-RANGER)
 
 </div>
+
+---
+
+## 💖 Support My Open Source Work
+
+I maintain these projects in my free time while building production-grade tools for AI automation, game networking, and cybersecurity. If my work has helped you or your organization, please consider [**becoming a sponsor**](https://github.com/sponsors/POWDER-RANGER).
+
+**Your sponsorship enables:**
+- ✅ Faster bug fixes and security updates
+- ✅ New feature development and research
+- ✅ Comprehensive documentation and tutorials
+- ✅ Community support and maintenance
+- ✅ More time dedicated to open source
+
+[**Become a Sponsor →**](https://github.com/sponsors/POWDER-RANGER)
+
+### Current Sponsors
+Thank you to our amazing sponsors who make this work possible! 🙏
+
+<!-- sponsors --><!-- sponsors -->
 
 ---
 
@@ -32,12 +53,26 @@
 - ✅ GitHub Actions CI/CD with Pester test automation
 - 📦 Production-ready infrastructure and contributing guidelines
 
-### OBLISK
+### CIVWATCH
+**Civic transparency and monitoring platform**
+- 🔍 Real-time anomaly detection and clustering
+- 🛡️ Security research and OSINT capabilities
+- 🔒 Privacy-first architecture with encryption
+- 📈 TensorFlow.js prediction models
+
+### OBELISK_CORE
 **Multi-agent AI system with encrypted vault architecture**
 - 🔒 AES-256 encryption with PBKDF2 key derivation
 - 📁 IPFS/S3 encrypted storage for sensitive operations
 - ✔️ Auditable decision chains with HMAC verification
 - 🧠 Multi-agent governance and symbolic planning
+
+### GAIN
+**Tactical AI assistant for developers**
+- 🎯 VisionBot, VoiceTac, MapHUD integration
+- 🎮 TactileMacro automation framework
+- ⚡ Real-time performance optimization
+- 🔧 Developer productivity enhancement
 
 ---
 
@@ -55,7 +90,8 @@
 
 ## 🎯 Recent Achievements
 
-**November 2025**
+**December 2025**
+- ✅ Activated GitHub Sponsors for sustainable open source
 - ✅ Shipped production infrastructure for CONductOR (CI/CD, tests, docs)
 - ✅ Launched professional portfolio site at [powder-ranger.github.io](https://powder-ranger.github.io)
 - ✅ Published Nine Realities Netcode Model with academic citations
@@ -162,6 +198,8 @@ C++                      1 repo              ███░░░░░░░░�
 **Available for:** Full-time developer roles • Contract systems engineering • Technical collaboration on AI/networking/automation projects
 
 **Portfolio:** [powder-ranger.github.io](https://powder-ranger.github.io)
+
+**Sponsorship:** [github.com/sponsors/POWDER-RANGER](https://github.com/sponsors/POWDER-RANGER)
 
 **Location:** Remote-preferred | Keokuk, Iowa, USA
 
