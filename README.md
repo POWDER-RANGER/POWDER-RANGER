@@ -13,6 +13,53 @@
 
 [View Portfolio](https://powder-ranger.github.io) • [GitHub](https://github.com/POWDER-RANGER) • [ORCID](https://orcid.org/0009-0008-9273-2458) • [💖 Sponsor](https://github.com/sponsors/POWDER-RANGER)
 
+---
+
+## 💼 Available for Hire
+
+**Professional Development Services | $55/hr**
+
+I'm available for freelance development work specializing in:
+
+- 🚀 **Full-Stack Development**: Multi-tier microservices (React/Node.js/Python), RESTful APIs, Docker/CI-CD
+- 🤖 **AI & Automation**: Multi-agent systems, PowerShell automation, machine learning integration
+- 🔐 **Security Architecture**: AES-256 encryption, IPFS/S3 storage, production-grade security
+- 🎮 **Game Development**: Multiplayer netcode, Unreal Engine 5, real-time optimization
+
+### 📊 Upwork Profile
+
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0165288f789d304e87)
+
+**Profile**: [upwork.com/freelancers/~0165288f789d304e87](https://www.upwork.com/freelancers/~0165288f789d304e87)  
+**Rate**: $55.00/hour  
+**Location**: Keokuk, Iowa, USA (Remote-Preferred)  
+**Response Time**: Within 4-8 hours  
+**Availability**: 30+ hours/week
+
+### 🎯 What I Deliver
+
+- ✅ **Production-Grade Code**: Every deliverable includes CI/CD pipelines, full test coverage, and comprehensive documentation
+- ✅ **Research-Driven**: 4,000+ hours analyzing real-world architectures and system design patterns
+- ✅ **Security-First**: Cryptographic isolation and auditable decision chains from day one
+- ✅ **Team-Ready**: Clear documentation, regular updates, and transparent timelines
+
+### 📈 Recent Achievements
+
+- Published **Nine Realities Netcode Model** - Original research on multiplayer game state reconciliation (95.2% verification rate)
+- Contributed to **Epic Games' MetaHuman DNA Calibration** (Maya 2025/2026 support)
+- Built **CONductOR** - Windows AI orchestration assistant with full CI/CD pipeline
+- Developed **CIVWATCH** - Civic transparency platform with ML-driven analysis
+- Architected **OBELISK_CORE** - Multi-agent AI system with auditable decision chains
+
+### 💻 Technical Stack
+
+**Languages**: Python, JavaScript/TypeScript, PowerShell, C++, Kotlin  
+**Frameworks**: React, Node.js, FastAPI, Express, TensorFlow, spaCy  
+**Infrastructure**: GitHub Actions, Docker, PostgreSQL, Redis, IPFS/S3  
+**Environments**: Windows PowerShell, Linux, WSL2, Cloud platforms
+
+[**→ View Full Upwork Profile**](https://www.upwork.com/freelancers/~0165288f789d304e87) | [**→ Hire Me Now**](https://www.upwork.com/freelancers/~0165288f789d304e87)
+
 </div>
 
 ---
