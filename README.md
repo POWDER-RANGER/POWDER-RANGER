@@ -176,7 +176,7 @@ Thank you to our amazing sponsors who make this work possible! 🙏
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 481 Contributions in the Year 2025
+> 🏆 482 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -223,11 +223,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-PowerShell               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+PowerShell               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -237,7 +237,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2025 19:06:06 UTC
+ Last Updated on 21/12/2025 20:07:10 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Get In Touch
