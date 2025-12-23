@@ -2,15 +2,22 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Run hourly
+    - cron: "0 */6 * * *"  # Run every 6 hours instead of hourly to reduce API stress
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
     steps:
-      - uses: actions/checkout@v4
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Update README with WakaTime stats
+        uses: anmol098/waka-readme-stats@v4.7.1  # Pinned to stable version
+        continue-on-error: true  # Don't fail workflow if WakaTime API is down
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
