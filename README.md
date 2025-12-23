@@ -11,7 +11,7 @@
 
 *Building production-grade open-source systems at the intersection of AI automation, game networking research, and cybersecurity tooling.*
 
-[View Portfolio](https://powder-ranger.github.io) • [GitHub](https://github.com/POWDER-RANGER) • [ORCID](https://orcid.org/0009-0008-9273-2458) • [💖 Sponsor](https://github.com/sponsors/POWDER-RANGER)
+[View Portfolio](https://powder-ranger.github.io) • [GitHub](https://github.com/POWDER-RANGER) • [ORCID](https://orcid.org/0009-0008-9273-2458) • [LinkedIn](https://www.linkedin.com/in/curtis-farrar-20aa3525b) • [💖 Sponsor](https://github.com/sponsors/POWDER-RANGER)
 
 ---
 
