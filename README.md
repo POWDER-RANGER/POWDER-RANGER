@@ -168,6 +168,8 @@ Thank you to our amazing sponsors who make this work possible! 🙏
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 **🐱 My GitHub Data** 
@@ -235,7 +237,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2025 06:09:34 UTC
+ Last Updated on 29/12/2025 12:09:41 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Get In Touch
