@@ -1,4 +1,4 @@
-<!-- HEADER & BRANDING -->
+<!-- HEADER & BRANDING WITH WAVING ANIMATION -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:667eea&height=280&section=header&text=Curtis%20Charles%20Farrar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Independent%20Systems%20Engineer%20%7C%20AI%20Security%20Architect&descAlignY=55&descAlign=50" alt="Curtis Charles Farrar Header" width="100%" />
@@ -214,114 +214,45 @@
 
 ---
 
-<!-- FOOTER -->
+<!-- MORE PROJECTS -->
+## 🚀 Complete Arsenal
+
+| Project | Status | Highlights |
+|---------|--------|-----------|
+| **CONductOR** | ✅ Active | Windows AI router, Selenium/PowerShell, Pester CI/CD |
+| **CIVWATCH** | ✅ Active | ML anomaly detection, TensorFlow.js, OSINT |
+| **GAIN** | ✅ Active | VisionBot, VoiceTac, TactileMacro automation |
+| **PSPhone** | ✅ Active | Mobile systems engineering |
+| **RainGod-Comfy-Studio** | ✅ Active | ComfyUI extensions & tools |
+
+---
+
+<!-- DIFFERENTIATORS -->
+## 🌟 What Makes This Different
+
 <div align="center">
-
-<h3><i>"I don't follow tutorials. I reverse-engineer production systems to build what doesn't exist yet."</i></h3>
-
-<p>
-<b>Contract Systems Engineering • AI Architecture • Security Audits</b><br>
-Keokuk, Iowa, USA (Remote-Preferred)
-</p>
-
-[**Portfolio**](https://powder-ranger.github.io) • [**Sponsor**](https://github.com/sponsors/POWDER-RANGER) • [**LinkedIn**](https://www.linkedin.com/in/curtis-farrar-20aa3525b)
-
-<br>
-
-**© 2026 Curtis Charles Farrar** • *All projects MIT Licensed unless otherwise noted.*
-
-</div>
-
-
----
-
-## ⚡ Flagship Architectures
-
-### 🔍 red-team-osint-tool v1.0
-**Production-Grade Reconnaissance Framework**
-
-- **Async Engine**: Concurrent RSS, HTTP, Tor/.onion scanning
-- **Tamper-Evident DB**: SQLite with cryptographic hash chains
-- **Visual CLI**: CustomTkinter GUI with "Quick/Deep/Custom" presets
-- **Intelligence**: WHOIS, DNS, IOC extraction (IPs/domains/emails/hashes)
-- **Alerts**: Webhook & SMTP integration with keyword/regex matching
-- **Licensing**: Dual AGPL (free) / Commercial ($999+)
-
-👉 [View Repository](https://github.com/POWDER-RANGER/red-team-osint-tool)
-
----
-
-### 🎮 Nine Realities Netcode
-**Multiplayer State Reconciliation Research**
-
-- **Model**: N+1 concurrent realities for client-server prediction
-- **Verification**: 95.2% accuracy across 98+ technical sources
-- **Research**: 4,000+ hours analyzing Rocket League netcode
-- **Documentation**: Interactive docs with BibTeX/APA citations
-- **ORCID-Linked**: Published as academic research
-- **Scope**: Physics prediction, latency compensation, packet loss recovery
-
-👉 [View Research](https://github.com/POWDER-RANGER/nine-realities-netcode)
-
----
-
-### 🤖 CharlesAI
-**Autonomous Agent Platform**
-
-- **Loop**: Observe → Plan → Act → Verify (powered by Perplexity)
-- **Dashboard**: Real-time WebSocket UI with browser screenshots
-- **CDP Service**: Direct Chrome DevTools Protocol automation
-- **Memory**: Prisma-managed run history and decision logs
-
-👉 [View Agent](https://github.com/POWDER-RANGER/CharlesAI)
-
----
-
-### 🔐 OBELISK_CORE
-**Zero-Trust Multi-Agent Governance**
-
-- **Encryption**: AES-256/PBKDF2 for all agent memories
-- **Vaults**: IPFS/S3 encrypted storage for sensitive operations
-- **Audit Trail**: Immutable HMAC decision chains
-- **Planning**: Symbolic reasoning with governance rules
-
-👉 [View Core](https://github.com/POWDER-RANGER/OBELISK_CORE)
-
----
-
-### Also Built
-- **CONductOR**: Windows AI router (ChatGPT/Claude/Perplexity routing)
-- **CIVWATCH**: ML-driven anomaly detection & civic transparency
-- **GAIN**: Tactical AI (VisionBot, VoiceTac, TactileMacro)
-- **PSPhone**: Mobile systems engineering
-- **RainGod-Comfy-Studio**: ComfyUI extensions
-
----
-
-## 📊 GitHub Statistics
-
-
----
-
-## 🌟 Unrivaled Differentiators
 
 > **"I don't follow tutorials. I reverse-engineer production systems to build what doesn't exist yet."**
 
-- 🔍 **Research-Driven**: 4,000+ hours dissecting Rocket League netcode → original N+1 model
-- 🏗️ **Production-Grade**: Every repo ships with CI/CD, tests, docs, security vaults
-- 🔒 **Security-First**: Cryptographic isolation & auditable chains from commit #1
-- 🤝 **Team-Ready**: Contributing guides, issue templates, collaboration-optimized
+</div>
+
+- 🔍 **Research-Driven**: 4,000+ hours analyzing Rocket League netcode → original N+1 model
+- 🏗️ **Production-Grade**: Every repo ships with CI/CD, tests, comprehensive docs, and MIT licensing
+- 🔒 **Security-First**: Cryptographic isolation, encrypted vaults, and auditable decision chains from Day 0
+- 🤝 **Team-Ready**: Contributing guidelines, issue templates, and documentation built for collaboration
 
 ---
 
+<!-- SUPPORT -->
 ## 💖 Support Open Source
 
-Sponsors accelerate: security patches, feature expansions, research initiatives.
+Sponsors accelerate bug fixes, feature expansions, and research initiatives.
 
 [![Become Sponsor](https://img.shields.io/badge/BECOME_SPONSOR-db61a2?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/POWDER-RANGER)
 
 ---
 
+<!-- CONTACT -->
 ## 📫 Get In Touch
 
 **Available For:**
@@ -333,14 +264,25 @@ Sponsors accelerate: security patches, feature expansions, research initiatives.
 
 **Location**: Keokuk, Iowa, USA (Remote-Preferred)  
 **Portfolio**: [powder-ranger.github.io](https://powder-ranger.github.io)  
-**Upwork**: [Hire Now](https://www.upwork.com/freelancers/~0165288f789d304e87)
+**Upwork**: [Hire Now](https://www.upwork.com/freelancers/~0165288f789d304e87)  
+**LinkedIn**: [curtis-farrar-20aa3525b](https://www.linkedin.com/in/curtis-farrar-20aa3525b)
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
 
-**© 2026 Curtis Charles Farrar**  
-*Building tools that make impossible workflows possible.*  
-*All projects MIT Licensed unless otherwise noted.*
+<h3><i>"Building tools that make impossible workflows possible."</i></h3>
+
+<p>
+<b>Contract Systems Engineering • AI Architecture • Security Audits</b><br>
+Keokuk, Iowa, USA (Remote-Preferred)
+</p>
+
+[**Portfolio**](https://powder-ranger.github.io) • [**Sponsor**](https://github.com/sponsors/POWDER-RANGER) • [**LinkedIn**](https://www.linkedin.com/in/curtis-farrar-20aa3525b) • [**GitHub**](https://github.com/POWDER-RANGER)
+
+<br>
+
+**© 2026 Curtis Charles Farrar** • *All projects MIT Licensed unless otherwise noted.*
 
 </div>
