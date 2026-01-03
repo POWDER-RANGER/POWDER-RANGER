@@ -54,6 +54,33 @@
 [![Contracts](https://img.shields.io/badge/💼_HIRE_ME-OPEN_FOR_CONTRACTS-ec4899?style=for-the-badge&labelColor=1a1a2e&color=ec4899)](https://www.upwork.com/freelancers/~0165288f789d304e87)
 [![Sponsor](https://img.shields.io/badge/❤️_SPONSOR-Accelerate_Research-db61a2?style=for-the-badge&labelColor=1a1a2e&color=db61a2)](https://github.com/sponsors/POWDER-RANGER)
 
+
+<div align="center">
+
+<!-- DEVIL BACKGROUND IMAGE -->
+<img src="https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/cc27c390-4024-4720-a95e-4d9da5af7045" alt="Deviant Architect Background" width="100%" style="border-radius: 24px; box-shadow: 0 32px 64px rgba(0,0,0,0.6); margin-bottom: 24px;">
+
+<h1 style="background: linear-gradient(135deg, #ff1744, #d500f9, #00e5ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 900; font-size: 64px; letter-spacing: 4px; text-shadow: 0 0 32px rgba(255,23,68,0.5);">
+CURTIS CHARLES FARRAR
+</h1>
+
+<p style="font-size: 28px; color: #ff4081; font-weight: 700; margin: 0;">
+<span style="color: #00e5ff;">VAULT ARCHITECT</span> | <span style="color: #ff1744;">RED-TEAM DEMON</span> | <span style="color: #d500f9;">AI GOVERNANCE</span>
+</p>
+
+<h3 style="color: #b71c1c; font-size: 24px; margin: 16px 0;">
+📍 Keokuk, Iowa | 🌍 Remote | 🔥 Actively Deploying
+</h3>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- ELITE BADGE RACK -->
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-powder--ranger.github.io-ff1744?style=for-the-badge&logo=globe&logoColor=white&labelColor=880e4f)](https://powder
+
 **📍 Keokuk, Iowa, USA | 🌍 Remote-Preferred | ⚡ Actively Shipping**
 Observe → Plan → Act → Verify
 powered by Perplexity & military-grade encryption
