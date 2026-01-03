@@ -168,66 +168,28 @@ Thank you to our amazing sponsors who make this work possible! 🙏
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2034%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 34 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                371 commits         █████████░░░░░░░░░░░░░░░░   37.51 % 
-🌆 Daytime                374 commits         █████████░░░░░░░░░░░░░░░░   37.82 % 
-🌃 Evening                197 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Tuesday                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Wednesday                117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Thursday                 44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Friday                   34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Saturday                 590 commits         ███████████████░░░░░░░░░░   59.66 % 
-Sunday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-PowerShell               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+PowerShell               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -237,7 +199,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 06:08:21 UTC
+ Last Updated on 03/01/2026 12:08:34 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Get In Touch
