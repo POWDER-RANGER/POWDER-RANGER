@@ -1,223 +1,233 @@
-# Curtis Charles Farrar
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-powder--ranger.github.io-667eea?style=for-the-badge)](https://powder-ranger.github.io)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9273--2458-green?style=for-the-badge)](https://orcid.org/0009-0008-9273-2458)
-[![Hireable](https://img.shields.io/badge/Status-Hireable-success?style=for-the-badge)](https://github.com/POWDER-RANGER)
-[![Sponsor](https://img.shields.io/badge/Sponsor-POWDER--RANGER-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/POWDER-RANGER)
-
+<!-- HEADER & BRANDING -->
 <div align="center">
 
-**Independent Systems Engineer | Keokuk, Iowa | Remote-Preferred**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:667eea&height=280&section=header&text=Curtis%20Charles%20Farrar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Independent%20Systems%20Engineer%20%7C%20AI%20Security%20Architect&descAlignY=55&descAlign=50" alt="Curtis Charles Farrar Header" width="100%" />
 
-*Building production-grade open-source systems at the intersection of AI automation, game networking research, and cybersecurity tooling.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-powder--ranger.github.io-667eea?style=for-the-badge&logo=github&logoColor=white)](https://powder-ranger.github.io)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9273--2458-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9273-2458)
+[![Status](https://img.shields.io/badge/Status-OPEN_FOR_CONTRACTS-success?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0165288f789d304e87)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Accelerate_Research-db61a2?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/POWDER-RANGER)
 
-[View Portfolio](https://powder-ranger.github.io) • [GitHub](https://github.com/POWDER-RANGER) • [ORCID](https://orcid.org/0009-0008-9273-2458) • [LinkedIn](https://www.linkedin.com/in/curtis-farrar-20aa3525b) • [💖 Sponsor](https://github.com/sponsors/POWDER-RANGER)
+<h3>📍 Keokuk, Iowa, USA | 🌍 Remote-Preferred</h3>
 
----
-
-## 💼 Available for Hire
-
-**Professional Development Services | $55/hr**
-
-I'm available for freelance development work specializing in:
-
-- 🚀 **Full-Stack Development**: Multi-tier microservices (React/Node.js/Python), RESTful APIs, Docker/CI-CD
-- 🤖 **AI & Automation**: Multi-agent systems, PowerShell automation, machine learning integration
-- 🔐 **Security Architecture**: AES-256 encryption, IPFS/S3 storage, production-grade security
-- 🎮 **Game Development**: Multiplayer netcode, Unreal Engine 5, real-time optimization
-
-### 📊 Upwork Profile
-
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0165288f789d304e87)
-
-**Profile**: [upwork.com/freelancers/~0165288f789d304e87](https://www.upwork.com/freelancers/~0165288f789d304e87)  
-**Rate**: $55.00/hour  
-**Location**: Keokuk, Iowa, USA (Remote-Preferred)  
-**Response Time**: Within 4-8 hours  
-**Availability**: 30+ hours/week
-
-### 🎯 What I Deliver
-
-- ✅ **Production-Grade Code**: Every deliverable includes CI/CD pipelines, full test coverage, and comprehensive documentation
-- ✅ **Research-Driven**: 4,000+ hours analyzing real-world architectures and system design patterns
-- ✅ **Security-First**: Cryptographic isolation and auditable decision chains from day one
-- ✅ **Team-Ready**: Clear documentation, regular updates, and transparent timelines
-
-### 📈 Recent Achievements
-
-- Published **Nine Realities Netcode Model** - Original research on multiplayer game state reconciliation (95.2% verification rate)
-- Contributed to **Epic Games' MetaHuman DNA Calibration** (Maya 2025/2026 support)
-- Built **CONductOR** - Windows AI orchestration assistant with full CI/CD pipeline
-- Developed **CIVWATCH** - Civic transparency platform with ML-driven analysis
-- Architected **OBELISK_CORE** - Multi-agent AI system with auditable decision chains
-
-### 💻 Technical Stack
-
-**Languages**: Python, JavaScript/TypeScript, PowerShell, C++, Kotlin  
-**Frameworks**: React, Node.js, FastAPI, Express, TensorFlow, spaCy  
-**Infrastructure**: GitHub Actions, Docker, PostgreSQL, Redis, IPFS/S3  
-**Environments**: Windows PowerShell, Linux, WSL2, Cloud platforms
-
-[**→ View Full Upwork Profile**](https://www.upwork.com/freelancers/~0165288f789d304e87) | [**→ Hire Me Now**](https://www.upwork.com/freelancers/~0165288f789d304e87)
+<p align="center">
+  <b>Architecting production-grade systems at the absolute limit of what's possible.</b><br>
+  <i>Fusing Autonomous AI Agents • Red-Team OSINT • Zero-Trust Security • Multiplayer Netcode</i>
+</p>
 
 </div>
 
 ---
 
-## 💖 Support My Open Source Work
+<!-- PROFESSIONAL SERVICES / HIRING SECTION -->
+## 💼 Engagement Tiers
 
-I maintain these projects in my free time while building production-grade tools for AI automation, game networking, and cybersecurity. If my work has helped you or your organization, please consider [**becoming a sponsor**](https://github.com/sponsors/POWDER-RANGER).
-
-**Your sponsorship enables:**
-- ✅ Faster bug fixes and security updates
-- ✅ New feature development and research
-- ✅ Comprehensive documentation and tutorials
-- ✅ Community support and maintenance
-- ✅ More time dedicated to open source
-
-[**Become a Sponsor →**](https://github.com/sponsors/POWDER-RANGER)
-
-### Current Sponsors
-Thank you to our amazing sponsors who make this work possible! 🙏
-
-<!-- sponsors --><!-- sponsors -->
-
----
-
-## 🚀 Featured Projects
-
-### [Nine Realities Netcode Model](https://github.com/POWDER-RANGER/nine-realities-netcode)
-**Original research into multiplayer game state reconciliation**
-- 🎯 95.2% verification rate across 98 technical sources
-- 📊 4000+ research hours analyzing client-server prediction models
-- 📄 [Interactive Documentation](https://powder-ranger.github.io/nine-realities-netcode/)
-- 🎓 Academic citation format (BibTeX, APA) for research use
-
-### [CONductOR](https://github.com/POWDER-RANGER/CONductOR)
-**Windows-native AI orchestration assistant**
-- 🤖 Multi-service AI routing (ChatGPT, Claude, Perplexity)
-- ⚙️ PowerShell automation and browser control via Selenium
-- ✅ GitHub Actions CI/CD with Pester test automation
-- 📦 Production-ready infrastructure and contributing guidelines
-
-### CIVWATCH
-**Civic transparency and monitoring platform**
-- 🔍 Real-time anomaly detection and clustering
-- 🛡️ Security research and OSINT capabilities
-- 🔒 Privacy-first architecture with encryption
-- 📈 TensorFlow.js prediction models
-
-### OBELISK_CORE
-**Multi-agent AI system with encrypted vault architecture**
-- 🔒 AES-256 encryption with PBKDF2 key derivation
-- 📁 IPFS/S3 encrypted storage for sensitive operations
-- ✔️ Auditable decision chains with HMAC verification
-- 🧠 Multi-agent governance and symbolic planning
-
-### GAIN
-**Tactical AI assistant for developers**
-- 🎯 VisionBot, VoiceTac, MapHUD integration
-- 🎮 TactileMacro automation framework
-- ⚡ Real-time performance optimization
-- 🔧 Developer productivity enhancement
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🚀 Phase I: Deployment</h3>
+        <div align="center">
+          <h1>$75<sub>/hr</sub></h1>
+          <b>Immediate Impact Contract</b>
+        </div>
+        <br>
+        <ul>
+            <li><b>Term</b>: 1–3 Months</li>
+            <li><b>Commitment</b>: $35k Minimum (30+ hrs/wk)</li>
+            <li><b>Focus</b>: Rapid architecture, security auditing, MVP delivery</li>
+            <li><b>Guarantee</b>: 100% Test Coverage & CI/CD pipeline integration from Day 0.</li>
+        </ul>
+        <div align="center">
+          <a href="https://www.upwork.com/freelancers/~0165288f789d304e87">
+            <img src="https://img.shields.io/badge/INITIATE_CONTRACT-000000?style=for-the-badge&logo=upwork&logoColor=6fda44" alt="Hire Now">
+          </a>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">⚡ Phase II: Scaling</h3>
+        <div align="center">
+          <h1>$125+<sub>/hr</sub></h1>
+          <b>Strategic Partnership</b>
+        </div>
+        <br>
+        <ul>
+            <li><b>Term</b>: Month 4+ (Renegotiated)</li>
+            <li><b>Trigger</b>: Unlocked upon delivery of proven assets/features.</li>
+            <li><b>Focus</b>: Enterprise scale, multi-agent governance, proprietary R&D.</li>
+            <li><b>Value</b>: Full architectural ownership and long-term optimization.</li>
+        </ul>
+        <div align="center">
+            <img src="https://img.shields.io/badge/LOCKED-Proven_Results_Required-303030?style=for-the-badge&logo=github" alt="Locked">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 💻 Technical Stack
+<!-- ACHIEVEMENTS & IMPACT -->
+## 🏆 Impact & Achievements
 
-**Languages:** Python • PowerShell • C++ • Kotlin • JavaScript
-
-**Specializations:** Multi-agent AI systems • Game netcode analysis • OSINT automation • Encryption architecture
-
-**Infrastructure:** GitHub Actions CI/CD • Pester test automation • Docker • IPFS/S3 storage
-
-**Environments:** Windows PowerShell • Termux (dual-core llama.cpp) • Kali Linux • WSL2
-
----
-
-## 🎯 Recent Achievements
-
-**December 2025**
-- ✅ Activated GitHub Sponsors for sustainable open source
-- ✅ Shipped production infrastructure for CONductOR (CI/CD, tests, docs)
-- ✅ Launched professional portfolio site at [powder-ranger.github.io](https://powder-ranger.github.io)
-- ✅ Published Nine Realities Netcode Model with academic citations
-- ✅ Contributed to Epic Games' MetaHuman DNA Calibration (Maya 2025/2026 support)
+| Status | Date | Milestone | Impact |
+| :---: | :--- | :--- | :--- |
+| ✅ | **Jan 2026** | **red-team-osint-tool v1.0** | Shipped full GUI/CLI recon framework with Tor integration & 100% pytest coverage. |
+| ✅ | **Jan 2026** | **GitHub Sponsors** | Activated sustainable open-source funding model. |
+| ✅ | **Dec 2025** | **Nine Realities Netcode** | Published N+1 reconciliation model verified across 98 sources (95.2% accuracy). |
+| ✅ | **Dec 2025** | **CONductOR Infra** | Deployed Windows AI orchestration with full Pester CI/CD pipeline. |
+| ✅ | **2025** | **Epic Games Contrib** | Contributed to MetaHuman DNA Calibration (Maya 2025/2026 support). |
+| 🔄 | **Active** | **CharlesAI** | Building autonomous agent platform with Perplexity OPA loops & Prisma. |
+| 🔄 | **Active** | **OBELISK_CORE** | Architecting AES-256 encrypted multi-agent governance vaults. |
 
 ---
 
-## 📈 GitHub Stats
+<!-- TECH STACK GRID -->
+## 🛠️ The Arsenal
 
-![Profile views](https://komarev.com/ghpvc/?username=POWDER-RANGER&color=667eea&style=flat-square)
+<table width="100%">
+  <tr>
+    <td width="25%" align="center"><b>CORE</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>AI & AGENTS</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Multi--Agent_Systems-FF4500?style=flat-square" />
+      <img src="https://img.shields.io/badge/Perplexity_API-222?style=flat-square" />
+      <img src="https://img.shields.io/badge/llama.cpp-gray?style=flat-square" />
+      <img src="https://img.shields.io/badge/CrewAI_Auditing-4B32C3?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>SECURITY</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/AES--256-000?style=flat-square&logo=lock" />
+      <img src="https://img.shields.io/badge/Zero--Trust-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/OSINT-red?style=flat-square" />
+      <img src="https://img.shields.io/badge/Tor_Integration-7D4698?style=flat-square&logo=tor-browser&logoColor=white" />
+      <img src="https://img.shields.io/badge/HMAC_Signing-green?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>DEVOPS</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux_Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=tokyonight)
+---
+
+<!-- FEATURED PROJECTS GRID -->
+## ⚡ Flagship Architectures
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔍 red-team-osint-tool</h3>
+      <p align="center"><i>Production-Grade Reconnaissance Framework</i></p>
+      <p>A dual-licensed (AGPL/Commercial) beast for professional red teams.</p>
+      <ul>
+        <li><b>Async Engine</b>: Concurrent RSS, HTTP, and Tor/.onion scanning.</li>
+        <li><b>Tamper-Evident</b>: SQLite storage with cryptographic hash chains.</li>
+        <li><b>Visual Command</b>: Full CustomTkinter GUI with "Quick/Deep" presets.</li>
+        <li><b>Defense</b>: Integrated WHOIS, DNS enrichment, and IOC extraction.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/POWDER-RANGER/red-team-osint-tool"><img src="https://img.shields.io/badge/View_Repository-303030?style=for-the-badge&logo=github"></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎮 Nine Realities Netcode</h3>
+      <p align="center"><i>Multiplayer State Reconciliation Research</i></p>
+      <p>Original N+1 simulation model derived from 4,000+ hours of Rocket League analysis.</p>
+      <ul>
+        <li><b>Verified</b>: 95.2% accuracy across 98 technical sources.</li>
+        <li><b>Academic</b>: Full BibTeX/APA citation support linked to ORCID.</li>
+        <li><b>Interactive</b>: Live documentation and simulation models.</li>
+        <li><b>Scope</b>: Physics prediction, latency compensation, and packet loss.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/POWDER-RANGER/nine-realities-netcode"><img src="https://img.shields.io/badge/View_Research-303030?style=for-the-badge&logo=github"></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 CharlesAI</h3>
+      <p align="center"><i>Autonomous Agent Platform</i></p>
+      <p><b>Observe → Plan → Act → Verify</b> loop powered by Perplexity & Prisma.</p>
+      <ul>
+        <li><b>Dashboard</b>: Real-time WebSocket UI with browser screenshots.</li>
+        <li><b>CDP Service</b>: Direct Chrome DevTools Protocol control.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/POWDER-RANGER/CharlesAI"><img src="https://img.shields.io/badge/View_Agent-303030?style=for-the-badge&logo=github"></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔐 OBELISK_CORE</h3>
+      <p align="center"><i>Zero-Trust Multi-Agent Governance</i></p>
+      <p>Where AI autonomy meets military-grade encryption.</p>
+      <ul>
+        <li><b>Vaults</b>: AES-256/PBKDF2 encryption for all agent memories.</li>
+        <li><b>Audit</b>: Immutable HMAC decision chains stored on IPFS/S3.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/POWDER-RANGER/OBELISK_CORE"><img src="https://img.shields.io/badge/View_Core-303030?style=for-the-badge&logo=github"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌟 What Makes My Work Different
-
-**I reverse-engineer production systems to build what doesn't exist yet.** Where others read documentation, I analyze architectural decisions through hands-on research. My projects don't follow tutorials—they solve problems I encountered while pushing technology boundaries.
-
-- 🔍 **Research-Driven**: 4000+ hours analyzing Rocket League netcode led to original N+1 simulation model
-- 🏗️ **Production-Grade**: Every repository includes CI/CD, tests, comprehensive docs, and MIT licensing
-- 🔒 **Security-First**: Cryptographic isolation, encrypted vaults, and auditable decision chains from day one
-- 🤝 **Team-Ready**: Contributing guidelines, issue templates, and documentation built for collaboration
-
----
-
-## 📊 Coding Stats
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 34 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I Mostly Code in Python** 
-
-```text
-Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-PowerShell               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/bar_graph.png)
-
-
- Last Updated on 03/01/2026 12:08:34 UTC
-<!--END_SECTION:waka-->
-
-## 📫 Get In Touch
-
-**Available for:** Full-time developer roles • Contract systems engineering • Technical collaboration on AI/networking/automation projects
-
-**Portfolio:** [powder-ranger.github.io](https://powder-ranger.github.io)
-
-**Sponsorship:** [github.com/sponsors/POWDER-RANGER](https://github.com/sponsors/POWDER-RANGER)
-
-**Location:** Remote-preferred | Keokuk, Iowa, USA
-
----
+<!-- STATS & ANALYTICS -->
+## 📊 System Telemetry
 
 <div align="center">
 
-*Building tools that make impossible workflows possible.*
+<img src="https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="Top Languages" />
 
-**© 2025 Curtis Charles Farrar • All projects MIT licensed**
+<!--START_SECTION:waka-->
+<img src="https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/bar_graph.png" alt="Coding Activity" width="100%">
+<!--END_SECTION:waka-->
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=POWDER-RANGER&color=667eea&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<h3><i>"I don't follow tutorials. I reverse-engineer production systems to build what doesn't exist yet."</i></h3>
+
+<p>
+<b>Contract Systems Engineering • AI Architecture • Security Audits</b><br>
+Keokuk, Iowa, USA (Remote-Preferred)
+</p>
+
+[**Portfolio**](https://powder-ranger.github.io) • [**Sponsor**](https://github.com/sponsors/POWDER-RANGER) • [**LinkedIn**](https://www.linkedin.com/in/curtis-farrar-20aa3525b)
+
+<br>
+
+**© 2026 Curtis Charles Farrar** • *All projects MIT Licensed unless otherwise noted.*
 
 </div>
