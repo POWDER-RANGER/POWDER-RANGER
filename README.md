@@ -197,14 +197,20 @@
 <!-- STATS & ANALYTICS -->
 ## 📊 System Telemetry
 
+<&layout=compact&theme=tokyonight&hide_border=## 📊 System Telemetry
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="Top Languages" />
+<!-- Replace dynamic GitHub cards with plain text stats -->
 
-<!--START_SECTION:waka-->
+**GitHub Overview**  
+**Public Repositories**: 30+ • **2026 Contributions**: 34+ • **Primary Languages**: Python, PowerShell, JavaScript, HTML, Java
+
+**Language Breakdown (Repos)**  
+Python 31.58% • PowerShell 15.79% • JavaScript 15.79% • HTML 10.53% • Java 5.26%
+
+<!-- Keep your own hosted activity graph only -->
 <img src="https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/bar_graph.png" alt="Coding Activity" width="100%">
-<!--END_SECTION:waka-->
 
 <br>
 
