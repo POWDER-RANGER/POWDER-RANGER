@@ -87,6 +87,45 @@
 
 <div align="center">
 
+## 🚀 Tech Stack & Live Metrics
+
+<div align="center">
+
+### Core Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### AI & Automation Stack
+
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Infrastructure & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Live GitHub Metrics
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=POWDER-RANGER&theme=tokyonight&hide_border=true&background=000000&stroke=667eea&ring=667eea&fire=ff6f00&currStreakLabel=e2e8f0)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=POWDER-RANGER&bg_color=000000&color=667eea&line=ff6f00&point=e2e8f0&area=true&hide_border=true)
+
+</div>
+
+---
+
+
 <a href="https://powder-ranger.github.io">
   <img src="https://img.shields.io/badge/🌐_PORTFOLIO-powder--ranger.github.io-ff1744?style=for-the-badge&labelColor=0f172a&color=ff1744" alt="Portfolio" />
 </a>
