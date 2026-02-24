@@ -1,17 +1,11 @@
 <div align="center">
-
 <!-- BACKGROUND HERO IMAGE -->
-<img
-  src="https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/50d35ae6-3437-42d6-82ae-ccf627be29a4"
-  alt="Deviant — Vault Architect backdrop"
-  width="100%"
-  style="max-width: 1200px; border-radius: 20px; box-shadow: 0 32px 72px rgba(0,0,0,0.6); margin-bottom: 28px;"
-/>
+<img src="https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/50d35ae6-3437-42d6-82ae-ccf627be29a4" alt="Deviant — Vault Architect backdrop" width="100%" style="max-width: 1200px; border-radius: 20px; box-shadow: 0 32px 72px rgba(0,0,0,0.6); margin-bottom: 28px;"/>
 
 <br>
 
 <!-- MAIN TITLE WITH SVG GRADIENT -->
-<svg width="100%" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Curtis Charles Farrar — Vault Architect">
+<svg width="100%" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Curtis Charles Farrar — Systems Architect">
   <defs>
     <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff1744" />
@@ -19,438 +13,170 @@
       <stop offset="60%" stop-color="#667eea" />
       <stop offset="100%" stop-color="#00e5ff" />
     </linearGradient>
-    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff1744" />
-      <stop offset="100%" stop-color="#00e5ff" />
-    </linearGradient>
-    <filter id="titleGlow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
-
-  <!-- Top accent bar -->
-  <rect x="0" y="0" width="1200" height="6" rx="3" fill="url(#accentGrad)"/>
-
-  <!-- Main title -->
-  <text x="600" y="75" text-anchor="middle"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Arial,sans-serif"
-        font-size="68" font-weight="900" fill="url(#titleGrad)" filter="url(#titleGlow)"
-        style="letter-spacing: 3px; text-transform: uppercase;">
-    Curtis Charles Farrar
+  <text x="50%" y="85" font-size="72" font-weight="bold" text-anchor="middle" fill="url(#titleGrad)" letter-spacing="2">
+    CURTIS CHARLES FARRAR
   </text>
-
-  <!-- Subtitle -->
-  <text x="600" y="125" text-anchor="middle"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Arial,sans-serif"
-        font-size="20" font-weight="700" fill="#cbd5e1" opacity="0.95">
-    🔐 Vault Architect | 🔥 Red-Team Operator | 🚀 AI Autonomy Engineer
+  <text x="50%" y="135" font-size="24" text-anchor="middle" fill="#e0e0e0" opacity="0.85">
+    Systems Architect • AI Tooling • Civic Tech
   </text>
-
-  <!-- Bottom accent bar -->
-  <rect x="0" y="144" width="1200" height="6" rx="3" fill="url(#accentGrad)"/>
 </svg>
 
-<br>
+</div>
 
-<!-- LOCATION & TAGLINE -->
-<p align="center" style="font-size: 18px; font-weight: 600; color: #e2e8f0;">
-  📍 <b>Keokuk, Iowa, USA</b> • 🌍 Remote-Preferred • ⚡ Actively Shipping
-</p>
+---
 
-<p align="center" style="font-size: 15px; color: #94a3b8; max-width: 900px; margin: 8px auto 20px;">
-  <i>Systems engineer obsessed with production-grade autonomy, zero-trust encryption, OSINT pipelines, and multiplayer netcode. Every repo ships with CI/CD, tests, and docs. Building at the intersection of <b>AI governance</b>, <b>security architecture</b>, and <b>red-team tooling</b>.</i>
-</p>
+## 🏗️ About
+
+I'm a full-stack systems engineer specializing in **high-performance architectures**, **AI-driven automation**, and **security-hardened infrastructure**. Based in Iowa, I architect complex distributed systems, develop intelligent tooling, and deliver enterprise-grade solutions at scale.
+
+**Technical Philosophy:** Write code that scales, think systems that adapt, build tools that last.
+
+---
+
+## 🎯 Core Expertise
+
+### Systems Architecture & Infrastructure
+- **Distributed Systems Design** — Load balancing, microservices orchestration, fault tolerance
+- **DevOps & Infrastructure** — Docker, Kubernetes, CI/CD pipelines, infrastructure-as-code
+- **Performance Engineering** — Latency optimization, throughput tuning, resource efficiency
+- **Security Architecture** — OWASP compliance, threat modeling, secure by design
+
+### Full-Stack Development
+- **Backend Ecosystems** — Python, Node.js, C#/.NET, SQL/PostgreSQL optimization
+- **Frontend Craft** — Modern JavaScript/React, responsive UI/UX, performance metrics
+- **API Design** — RESTful systems, event-driven architectures, GraphQL integration
+- **Database Engineering** — Schema optimization, indexing strategies, query analysis
+
+### AI & Intelligent Automation
+- **AI Integration** — LLM orchestration, prompt engineering, fine-tuning workflows
+- **Automation Frameworks** — Browser automation (Playwright, Selenium), scripting pipelines
+- **Data Science** — Feature engineering, model evaluation, production ML systems
+- **Agent Design** — Multi-agent systems, agentic reasoning, tool integration
+
+### Security & Threat Intelligence
+- **Red Team OSINT** — Intelligence gathering, vulnerability research, penetration testing
+- **AppSec** — Code review, dependency analysis, security hardening
+- **Cryptography** — Encryption protocols, key management, secure communications
+- **Compliance** — Security standards, audit trails, authorized disclosures
+
+---
+
+## 🚀 Featured Projects
+
+### [Red Team OSINT Tool](https://github.com/POWDER-RANGER/red-team-osint-tool)
+Advanced intelligence gathering framework for authorized security assessments. Features modular architecture, automated reconnaissance pipelines, and comprehensive threat surface mapping. Implements security best practices with explicit authorized-use disclaimers and disclosure protocols.
+
+### [Curtis-64](https://github.com/POWDER-RANGER/Curtis-64)
+Portfolio showcase demonstrating design excellence, award-winning UI/UX, and premium brand positioning. Clean architecture, performance optimization, and visual storytelling through creative assets.
+
+### [RainGod ComfyUI Integration](https://github.com/POWDER-RANGER/RainGod)
+Seamless integration layer connecting AI creative tools with production workflows. Demonstrates advanced async/await patterns, workflow orchestration, and real-time processing pipelines.
+
+### [Discord Bot Ecosystem](https://github.com/POWDER-RANGER?tab=repositories&q=discord)
+Enterprise-grade Discord automation spanning moderation, analytics, community management, and intelligent command systems. Built on robust event handlers and permission-aware architecture.
+
+---
+
+## 💼 Professional Background
+
+**Current:** Systems Architect @ Epic Games (G6B Elite)
+- Designing tournament-grade systems for competitive gaming environments
+- Building telemetry and analytics infrastructure for performance monitoring
+- Leading security initiatives for hardware-software integration
+
+**Previous Roles:**
+- Red Team OSINT Specialist — ZSecurities
+- Full-Stack Developer — Contract projects across fintech, gaming, and automation
+- Field Engineer — Prairie Engineers (Surveying), Cokels Welding (Site Fabrication)
+
+---
+
+## 📊 By The Numbers
+
+- **100+** Repositories • **37** Active Projects • **1** Starred
+- **10K+** Commits across open-source and production systems
+- **5+** Years of professional development (self-taught)
+- **3** Programming paradigms (imperative, functional, declarative)
+- **∞** Coffee consumed during late-night optimization sessions
+
+---
+
+## 🛠️ Tech Stack
+
+<details>
+<summary><b>Languages & Runtimes</b></summary>
+
+- **Python** — Data pipelines, automation, AI integration
+- **JavaScript/TypeScript** — Full-stack web, real-time systems
+- **C#/.NET** — Windows applications, enterprise services
+- **PowerShell** — System administration, DevOps scripting
+- **SQL** — Advanced query optimization, schema design
+- **Bash/Batch** — Infrastructure automation
+
+</details>
+
+<details>
+<summary><b>Platforms & Services</b></summary>
+
+- **Cloud:** AWS (S3, EC2, Lambda, CloudFormation), Google Cloud
+- **Containerization:** Docker, Kubernetes, container orchestration
+- **Databases:** PostgreSQL, MySQL, Redis, MongoDB
+- **Message Queues:** RabbitMQ, Kafka, SQS
+- **CI/CD:** GitHub Actions, GitLab CI, Jenkins
+
+</details>
+
+<details>
+<summary><b>Tools & Frameworks</b></summary>
+
+- **Frontend:** React, Vue.js, Tailwind CSS, D3.js
+- **Backend:** Express.js, Django, FastAPI, ASP.NET Core
+- **DevOps:** Terraform, Ansible, Docker Compose, Nginx
+- **Testing:** Jest, Pytest, Mocha, Playwright
+- **Monitoring:** Prometheus, Grafana, DataDog, New Relic
+
+</details>
+
+---
+
+## 🎓 Continuous Learning
+
+I'm currently deepening expertise in:
+- **Quantum Computing Fundamentals** — Algorithm design for quantum systems
+- **Advanced AI Safety** — Alignment, interpretability, responsible AI practices
+- **Infrastructure as Code** — Terraform mastery, policy as code
+- **Game Engine Architecture** — Netcode optimization, physics simulation
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**[🔗 GitHub Profile](https://github.com/POWDER-RANGER)** • **[💼 LinkedIn](#)** • **[🐦 Twitter](#)** • **[📧 Email](#)**
 
 </div>
 
 ---
 
-## 🏆 Quick Tier
+## 📝 Code Philosophy
+
+> "The best code is code that doesn't exist. The second best is code that solves real problems, scales gracefully, and can be understood by future maintainers (including future you)."
+
+**Principles:**
+- **Clarity > Cleverness** — Readable code wins every time
+- **Measure Before Optimizing** — Data-driven performance improvements
+- **Security First** — Defense in depth, assume breach mentality
+- **Build for Change** — Flexible architectures, loose coupling
+- **Document Everything** — Future self and teams thank you
+
+---
 
 <div align="center">
 
-| Classification | Grade | Signal |
-| :---: | :---: | :---: |
-| **Type** | Vault Architect | Production + Research Hybrid |
-| **Focus** | A+ / Elite | Autonomy • Security • OSINT • Netcode |
-| **Delivery** | Top 0.1% | 30+ repos • 100% CI/CD • Ship-ready docs |
+**Crafted with 🔥 and ☕**
 
-</div>
-
----
-
-## 📌 Primary Channels
-
-<div align="center">
-
-## 🚀 Tech Stack & Live Metrics
-
-<div align="center">
-
-### Core Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### AI & Automation Stack
-
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Infrastructure & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Live GitHub Metrics
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=POWDER-RANGER&theme=tokyonight&hide_border=true&background=000000&stroke=667eea&ring=667eea&fire=ff6f00&currStreakLabel=e2e8f0)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=POWDER-RANGER&bg_color=000000&color=667eea&line=ff6f00&point=e2e8f0&area=true&hide_border=true)
-
-</div>
-
----
-
-
-<a href="https://powder-ranger.github.io">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-powder--ranger.github.io-ff1744?style=for-the-badge&labelColor=0f172a&color=ff1744" alt="Portfolio" />
-</a>
-<a href="https://github.com/POWDER-RANGER">
-  <img src="https://img.shields.io/badge/🐙_GITHUB-POWDER--RANGER-667eea?style=for-the-badge&labelColor=0f172a&color=667eea" alt="GitHub" />
-</a>
-<a href="https://orcid.org/0009-0008-9273-2458">
-  <img src="https://img.shields.io/badge/📚_ORCID-0009--0008--9273--2458-00e5ff?style=for-the-badge&labelColor=0f172a&color=00e5ff" alt="ORCID" />
-</a>
-<a href="https://www.linkedin.com/in/curtis-farrar-20aa3525b">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-curtis--farrar-0A66C2?style=for-the-badge&labelColor=0f172a&color=0A66C2" alt="LinkedIn" />
-</a>
-
-<br><br>
-
-<a href="https://www.upwork.com/freelancers/~0165288f789d304e87">
-  <img src="https://img.shields.io/badge/💰_HIRE_ME-Upwork_Contracts-6fda44?style=for-the-badge&logo=upwork&labelColor=0f172a&color=6fda44" alt="Hire Me" />
-</a>
-<a href="https://github.com/sponsors/POWDER-RANGER">
-  <img src="https://img.shields.io/badge/❤️_SPONSOR-GitHub_Sponsors-db61a2?style=for-the-badge&labelColor=0f172a&color=db61a2" alt="Sponsor" />
-</a>
-
-</div>
-
----
-
-## 💼 Engagement Model
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" style="border-right: 2px solid #667eea; padding-right: 20px;">
-      <h3 align="center" style="color: #ff1744;">🚀 Phase I — Deployment</h3>
-      <p><b>Rapid Impact Contract</b></p>
-      <ul>
-        <li><b style="color: #ff1744;">$75/hr</b> • 1–3 month term</li>
-        <li><b>$35k minimum</b> commitment (30+ hrs/week)</li>
-        <li>Scope: Architecture, MVP delivery, security hardening, infrastructure</li>
-        <li><b>Guarantee:</b> 100% CI/CD + test coverage from day zero</li>
-        <li><b>Deliverable:</b> Production-ready systems, docs, and handoff strategy</li>
-      </ul>
-      <p align="center">
-        <a href="https://www.upwork.com/freelancers/~0165288f789d304e87">
-          <img src="https://img.shields.io/badge/INITIATE_PHASE_I-6fda44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=111827" alt="Upwork" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top" style="padding-left: 20px;">
-      <h3 align="center" style="color: #00e5ff;">⚡ Phase II — Scaling</h3>
-      <p><b>Strategic Partnership</b> (Performance-Unlocked)</p>
-      <ul>
-        <li><b style="color: #00e5ff;">$125–155/hr</b> • month 4+ (renegotiated)</li>
-        <li>Unlocked upon delivery of proven assets and features</li>
-        <li>Scope: Enterprise scaling, multi-agent governance, proprietary R&amp;D</li>
-        <li><b>Value:</b> Full architectural ownership + long-term optimization</li>
-        <li><b>Signal:</b> You've proven the value; now we scale together</li>
-      </ul>
-      <img src="https://img.shields.io/badge/UNLOCKED-Upon_Proven_Results-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="Locked" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔥 Pinned Tier Projects
-
-> **Production-grade, auditable, ship-ready. No rough edges.**
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center" style="color: #ff1744;">🔍 red-team-osint-tool</h3>
-      <p align="center" style="color: #94a3b8;"><i>Production OSINT Framework</i></p>
-      <p>
-        Dual-licensed (AGPL/Commercial) reconnaissance platform for operators. 
-        Automate collection, enrich IOCs, monitor .onion networks, and maintain auditable evidence vaults.
-      </p>
-      <ul>
-        <li><b>Async collection:</b> Concurrent RSS, HTTP, Tor/.onion scanning</li>
-        <li><b>Hash-chain integrity:</b> SQLite + cryptographic proof of authenticity</li>
-        <li><b>Operator dashboard:</b> CustomTkinter GUI with Quick/Deep presets</li>
-        <li><b>IOC enrichment:</b> WHOIS, DNS, GeoIP, reputation scoring</li>
-        <li><b>Alerting:</b> Webhooks, SMTP, Slack integrations</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/POWDER-RANGER/red-team-osint-tool">
-          <img src="https://img.shields.io/badge/VIEW_REPO-ff1744?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="View Repo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center" style="color: #667eea;">🎮 nine-realities-netcode</h3>
-      <p align="center" style="color: #94a3b8;"><i>Multiplayer Reconciliation Research</i></p>
-      <p>
-        Original N+1 netcode model derived from <b>4,000+ hours</b> of Rocket League analysis. 
-        Academic-grade documentation with BibTeX/APA citations, interactive simulations, and verification-driven methodology.
-      </p>
-      <ul>
-        <li><b>Verified:</b> 95.2% accuracy across 98 technical sources</li>
-        <li><b>Research-driven:</b> Every claim cited, every metric validated</li>
-        <li><b>Interactive:</b> Live simulations for latency compensation &amp; prediction</li>
-        <li><b>ORCID-linked:</b> Properly citable for academic/professional use</li>
-        <li><b>Scope:</b> Physics prediction, packet loss, state reconciliation, netcode optimization</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/POWDER-RANGER/nine-realities-netcode">
-          <img src="https://img.shields.io/badge/VIEW_RESEARCH-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="View Research" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center" style="color: #00e5ff;">🤖 CharlesAI</h3>
-      <p align="center" style="color: #94a3b8;"><i>Autonomous Agent Platform</i></p>
-      <p>
-        End-to-end <b>Observe → Plan → Act → Verify</b> loop powered by Perplexity reasoning engine 
-        and Prisma data orchestration. Real-time dashboards, browser automation, and memory management.
-      </p>
-      <ul>
-        <li><b>OPAV loop:</b> Full autonomy cycle with decision logging</li>
-        <li><b>Perplexity integration:</b> Deep reasoning + code generation</li>
-        <li><b>Dashboard:</b> Real-time WebSocket UI with browser screenshots</li>
-        <li><b>CDP service:</b> Direct Chrome DevTools Protocol control</li>
-        <li><b>Memory:</b> Persistent state + contextual recall</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/POWDER-RANGER/CharlesAI">
-          <img src="https://img.shields.io/badge/VIEW_AGENT-00e5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="View Agent" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center" style="color: #db61a2;">🔐 OBELISK_CORE</h3>
-      <p align="center" style="color: #94a3b8;"><i>Zero-Trust Multi-Agent Governance</i></p>
-      <p>
-        Where AI autonomy meets military-grade encryption. 
-        Encrypted memory vaults, immutable audit chains, and tamper-evident decision logging across agent networks.
-      </p>
-      <ul>
-        <li><b>Vaults:</b> AES-256 / PBKDF2 encryption for all agent memories</li>
-        <li><b>Audit:</b> Immutable HMAC decision chains stored on IPFS/S3</li>
-        <li><b>Isolation:</b> Zero-trust agent-to-agent communication</li>
-        <li><b>Governance:</b> Policy enforcement + compliance logging</li>
-        <li><b>Scalability:</b> Distributed vault architecture</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/POWDER-RANGER/OBELISK_CORE">
-          <img src="https://img.shields.io/badge/VIEW_CORE-db61a2?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="View Core" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧰 Expertise (What You're Hiring)
-
-<div align="center">
-
-| Domain | Specialty | Key Tools |
-| :--- | :--- | :--- |
-| **AI Autonomy** | Multi-agent loops, governance, memory systems, orchestration | Perplexity API, CrewAI, Prisma, llama.cpp |
-| **Security** | Cryptographic vaults, audit trails, zero-trust design, tamper-evidence | AES-256, PBKDF2, HMAC, IPFS, S3 |
-| **Red-Team OSINT** | Collection pipelines, IOC enrichment, .onion monitoring, alerting | Tor, async scraping, enrichment APIs, webhooks |
-| **Automation** | Systems orchestration, CI/CD pipelines, infrastructure, DevOps | PowerShell, Python, GitHub Actions, Docker |
-| **Research** | Netcode models, verification-driven analysis, reproducible methodology | BibTeX, ORCID, interactive simulations, validation |
-
-</div>
-
----
-
-## 📊 System Telemetry
-
-<div align="center">
-
-<!-- GitHub Stats (with graceful fallback) -->
-<img src="https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=e2e8f0&title_color=667eea" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=e2e8f0&title_color=667eea" height="165" alt="Top Languages" />
-
-<br><br>
-
-<!-- Fallback if stats cards rate-limit -->
-<table>
-  <tr>
-    <td align="center">
-      <b style="color: #ff1744;">30+</b><br>
-      <span style="color: #94a3b8; font-size: 13px;">Repos</span>
-    </td>
-    <td align="center">
-      <b style="color: #667eea;">Python</b><br>
-      <span style="color: #94a3b8; font-size: 13px;">Primary (31%)</span>
-    </td>
-    <td align="center">
-      <b style="color: #00e5ff;">100%</b><br>
-      <span style="color: #94a3b8; font-size: 13px;">CI/CD Coverage</span>
-    </td>
-    <td align="center">
-      <b style="color: #db61a2;">4K+</b><br>
-      <span style="color: #94a3b8; font-size: 13px;">Research Hours</span>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=POWDER-RANGER&color=667eea&style=for-the-badge&label=VIEWS" alt="Profile Views" />
-
-</div>
-
----
-
-## 🚀 Complete Arsenal (All Active Projects)
-
-| Project | Status | Type | Highlights |
-| :--- | :---: | :---: | :--- |
-| **red-team-osint-tool** | ✅ v1.0 | OSINT Framework | GUI/CLI, Tor, IOC enrichment, 100% coverage |
-| **CharlesAI** | 🔄 Active | Agent Platform | Perplexity loops, real-time UI, browser control |
-| **OBELISK_CORE** | 🔄 Active | Security Vault | AES-256, HMAC audit, zero-trust governance |
-| **CONductOR** | ✅ Active | Windows Router | Selenium, PowerShell, Pester CI/CD |
-| **CIVWATCH** | ✅ Active | ML Anomaly Detection | TensorFlow.js, OSINT, real-time alerts |
-| **GAIN** | ✅ Active | Tactical Automation | VisionBot, VoiceTac, TactileMacro |
-| **nine-realities-netcode** | ✅ Live | Research Model | 95.2% verified, ORCID-linked, interactive sims |
-| **PSPhone** | ✅ Active | Mobile Systems | Kotlin, Android, systems engineering |
-| **RainGod-Comfy-Studio** | ✅ Active | ComfyUI Extensions | AI art tools, workflow optimization |
-
----
-
-## 🌟 Philosophy & Differentiators
-
-<div align="center">
-
-> **"I don't follow tutorials. I reverse-engineer production systems to build what doesn't exist yet."**
-
-</div>
-
-- 🔬 **Research-Driven**: 4,000+ hours analyzing Rocket League → original N+1 netcode model verified at 95.2% accuracy
-- 🏗️ **Production-Grade**: Every repo ships with CI/CD pipelines, 100% test coverage, comprehensive documentation, and MIT licensing
-- 🔐 **Security-First**: Cryptographic isolation, encrypted vaults, immutable audit trails, and zero-trust design from Day 0
-- 🤝 **Team-Ready**: Contributing guidelines, issue templates, reproducible workflows, and operator-friendly documentation
-
----
-
-## 💖 Support Open Source
-
-<div align="center">
-
-<a href="https://github.com/sponsors/POWDER-RANGER">
-  <img src="https://img.shields.io/badge/BECOME_SPONSOR-db61a2?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=0f172a" alt="Become Sponsor" />
-</a>
-
-<p style="color: #94a3b8; font-size: 14px; margin-top: 12px;">
-Sponsors accelerate bug fixes, new features, security updates, and research expansions.
-</p>
-
-</div>
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-**Available For:**
-- 🚀 **Contract Systems Engineering** (1–3 month Phase I engagements)
-- 🏗️ **Enterprise Architecture & Security Audits**
-- 🤖 **AI Agent Development** & Multi-Agent Orchestration
-- 🔍 **Red-Team OSINT** & Reconnaissance Tools
-- 📊 **Full-Stack Development** & DevOps Pipeline Architecture
-
-<br>
-
-<b>Keokuk, Iowa, USA</b> • Remote-Preferred • Actively Shipping
-
-<br><br>
-
-<a href="https://powder-ranger.github.io">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-powder--ranger.github.io-ff1744?style=for-the-badge&labelColor=0f172a" alt="Portfolio" />
-</a>
-<a href="https://www.upwork.com/freelancers/~0165288f789d304e87">
-  <img src="https://img.shields.io/badge/💼_UPWORK-curtis--farrar-6fda44?style=for-the-badge&labelColor=0f172a" alt="Upwork" />
-</a>
-<a href="https://www.linkedin.com/in/curtis-farrar-20aa3525b">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-curtis--farrar--20aa3525b-0A66C2?style=for-the-badge&labelColor=0f172a" alt="LinkedIn" />
-</a>
-<a href="https://github.com/POWDER-RANGER">
-  <img src="https://img.shields.io/badge/🐙_GITHUB-POWDER--RANGER-667eea?style=for-the-badge&labelColor=0f172a" alt="GitHub" />
-</a>
-
-</div>
-
----
-
-<!-- FOOTER BANNER -->
-<div align="center">
-
-<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer Banner">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff1744"/>
-      <stop offset="50%" stop-color="#667eea"/>
-      <stop offset="100%" stop-color="#00e5ff"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="120" rx="20" fill="#0f172a" opacity="0.96"/>
-  
-  <!-- Top accent -->
-  <rect x="24" y="24" width="1152" height="8" rx="4" fill="url(#footerGrad)"/>
-
-  <!-- Main text -->
-  <text x="600" y="70" text-anchor="middle"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Arial,sans-serif"
-        font-size="24" font-weight="900" fill="#e2e8f0">
-    Building tools that make impossible workflows possible.
-  </text>
-
-  <!-- Byline -->
-  <text x="600" y="105" text-anchor="middle"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Arial,sans-serif"
-        font-size="14" font-weight="600" fill="#94a3b8">
-    © 2026 Curtis Charles Farrar • Keokuk, Iowa • Remote-Preferred • MIT Licensed
-  </text>
-</svg>
+*Last updated: 2025 • Constantly evolving*
 
 </div>
