@@ -200,7 +200,7 @@ I'm currently deepening expertise in:
 
 <div align="center">
 
-**Crafted with 🔥 a**
+**Crafted with 🔥 **
 
 *Last updated: 2025 • Constantly evolving*
 
