@@ -32,6 +32,31 @@ I'm a full-stack systems engineer specializing in **high-performance architectur
 
 **Technical Philosophy:** Write code that scales, think systems that adapt, build tools that last.
 
+## 📊 Live Dev Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Curtis GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&theme=radical&langs_count=10&hide=css,html" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=POWDER-RANGER&theme=radical&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
+</p>
+
+## ⏱️ Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=POWDER-RANGER&theme=dracula&row=1&column=7&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
 ---
 
 ## 🎯 Core Expertise
@@ -175,7 +200,7 @@ I'm currently deepening expertise in:
 
 <div align="center">
 
-**Crafted with 🔥 and ☕**
+**Crafted with 🔥 a**
 
 *Last updated: 2025 • Constantly evolving*
 
