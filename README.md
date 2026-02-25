@@ -49,6 +49,76 @@ I'm a full-stack systems engineer specializing in **high-performance architectur
 ## ⏱️ Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2034%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 129 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                485 commits         █████████░░░░░░░░░░░░░░░░   36.06 % 
+🌆 Daytime                487 commits         █████████░░░░░░░░░░░░░░░░   36.21 % 
+🌃 Evening                254 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+🌙 Night                  119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Tuesday                  76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Wednesday                124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Thursday                 73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Friday                   51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Saturday                 824 commits         ███████████████░░░░░░░░░░   61.26 % 
+Sunday                   149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+PowerShell               4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/bar_graph.png)
+
+
+ Last Updated on 25/02/2026 00:25:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
