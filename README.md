@@ -196,6 +196,8 @@ Currently deepening expertise in:
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:curtis@powder-ranger.dev)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9273-2458)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat&logo=google-chrome&logoColor=white)](https://powder-ranger.github.io)
+🤑
+https://powder-ranger.github.io/dollar-gravity-framework/
 
 ---
 
