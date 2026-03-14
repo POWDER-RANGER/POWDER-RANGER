@@ -3,7 +3,7 @@
 # ⚡ POWDER-RANGER
 ## Systems Architect • AI Security • Civic Intelligence
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+Systems+Architect;Multi-agent+AI+Builder;AI+Security+%26+Red+Team;Building+Civic+Intelligence+Tools;Distributed+Systems+Engineer;Real-time+Anomaly+Detection;OSINT+Automation+Specialist&fontSize=18&color=00FF9F&center=true&vCenter=true&width=700)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+Systems+Architect;Multi-agent+AI+Builder;AI+Security+%26+Red+Team;Building+Civic+Intelligence+Tools;Distributed+Systems+Engineer;Real-time+Anomaly+Detection;OSINT+Automation+Specialist;Zero-Trust+Architect;Civic+Transparency+Pioneer;STM32+Firmware+Engineer;Netcode+Researcher&fontSize=18&color=00FF9F&center=true&vCenter=true&width=700)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/POWDER-RANGER?style=social&label=Follow)](https://github.com/POWDER-RANGER)
 [![GitHub User's stars](https://img.shields.io/github/stars/POWDER-RANGER?affiliations=OWNER&style=social&label=Stars)](https://github.com/POWDER-RANGER)
@@ -11,6 +11,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9273--2458-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9273-2458)
 [![License](https://img.shields.io/github/license/POWDER-RANGER/POWDER-RANGER?style=flat)](https://github.com/POWDER-RANGER)
 [![GitHub last commit](https://img.shields.io/github/last-commit/POWDER-RANGER?style=flat)](https://github.com/POWDER-RANGER)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/POWDER-RANGER?style=social)](https://github.com/sponsors/POWDER-RANGER)
 
 **Full-stack systems architect. Multi-agent AI builder. Red team OSINT specialist. Civic intelligence pioneer.**
 
@@ -35,7 +36,7 @@
 
 ## 🏗️ About Me
 
-I'm **Curtis Charles Farrar** — independent systems engineer and AI security architect based in Muscatine, Iowa (with roots in Wisconsin field work).
+I'm **Curtis Charles Farrar** — independent systems engineer and AI security architect based in Muscatine, Iowa (with roots in Wisconsin field work and traveling welding).
 
 Core expertise broken down in depth:
 - 🏛️ **Distributed Systems** — Microservices architecture design, CI/CD pipelines, Docker orchestration, fault-tolerant distributed computing, Kubernetes-inspired patterns on bare metal
@@ -43,7 +44,7 @@ Core expertise broken down in depth:
 - 🔐 **Security & OSINT** — AES-256 encrypted vaults with PBKDF2 key derivation, HMAC integrity checks, OAuth2 hardening, red team reconnaissance automation, SIM-to-IMEI correlation modules
 - 🎮 **Gaming Systems** — Competitive netcode research for low-latency multiplayer, STM32H7 microcontroller firmware engineering, Rocket League physics optimization and controller mapping
 
-**Extended Philosophy (10 principles that guide every line of code I write):**
+**Extended Philosophy (12 principles that guide every line of code I write):**
 1. Write code that scales horizontally without breaking.
 2. Think in systems that adapt to adversarial environments.
 3. Build tools that last decades, not just until the next funding round.
@@ -54,6 +55,10 @@ Core expertise broken down in depth:
 8. Design for failure — every component must have graceful degradation.
 9. Contribute back to open source whenever possible.
 10. Measure success by real-world impact on transparency and sovereignty.
+11. Always validate inputs and audit outputs in multi-agent systems.
+12. Keep civic intelligence tools open and auditable by design.
+
+This philosophy shapes every repo, every commit, and every deployment.
 
 ---
 
@@ -80,6 +85,10 @@ Core expertise broken down in depth:
 - Pull requests merged: 180+
 - Issues resolved: 95+
 - Stars earned in 2026 alone: 51 (and climbing)
+- Repositories with active CI/CD: 28
+- Docker images published: 14
+- Trivy security scans passed: 100% on all public repos
+- Open-source contributions in 2026: 700+
 
 ---
 
@@ -95,6 +104,7 @@ flowchart TD
         C1 & C2 & C3 --> D[AES-256 + PBKDF2 IPFS/S3 Vaults]
         D --> E[Output with Audit Trail]
     end
+flowchart TD
     subgraph CIVWATCH ["🔍 CIVWATCH Platform"]
         F[Multi-Source Ingestion RSS/API/Upload] --> G[FastAPI ML Pipeline]
         G --> H[PostgreSQL + Redis + Alert Rules]
@@ -108,17 +118,7 @@ flowchart TD
         M --> N[React + Canvas Real-time Orbit Simulation]
         N --> O[Interactive 3D Visualization on GitHub Pages]
     end
-gantt
-    title 2026 Development Roadmap
-    dateFormat  YYYY-MM
-    section OBELISK
-    M0 Complete          :done, 2025-10, 2026-01
-    M1 Governance Layer  :active, 2026-02, 90d
-    section CIVWATCH
-    Backend 80%          :active, 2026-03, 60d
-    Frontend Launch      : 2026-05, 30d
-    section Dollar-Gravity
-    Nuclear Layer Add    : 2026-04, 45d
+
 gantt
     title POWDER-RANGER Public Roadmap
     dateFormat  YYYY-MM
@@ -129,28 +129,4 @@ gantt
     section New Initiatives
     AI Security Vault        : 2026-10, 90d
     Civic OSINT Dashboard    : 2027-01, 120d
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: POWDER-RANGER
-          svg_out_path: dist/github-snake.svg
-      - uses: crazy-max/ghaction-import-gpg@v6
-      - uses: stefanzweifel/git-auto-commit-action@v5
-name: Generate 3D Graph
-on:
-  schedule: [{ cron: "0 0 * * 0" }]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: yoshi389111/github-profile-3d-contrib@master
-        with:
-          username: POWDER-RANGER
+
