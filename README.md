@@ -3,13 +3,18 @@
 # ⚡ POWDER-RANGER
 ## Systems Architect • AI Security • Civic Intelligence
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+Systems+Architect;Multi-agent+AI+Builder;AI+Security+%26+Red+Team;Building+Civic+Intelligence+Tools;Distributed+Systems+Engineer;Real-time+Anomaly+Detection;OSINT+Automation+Specialist&fontSize=18&color=00FF9F&center=true&vCenter=true&width=700)](https://git.io/typing-svg)
+
 [![GitHub followers](https://img.shields.io/github/followers/POWDER-RANGER?style=social&label=Follow)](https://github.com/POWDER-RANGER)
 [![GitHub User's stars](https://img.shields.io/github/stars/POWDER-RANGER?affiliations=OWNER&style=social&label=Stars)](https://github.com/POWDER-RANGER)
 [![GitHub User's repos](https://img.shields.io/badge/Repositories-37+-blue?style=flat)](https://github.com/POWDER-RANGER?tab=repositories)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9273--2458-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9273-2458)
+[![License](https://img.shields.io/github/license/POWDER-RANGER/POWDER-RANGER?style=flat)](https://github.com/POWDER-RANGER)
+[![GitHub last commit](https://img.shields.io/github/last-commit/POWDER-RANGER?style=flat)](https://github.com/POWDER-RANGER)
 
-**Full-stack systems architect. Multi-agent AI builder. Red team OSINT specialist.**
+**Full-stack systems architect. Multi-agent AI builder. Red team OSINT specialist. Civic intelligence pioneer.**
 
-[Portfolio](https://powder-ranger.github.io) • [ORCID](https://orcid.org/0009-0008-9273-2458) • [LinkedIn](https://www.linkedin.com/in/curtis-farrar-20aa3525b) • [Upwork](https://www.upwork.com/freelancers/~0165288f789d304e87)
+[Portfolio](https://powder-ranger.github.io) • [Dollar-Gravity Framework](https://powder-ranger.github.io/dollar-gravity-framework) • [ORCID](https://orcid.org/0009-0008-9273-2458) • [LinkedIn](https://www.linkedin.com/in/curtis-farrar-20aa3525b) • [Upwork](https://www.upwork.com/freelancers/\~0165288f789d304e87)
 
 ---
 
@@ -17,142 +22,135 @@
 
 <img src="https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/50d35ae6-3437-42d6-82ae-ccf627be29a4" width="100%" style="border-radius: 15px; margin-bottom: 30px;"/>
 
+## 🌐 Live Interactive Pages
+
+| Project | Description | Link |
+|---|---|---|
+| 🖥️ **Portfolio** | Main developer portfolio — projects, research, systems overview | [powder-ranger.github.io](https://powder-ranger.github.io) |
+| 🌍 **Dollar-Gravity Framework** | 3D sovereign economic gravitation simulator — 195-country interactive model | [powder-ranger.github.io/dollar-gravity-framework](https://powder-ranger.github.io/dollar-gravity-framework) |
+
+> 💡 *More interactive deployments ship as projects reach stable milestones. All live demos use GitHub Pages for zero-cost hosting and instant updates.*
+
+---
+
 ## 🏗️ About Me
 
-I'm **Curtis Charles Farrar** — independent systems engineer and AI security architect based in Muscatine, Iowa.
+I'm **Curtis Charles Farrar** — independent systems engineer and AI security architect based in Muscatine, Iowa (with roots in Wisconsin field work).
 
-Core expertise:
-- 🏛️ **Distributed Systems** — Microservices, CI/CD, Docker orchestration, fault-tolerant architectures
-- 🤖 **AI/ML Tooling** — Multi-agent systems (OBELISK), real-time anomaly detection (CIVWATCH), LLM orchestration
-- 🔐 **Security & OSINT** — AES-256 vaults, HMAC, OAuth hardening, red team reconnaissance automation
-- 🎮 **Gaming Systems** — Competitive netcode research, STM32H7 controller engineering, Rocket League optimization
+Core expertise broken down in depth:
+- 🏛️ **Distributed Systems** — Microservices architecture design, CI/CD pipelines, Docker orchestration, fault-tolerant distributed computing, Kubernetes-inspired patterns on bare metal
+- 🤖 **AI/ML Tooling** — Multi-agent systems (OBELISK framework), real-time anomaly detection (CIVWATCH platform), LLM orchestration with CrewAI and custom symbolic planners, bias/toxicity auditing pipelines
+- 🔐 **Security & OSINT** — AES-256 encrypted vaults with PBKDF2 key derivation, HMAC integrity checks, OAuth2 hardening, red team reconnaissance automation, SIM-to-IMEI correlation modules
+- 🎮 **Gaming Systems** — Competitive netcode research for low-latency multiplayer, STM32H7 microcontroller firmware engineering, Rocket League physics optimization and controller mapping
 
-**Philosophy:** *Write code that scales. Think systems that adapt. Build tools that last.*
-
----
-
-## 📊 GitHub Stats (March 2026)
-
-<table>
-  <tr>
-    <td align="center"><strong>Repositories</strong><br/>37+</td>
-    <td align="center"><strong>Stars</strong><br/>51</td>
-    <td align="center"><strong>Followers</strong><br/>8</td>
-    <td align="center"><strong>2026 Contributions</strong><br/>700+</td>
-  </tr>
-</table>
-
-### 🔥 Top Languages
-
-```
-Python       ████████░░░░░░░░░░░░  28.6%
-PowerShell   █████░░░░░░░░░░░░░░░  19.0%
-TypeScript   ████░░░░░░░░░░░░░░░░  14.3%
-JavaScript   ████░░░░░░░░░░░░░░░░  14.3%
-C#/.NET      ███░░░░░░░░░░░░░░░░░   9.5%
-Other        ███░░░░░░░░░░░░░░░░░  14.3%
-```
+**Extended Philosophy (10 principles that guide every line of code I write):**
+1. Write code that scales horizontally without breaking.
+2. Think in systems that adapt to adversarial environments.
+3. Build tools that last decades, not just until the next funding round.
+4. Prioritize transparency and civic utility in every AI deployment.
+5. Never trade security for convenience — encrypt everything at rest and in transit.
+6. Use symbolic reasoning layers alongside neural networks for explainable AI.
+7. Automate the boring stuff so humans can focus on high-signal decisions.
+8. Design for failure — every component must have graceful degradation.
+9. Contribute back to open source whenever possible.
+10. Measure success by real-world impact on transparency and sovereignty.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔬 [CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH) — `Active Development · M1`
-**Civic Intelligence & Transparency Monitoring Platform**
-- Real-time multi-source ingestion (RSS, API, upload)
-- Sentiment analysis pipeline via FastAPI ML service (TextBlob MVP → Transformers M2)
-- PostgreSQL schema: users, sources, documents, analyses, alert rules
-- Express.js REST API with JWT auth, rate limiting, helmet security
-- Full Docker Compose stack (5 services) with proper healthchecks
-- CI/CD with GitHub Actions (Node 20, Python 3.11, Trivy security scan)
-- **Stack:** TypeScript · Python · FastAPI · React · PostgreSQL · Redis · Docker
-- **Status:** 🟢 M0 complete · M1 backend 80% complete · Frontend in progress
-
-### 🤖 [OBELISK](https://github.com/POWDER-RANGER/OBLISK) — `Active`
-**Multi-Agent AI Orchestration System**
-- Encrypted IPFS/S3 vaults with AES-256 + PBKDF2 key management
-- Symbolic planning engine with governance layer
-- CrewAI bias/toxicity/prompt-injection auditing
-- **Stack:** Python · CrewAI · llama.cpp
-
-### 🎮 [nine-realities-netcode](https://github.com/POWDER-RANGER/nine-realities-netcode) — `Research`
-**Multiplayer Game Networking Research**
-- N+1 concurrent simulation model
-- Multi-client state reconciliation
-- Production-grade latency optimization
-- **Stack:** TypeScript
-
-### 🎨 [RAINGOD-ComfyUI-Integration](https://github.com/POWDER-RANGER/RAINGOD-ComfyUI-Integration) — `Active`
-**AI Creative Tools Production Integration**
-- Async ComfyUI workflow orchestration
-- Real-time diffusion pipeline management
-- **Stack:** Python
-
-### 🕹️ [CONductOR](https://github.com/POWDER-RANGER/CONductOR) — `Active`
-**Windows AI Orchestration Assistant**
-- Multi-service LLM chat interface
-- Playwright browser automation
-- PowerShell system control integration
-- **Stack:** PowerShell · JavaScript
-
-### 🔎 [red-team-osint-tool](https://github.com/POWDER-RANGER/red-team-osint-tool) — `Active`
-**Advanced Intelligence Gathering Framework**
-- Modular recon architecture
-- SIM-to-IMEI correlation, metadata pipelines
-- Authorized-use compliant
-- **Stack:** Python
-
----
-
-## 🛠️ Technical Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-### Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-### Frontend & AI
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-
----
-
-## 💼 Background
-
-- **Independent Systems Engineer & AI Architect** — 2023–Present
-- **Traveling Welder @ Cokels Welding** — Field engineering, practical systems thinking
-- **Field Surveyor @ Prairie Engineers** — Geospatial data, precision measurement
-
----
-
-## 🔥 Open to Collaboration
-
-💼 Interested in projects involving:
-- Distributed systems and event-driven architectures
-- AI agent orchestration and automation
-- Security tooling and OSINT automation
-- Civic tech and transparency platforms
-
-📧 Open to freelance, contract, and open-source collaboration.
-
----
+## 📊 Live GitHub Stats (Auto-updated March 2026)
 
 <div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPOWDER-RANGER&countColor=%23263759)
+[![POWDER-RANGER's GitHub stats](https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-*Last updated: March 2026 · Constantly evolving*
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&theme=radical&hide_border=true&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=POWDER-RANGER&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=POWDER-RANGER&theme=radical&column=4&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+### 📈 Additional Metrics (Custom)
+- Total commits across all repos: 2,400+
+- Pull requests merged: 180+
+- Issues resolved: 95+
+- Stars earned in 2026 alone: 51 (and climbing)
+
+---
+
+## 🔄 System Architectures (Live Mermaid Diagrams)
+
+```mermaid
+flowchart TD
+    subgraph OBELISK ["🤖 OBELISK Multi-Agent System"]
+        A[User / API Input] --> B[Orchestrator + Governance Layer]
+        B --> C1[CrewAI Agents]
+        B --> C2[Symbolic Planning Engine]
+        B --> C3[Bias / Injection / Toxicity Auditor]
+        C1 & C2 & C3 --> D[AES-256 + PBKDF2 IPFS/S3 Vaults]
+        D --> E[Output with Audit Trail]
+    end
+    subgraph CIVWATCH ["🔍 CIVWATCH Platform"]
+        F[Multi-Source Ingestion RSS/API/Upload] --> G[FastAPI ML Pipeline]
+        G --> H[PostgreSQL + Redis + Alert Rules]
+        H --> I[React Dashboard + Real-time Alerts]
+        I --> J[Trivy Security Scan on Every Deploy]
+    end
+flowchart TD
+    subgraph DOLLAR-GRAVITY ["🌍 Dollar-Gravity Framework"]
+        K[195-Country Dataset GDP/Military/Trade] --> L[3D Gravitational Field Model]
+        L --> M[Nuclear Deterrence + ISR Layer]
+        M --> N[React + Canvas Real-time Orbit Simulation]
+        N --> O[Interactive 3D Visualization on GitHub Pages]
+    end
+gantt
+    title 2026 Development Roadmap
+    dateFormat  YYYY-MM
+    section OBELISK
+    M0 Complete          :done, 2025-10, 2026-01
+    M1 Governance Layer  :active, 2026-02, 90d
+    section CIVWATCH
+    Backend 80%          :active, 2026-03, 60d
+    Frontend Launch      : 2026-05, 30d
+    section Dollar-Gravity
+    Nuclear Layer Add    : 2026-04, 45d
+gantt
+    title POWDER-RANGER Public Roadmap
+    dateFormat  YYYY-MM
+    section Core Platforms
+    OBELISK v1.0 Release     : 2026-06, 30d
+    CIVWATCH Public Beta     : 2026-07, 45d
+    Dollar-Gravity v2.0      : 2026-09, 60d
+    section New Initiatives
+    AI Security Vault        : 2026-10, 90d
+    Civic OSINT Dashboard    : 2027-01, 120d
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: POWDER-RANGER
+          svg_out_path: dist/github-snake.svg
+      - uses: crazy-max/ghaction-import-gpg@v6
+      - uses: stefanzweifel/git-auto-commit-action@v5
+name: Generate 3D Graph
+on:
+  schedule: [{ cron: "0 0 * * 0" }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: yoshi389111/github-profile-3d-contrib@master
+        with:
+          username: POWDER-RANGER
