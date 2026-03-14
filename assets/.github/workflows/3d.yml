@@ -1,0 +1,11 @@
+name: Generate 3D Graph
+on:
+  schedule: [{ cron: "0 0 * * 0" }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: yoshi389111/github-profile-3d-contrib@master
+        with:
+          username: POWDER-RANGER
