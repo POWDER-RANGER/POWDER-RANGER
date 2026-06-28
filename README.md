@@ -1,7 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/banner.jpg" width="100%" alt="POWDER-RANGER Systems Architect Banner" />
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/banner.png"
+    width="100%"
+    alt="POWDER-RANGER GitHub Profile Banner"
+  />
+</p>
 <br>
 
 <img src="https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/avatar.jpg" width="180px" style="border-radius: 50%; border: 3px solid #00FF88;" alt="POWDER-RANGER Avatar" />
