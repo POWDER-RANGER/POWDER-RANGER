@@ -47,7 +47,7 @@ The portfolio is the map. Individual systems ship their own GitHub Pages.
 
 ## Stack
 
-Python · TypeScript · PowerShell · Rust · C/C++ · Kotlin · Java · GDScript  
+Python · TypeScript · PowerShell · Rust · C/C++ · Kotlin · Java · GDScript · Unreal Engine  
 Ollama · llama.cpp / GGUF · AES-256-GCM · HMAC-SHA256 · Docker · Actions · PostgreSQL
 
 ## Activity
@@ -60,14 +60,22 @@ Ollama · llama.cpp / GGUF · AES-256-GCM · HMAC-SHA256 · Docker · Actions ·
 
 ## Credentials
 
-Listed as issued. Course completions are not treated as board certifications.
+Listed as issued. Course completions are not treated as board certifications. Developer-portal access is not employment.
 
 - **C|OSINT|P**, ZSecurity (July 2025)
 - **Udemy / zSecurity** — [Learn Network Hacking From Scratch (WiFi & Wired)](https://ude.my/UC-6a3f028b-9e79-4995-a082-256746365699), Zaid Sabih · 8 hours · 27 Jul 2025 · cert `UC-6a3f028b-9e79-4995-a082-256746365699`
 - **Google Build with AI · AI Learning Lab** — Build your first app with Antigravity 2.0 · Jul 2026 · Google Developer Experts (Ajeet Mirwani)
-- **GitHub org:** member of [EpicGames](https://github.com/EpicGames) `Developers` team (public Unreal / Epic developer access — not employment)
 - **ORCID** [0009-0008-9273-2458](https://orcid.org/0009-0008-9273-2458)
 - GitHub [achievements](https://github.com/POWDER-RANGER?tab=achievements)
+
+## Unreal / Epic developer access
+
+Independent studio on Epic’s developer tools. Not an Epic Games employee.
+
+- **Owner**, [G6B-Elite Gaming Systems](https://dev.epicgames.com) on the Epic Developer Portal
+- Store product in portal: *Reality Recharged* (Epic Games Store / Unreal / Epic Online Services — not a published live title yet)
+- Unreal Engine source access via [EpicGames](https://github.com/EpicGames) GitHub `Developers` team (licensed source community; tens of thousands of members)
+- Unreal Marketplace seller account (Cryptic Enigma Emporium) — no published marketplace products as of the last check
 
 ## Principles
 
