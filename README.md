@@ -9,9 +9,9 @@
 
 [Portfolio](https://powder-ranger.github.io) · [Live pages](https://powder-ranger.github.io/pages.html) · [NSO Kryptonite](https://powder-ranger.github.io/nso-kryptonite-platform/) · [ORCID](https://orcid.org/0009-0008-9273-2458)
 
-[![Followers](https://img.shields.io/github/followers/POWDER-RANGER?style=for-the-badge&logo=github&color=DC143C&labelColor=0A0A0F)](https://github.com/POWDER-RANGER?tab=followers)
-[![Stars](https://img.shields.io/github/stars/POWDER-RANGER?affiliations=OWNER&style=for-the-badge&logo=github&color=DC143C&labelColor=0A0A0F)](https://github.com/POWDER-RANGER?tab=repositories)
-[![C|OSINT|P](https://img.shields.io/badge/C%7COSINT%7CP-ZSecurity_2025-DC143C?style=for-the-badge&labelColor=0A0A0F)](https://github.com/POWDER-RANGER)
+[![Followers](https://img.shields.io/github/followers/POWDER-RANGER?style=for-the-badge&logo=github&color=E31C23&labelColor=0A0A0F)](https://github.com/POWDER-RANGER?tab=followers)
+[![Stars](https://img.shields.io/github/stars/POWDER-RANGER?affiliations=OWNER&style=for-the-badge&logo=github&color=E31C23&labelColor=0A0A0F)](https://github.com/POWDER-RANGER?tab=repositories)
+[![C|OSINT|P](https://img.shields.io/badge/C%7COSINT%7CP-ZSecurity_2025-E31C23?style=for-the-badge&labelColor=0A0A0F)](https://github.com/POWDER-RANGER)
 [![Portfolio](https://img.shields.io/badge/Site-powder--ranger.github.io-FF1744?style=for-the-badge&logo=githubpages&labelColor=0A0A0F)](https://powder-ranger.github.io)
 
 </div>
@@ -29,7 +29,8 @@
 
 ## Flagship systems
 
-**Released** — tagged, working code · **Beta** — end-to-end with known gaps · **In development** — design ahead of code · **Research** — experimental
+**Released** — tagged, working code · **Beta** — end-to-end with 
+known gaps · **In development** — design ahead of code · **Research** — experimental
 
 | System | Domain | What it does | Status | Live |
 |---|---|---|---|---|
@@ -54,7 +55,8 @@ Ollama · llama.cpp / GGUF · AES-256-GCM · HMAC-SHA256 · Docker · Actions ·
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=POWDER-RANGER&theme=dark&hide_border=true&background=0A0A0F&ring=DC143C&fire=FF1744&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=FF1744&sideLabels=9AA0AA&dates=9AA0AA" alt="Contribution streak" width="68%" />
+<img src="https://streak-stats.demolab.com?user=POWDER-RANGER&theme=dark&hide_border=true&background=0A0A0F&ring=E31C23&fire=FF1744&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=FF1744&sideLabels=9AA0AA&dates=9AA0AA" alt="Contribution streak" wi
+dth="68%" />
 
 </div>
 
@@ -93,7 +95,8 @@ Contributions to [MetaHuman-DNA-Calibration](https://github.com/EpicGames/MetaHu
 [powder-ranger-bot](https://github.com/POWDER-RANGER/powder-ranger-bot) · [dojin-d](https://github.com/POWDER-RANGER/dojin-d)
 
 **Tooling and data**  
-[contextual-memory-ui](https://github.com/POWDER-RANGER/contextual-memory-ui) · [dollar-gravity-framework](https://github.com/POWDER-RANGER/dollar-gravity-framework) · [ai-nexus](https://github.com/POWDER-RANGER/ai-nexus)
+[contextual-memory-ui](https://github.com/POWDER-
+RANGER/contextual-memory-ui) · [dollar-gravity-framework](https://github.com/POWDER-RANGER/dollar-gravity-framework) · [ai-nexus](https://github.com/POWDER-RANGER/ai-nexus)
 
 **Creative**  
 [raingod-studio-v4](https://github.com/POWDER-RANGER/raingod-studio-v4) · [RainGod-Comfy-Studio](https://github.com/POWDER-RANGER/RainGod-Comfy-Studio) · [powder-ranger-stone](https://github.com/POWDER-RANGER/powder-ranger-stone) · [Artifact-Catalog](https://github.com/POWDER-RANGER/Artifact-Catalog)

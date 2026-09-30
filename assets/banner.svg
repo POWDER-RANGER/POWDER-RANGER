@@ -1,29 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a0f"/>
-      <stop offset="50%" style="stop-color:#111118"/>
-      <stop offset="100%" style="stop-color:#0a0a0f"/>
-    </linearGradient>
-    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#DC143C;stop-opacity:0"/>
-      <stop offset="35%" style="stop-color:#ff1744;stop-opacity:1"/>
-      <stop offset="65%" style="stop-color:#2979ff;stop-opacity:.8"/>
-      <stop offset="100%" style="stop-color:#7c4dff;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
-  <rect width="1500" height="420" fill="url(#bg)"/>
-  <g stroke="#DC143C" stroke-opacity="0.12" stroke-width="1">
+  <rect width="1500" height="420" fill="#0a0000"/>
+  <g stroke="#4A1010" stroke-width="1">
     <line x1="0" y1="70" x2="1500" y2="70"/>
     <line x1="0" y1="140" x2="1500" y2="140"/>
     <line x1="0" y1="210" x2="1500" y2="210"/>
     <line x1="0" y1="280" x2="1500" y2="280"/>
     <line x1="0" y1="350" x2="1500" y2="350"/>
   </g>
-  <rect x="0" y="0" width="1500" height="3" fill="url(#bar)"/>
-  <rect x="0" y="417" width="1500" height="3" fill="url(#bar)"/>
-  <text x="752" y="172" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="70" font-weight="900" fill="#ff1744" opacity="0.22" letter-spacing="10">POWDER-RANGER</text>
-  <text x="750" y="168" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="70" font-weight="900" fill="#e0e0e0" letter-spacing="10">POWDER-RANGER</text>
-  <text x="750" y="228" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="16" fill="#ff1744" letter-spacing="6">SYSTEMS ARCHITECTURE  //  OPEN SOURCE</text>
-  <text x="750" y="280" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="13" fill="#9aa0aa" letter-spacing="3">COMPLIANCE IS ARCHITECTURAL</text>
+  <rect x="0" y="0" width="1500" height="8" fill="#E31C23"/>
+  <rect x="0" y="412" width="1500" height="8" fill="#E31C23"/>
+  <rect x="540" y="36" width="420" height="3" fill="#E31C23"/>
+  <text x="754" y="176" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="70" font-weight="900" fill="#E31C23" opacity="0.25" letter-spacing="10">POWDER-RANGER</text>
+  <text x="750" y="172" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="70" font-weight="900" fill="#F2E8E8" letter-spacing="10">POWDER-RANGER</text>
+  <rect x="615" y="200" width="270" height="3" fill="#E31C23"/>
+  <text x="750" y="248" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="17" fill="#E31C23" letter-spacing="6">SYSTEMS ARCHITECTURE  //  OPEN SOURCE</text>
+  <text x="750" y="292" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="13" fill="#A08080" letter-spacing="3">COMPLIANCE IS ARCHITECTURAL</text>
 </svg>
