@@ -76,26 +76,22 @@ Status key: **Released** (tagged release, working code) · **Beta** (works end t
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/POWDER-RANGER)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10)](https://github.com/POWDER-RANGER?tab=repositories)
+<img src="https://streak-stats.demolab.com?user=POWDER-RANGER&theme=chartreuse-dark&hide_border=true&fire=00FF88&ring=00FF88&currStreakLabel=00FF88" alt="GitHub streak" width="70%" />
 
-[![Streak](https://streak-stats.demolab.com/?user=POWDER-RANGER&theme=chartreuse-dark&hide_border=true)](https://github.com/POWDER-RANGER)
+<br><br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=POWDER-RANGER&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/POWDER-RANGER)
+[![Followers](https://img.shields.io/github/followers/POWDER-RANGER?style=for-the-badge&logo=github&color=00FF88&labelColor=0D1117)](https://github.com/POWDER-RANGER)
+[![Stars](https://img.shields.io/github/stars/POWDER-RANGER?affiliations=OWNER&style=for-the-badge&logo=github&color=00FF88&labelColor=0D1117)](https://github.com/POWDER-RANGER)
+[![Repos](https://img.shields.io/badge/Public_repos-49-00FF88?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/POWDER-RANGER?tab=repositories)
+[![Languages](https://img.shields.io/badge/Languages-10%2B-00FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/POWDER-RANGER?tab=repositories)
 
 </div>
 
 ## 🏆 Achievements
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=POWDER-RANGER&theme=matrix&row=1&column=7&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 - **Credential:** C|OSINT|P, ZSecurity (July 2025)
 - **Research identity:** [ORCID 0009-0008-9273-2458](https://orcid.org/0009-0008-9273-2458)
-- **Earned GitHub achievements:** shown in the profile sidebar and on the [achievements tab](https://github.com/POWDER-RANGER?tab=achievements)
+- **GitHub achievements:** [profile achievements tab](https://github.com/POWDER-RANGER?tab=achievements)
 
 ## 🧭 Engineering principles
 
