@@ -60,7 +60,11 @@ Ollama · llama.cpp / GGUF · AES-256-GCM · HMAC-SHA256 · Docker · Actions ·
 
 ## Credentials
 
+Listed as issued. Course completions are not treated as board certifications.
+
 - **C|OSINT|P**, ZSecurity (July 2025)
+- **Udemy / zSecurity** — [Learn Network Hacking From Scratch (WiFi & Wired)](https://ude.my/UC-6a3f028b-9e79-4995-a082-256746365699), Zaid Sabih · 8 hours · 27 Jul 2025 · cert `UC-6a3f028b-9e79-4995-a082-256746365699`
+- **Google Build with AI · AI Learning Lab** — Build your first app with Antigravity 2.0 · Jul 2026 · Google Developer Experts (Ajeet Mirwani)
 - **ORCID** [0009-0008-9273-2458](https://orcid.org/0009-0008-9273-2458)
 - GitHub [achievements](https://github.com/POWDER-RANGER?tab=achievements)
 
