@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/banner.jpg"
+    src="https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/main/assets/banner.svg"
     width="100%"
     alt="POWDER-RANGER banner"
   />
@@ -15,7 +15,7 @@
 
 ### 🏗️ Master Systems Architect • 🤖 AI Orchestration Engineer • 🔐 Security Researcher
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&weight=700&color=00FF88&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Curtis+Charles+Farrar+%7C+Master+Systems+Architect;AI+Orchestration+%C2%B7+Adversarial+Security+%C2%B7+Distributed+Netcode;Builder+of+CIVWATCH+%C2%B7+OBLISK+%C2%B7+CharlesAI+%C2%B7+RED-AGENT;Civic+Intelligence+%C2%B7+Multi-Agent+Systems+%C2%B7+Zero-Trust+Infrastructure;Keokuk%2C+Iowa+%E2%80%94+Remote+%7C+Open+Source+Infrastructure+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&weight=700&color=00FF88&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&lines=Curtis+Charles+Farrar+%7C+Systems+Architect;AI+Orchestration+%C2%B7+Adversarial+Security;CIVWATCH+%C2%B7+OBLISK+%C2%B7+CharlesAI+%C2%B7+RED-AGENT;Zero-Trust+Infrastructure+%C2%B7+Keokuk%2C+IA)](https://git.io/typing-svg)
 
 ---
 
@@ -205,19 +205,15 @@ Multi-Agent:
 
 <div align="center">
 
-<!-- Streak (hosted on demolab / heroku — public vercel stats are currently paused) -->
 <img src="https://streak-stats.demolab.com?user=POWDER-RANGER&theme=chartreuse-dark&hide_border=true&fire=00FF88&ring=00FF88&currStreakLabel=00FF88" width="70%" alt="GitHub Streak" />
 
 <br><br>
 
-<!-- Reliable shields instead of paused github-readme-stats.vercel.app -->
 [![Commits](https://img.shields.io/github/commit-activity/y/POWDER-RANGER/CIVWATCH?style=for-the-badge&label=CIVWATCH%20commits%2Fyr&color=00FF88&labelColor=0D1117)](https://github.com/POWDER-RANGER/CIVWATCH)
 [![Languages](https://img.shields.io/badge/Languages-10%2B-00FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/POWDER-RANGER?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/POWDER-RANGER?affiliations=OWNER&style=for-the-badge&color=00FF88&labelColor=0D1117)](https://github.com/POWDER-RANGER)
 
 </div>
-
-> **Note:** Public `github-readme-stats.vercel.app` and `github-profile-trophy.vercel.app` are returning `DEPLOYMENT_PAUSED` / disabled (Vercel OSS limits). Streak + Shields.io are used instead. For full stats cards again, self-host [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) or generate SVGs via GitHub Actions into this repo.
 
 ---
 

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="50%" style="stop-color:#0a1f14"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00FF88;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#00FF88;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00FF88;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="420" fill="url(#bg)"/>
+  <g stroke="#00FF88" stroke-opacity="0.08" stroke-width="1">
+    <line x1="0" y1="70" x2="1500" y2="70"/>
+    <line x1="0" y1="140" x2="1500" y2="140"/>
+    <line x1="0" y1="210" x2="1500" y2="210"/>
+    <line x1="0" y1="280" x2="1500" y2="280"/>
+    <line x1="0" y1="350" x2="1500" y2="350"/>
+    <line x1="150" y1="0" x2="150" y2="420"/>
+    <line x1="300" y1="0" x2="300" y2="420"/>
+    <line x1="450" y1="0" x2="450" y2="420"/>
+    <line x1="600" y1="0" x2="600" y2="420"/>
+    <line x1="750" y1="0" x2="750" y2="420"/>
+    <line x1="900" y1="0" x2="900" y2="420"/>
+    <line x1="1050" y1="0" x2="1050" y2="420"/>
+    <line x1="1200" y1="0" x2="1200" y2="420"/>
+    <line x1="1350" y1="0" x2="1350" y2="420"/>
+  </g>
+  <rect x="0" y="0" width="1500" height="3" fill="url(#neon)"/>
+  <rect x="0" y="417" width="1500" height="3" fill="url(#neon)"/>
+  <text x="750" y="175" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="64" font-weight="700" fill="#00FF88" letter-spacing="6">POWDER-RANGER</text>
+  <text x="750" y="235" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#8B949E" letter-spacing="3">SYSTEMS ARCHITECT  ·  AI ORCHESTRATION  ·  SECURITY</text>
+  <text x="750" y="290" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#00FF88" opacity="0.7">COMPLIANCE IS ARCHITECTURAL</text>
+</svg>
