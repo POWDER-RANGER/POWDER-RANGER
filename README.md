@@ -60,22 +60,14 @@ Ollama · llama.cpp / GGUF · AES-256-GCM · HMAC-SHA256 · Docker · Actions ·
 
 ## Credentials
 
-Listed as issued. Course completions are not treated as board certifications.
-
 - **C|OSINT|P**, ZSecurity (July 2025)
-- **Udemy / zSecurity** — [Learn Network Hacking From Scratch (WiFi & Wired)](https://ude.my/UC-6a3f028b-9e79-4995-a082-256746365699), Zaid Sabih · 8 hours · 27 Jul 2025 · cert `UC-6a3f028b-9e79-4995-a082-256746365699`
-- **Google Build with AI · AI Learning Lab** — Build your first app with Antigravity 2.0 · Jul 2026 · Google Developer Experts (Ajeet Mirwani)
+- **Udemy / zSecurity** — [Learn Network Hacking From Scratch (WiFi & Wired)](https://ude.my/UC-6a3f028b-9e79-4995-a082-256746365699), Zaid Sabih · 8 hours · 27 Jul 2025
+- **Google Build with AI · AI Learning Lab** — Build your first app with Antigravity 2.0 · Jul 2026
 - **ORCID** [0009-0008-9273-2458](https://orcid.org/0009-0008-9273-2458)
-- GitHub [achievements](https://github.com/POWDER-RANGER?tab=achievements)
 
-## Unreal / Epic ecosystem
+## Unreal Engine
 
-Independent studio. Not employed by Epic Games. Work is created under this studio and can be paid out through Epic for published assets.
-
-- **Owner**, G6B-Elite Gaming Systems on the [Epic Developer Portal](https://dev.epicgames.com) — own development team (members invited under this org; not Epic staff)
-- Product in portal: *Reality Recharged* (Epic Games Store / Unreal / Epic Online Services — not a published live title yet)
-- Unreal Engine licensed source via [EpicGames](https://github.com/EpicGames) GitHub **Developers** team (team visibility: Secret; licensed source access)
-- Marketplace seller (Cryptic Enigma Emporium) — payout path active for published assets; no marketplace products published as of last check
+Independent studio **G6B-Elite Gaming Systems** (Owner, Epic Developer Portal). Licensed Unreal Engine development, Epic Games Store and Marketplace seller tooling, and a development team under that organization.
 
 ## Principles
 
