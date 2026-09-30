@@ -69,7 +69,9 @@ Ollama · llama.cpp / GGUF · AES-256-GCM · HMAC-SHA256 · Docker · Actions ·
 
 Independent studio **G6B-Elite Gaming Systems** (Owner, Epic Developer Portal). Licensed Unreal Engine development, Epic Games Store and Marketplace seller tooling, and a development team under that organization.
 
-Contribution to [MetaHuman-DNA-Calibration](https://github.com/EpicGames/MetaHuman-DNA-Calibration): [PR #83](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pull/83) — preliminary DNA v2.5 version detection and error messaging (open).
+Contributions to [MetaHuman-DNA-Calibration](https://github.com/EpicGames/MetaHuman-DNA-Calibration) (open):
+- [PR #83](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pull/83) — DNA v2.5 version detection and error messaging
+- [PR #84](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pull/84) — Maya 2025/2026 compatibility
 
 ## Principles
 
