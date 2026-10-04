@@ -6,6 +6,7 @@ on:
     paths:
       - "README.md"
       - ".github/workflows/trophy.yml"
+      - "scripts/update_trophy_board.py"
   schedule:
     - cron: "17 2 * * *"
   workflow_dispatch:
@@ -24,13 +25,11 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate trophy SVG
-        uses: soulteary/github-profile-trophy-action@v1.0.0
-        with:
-          options: "username=${{ github.repository_owner }}&theme=onedark&column=6&row=2&margin-w=10&margin-h=10&no-frame=true"
-          path: .github/assets/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          version: v1.0.0
+      - name: Generate repo-native trophy SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TROPHY_OUTPUT: .github/assets/trophy.svg
+        run: python3 scripts/update_trophy_board.py
 
       - name: Commit refreshed trophy board
         run: |
