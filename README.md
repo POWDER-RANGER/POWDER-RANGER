@@ -111,13 +111,15 @@ Independent Unreal work through **G6B-Elite Gaming Systems**, including Epic Dev
 
 ---
 
-## GITHUB TROPHIES
+## GITHUB TROPHIES · REPO-NATIVE
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=POWDER-RANGER&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=2&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](./.github/assets/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+> Trophy data is generated in this repository by GitHub Actions and committed as a static SVG, so the profile does not depend on the public Vercel trophy renderer. The board refreshes daily and can also be run manually from Actions.
 
 ---
 
