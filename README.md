@@ -111,15 +111,15 @@ Independent Unreal work through **G6B-Elite Gaming Systems**, including Epic Dev
 
 ---
 
-## GITHUB TROPHIES · REPO-NATIVE
+## TROPHIES · REPO-NATIVE PROOF
 
 <div align="center">
 
-[![GitHub Trophies](./.github/assets/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
+[![POWDER-RANGER Trophy Board](./.github/assets/trophy.svg)](https://github.com/POWDER-RANGER/POWDER-RANGER)
 
 </div>
 
-> Trophy data is generated in this repository by GitHub Actions and committed as a static SVG, so the profile does not depend on the public Vercel trophy renderer. The board refreshes daily and can also be run manually from Actions.
+> The trophy board is stored directly in this repository, so the profile image is served by GitHub instead of a third-party image renderer. It is intentionally focused on concrete proof-of-work: advanced systems, current integration work, public engineering contributions, and live portfolio infrastructure.
 
 ---
 
