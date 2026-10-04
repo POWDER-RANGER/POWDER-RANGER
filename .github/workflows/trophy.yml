@@ -1,6 +1,11 @@
 name: Update GitHub Trophies
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/workflows/trophy.yml"
   schedule:
     - cron: "17 2 * * *"
   workflow_dispatch:
