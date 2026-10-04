@@ -3,16 +3,18 @@
 <img src="./assets/banner.svg" alt="POWDER-RANGER" width="100%">
 
 # Curtis Charles Farrar
-### POWDER-RANGER · Systems Architect
+### POWDER-RANGER · SYSTEMS ARCHITECT · AI GOVERNANCE · CIVIC INTELLIGENCE
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1600&color=FF1744&center=true&vCenter=true&width=720&lines=Governed+multi-agent+systems;Civic+intelligence+%C2%B7+zero-trust+design;Local-first.+Independent.+Open+source;Compliance+is+architectural.)](https://powder-ranger.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1800&color=E31C23&center=true&vCenter=true&width=820&lines=Governed+multi-agent+systems;Civic+intelligence+%C2%B7+distributed+systems;Local-first+%C2%B7+zero-trust+%C2%B7+open+source;Architecture+is+the+control+surface.)](https://powder-ranger.github.io)
 
-[Portfolio](https://powder-ranger.github.io) · [Live pages](https://powder-ranger.github.io/pages.html) · [NSO Kryptonite](https://powder-ranger.github.io/nso-kryptonite-platform/) · [ORCID](https://orcid.org/0009-0008-9273-2458)
+[Portfolio](https://powder-ranger.github.io) · [Live Pages](https://powder-ranger.github.io/pages.html) · [Repository Browser](https://powder-ranger.github.io/repos.html) · [ORCID](https://orcid.org/0009-0008-9273-2458)
 
-[![Followers](https://img.shields.io/github/followers/POWDER-RANGER?style=for-the-badge&logo=github&color=E31C23&labelColor=0A0A0F)](https://github.com/POWDER-RANGER?tab=followers)
-[![Stars](https://img.shields.io/github/stars/POWDER-RANGER?affiliations=OWNER&style=for-the-badge&logo=github&color=E31C23&labelColor=0A0A0F)](https://github.com/POWDER-RANGER?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/POWDER-RANGER?style=for-the-badge&logo=github&color=E31C23&labelColor=0A0A0F&label=FOLLOWERS)](https://github.com/POWDER-RANGER?tab=followers)
+[![Public Repositories](https://img.shields.io/github/repos/POWDER-RANGER?style=for-the-badge&logo=github&color=E31C23&labelColor=0A0A0F&label=PUBLIC%20REPOS)](https://github.com/POWDER-RANGER?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/POWDER-RANGER?affiliations=OWNER&style=for-the-badge&logo=github&color=E31C23&labelColor=0A0A0F&label=STARS)](https://github.com/POWDER-RANGER?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=POWDER-RANGER&style=for-the-badge&color=E31C23&label=PROFILE%20VIEWS)](https://github.com/POWDER-RANGER)
 [![C|OSINT|P](https://img.shields.io/badge/C%7COSINT%7CP-ZSecurity_2025-E31C23?style=for-the-badge&labelColor=0A0A0F)](https://github.com/POWDER-RANGER)
-[![Portfolio](https://img.shields.io/badge/Site-powder--ranger.github.io-FF1744?style=for-the-badge&logo=githubpages&labelColor=0A0A0F)](https://powder-ranger.github.io)
+[![GitHub Pages](https://img.shields.io/badge/GITHUB%20PAGES-LIVE-E31C23?style=for-the-badge&logo=githubpages&labelColor=0A0A0F)](https://powder-ranger.github.io)
 
 </div>
 
@@ -21,92 +23,184 @@
 
 ---
 
-## Focus
+## CURRENT WORK · OCTOBER 2026
 
-- **Agent governance** — policy, audit, and access control as structure, not wrappers.
-- **Civic and security tooling** — transparency platforms, RF observability, authorized OSINT, adversarial-AI testing.
-- **Local-first infrastructure** — systems the operator owns; cryptographic auditability; cloud optional.
+The active build is no longer a collection of unrelated experiments. The current center of gravity is the **CIVINTELLIGENCE integration spine**: a unified civic application with specialized Watchtower, Cell Titan, and operator-client rails.
 
-## Flagship systems
+| Current surface | What changed | Evidence |
+|---|---|---|
+| **[CIVINTELLIGENCE](https://github.com/POWDER-RANGER/CivilianIntelligence)** | Unified system of record; escalation/current platform status; cross-repo integration contract | [Latest commit](https://github.com/POWDER-RANGER/CivilianIntelligence/commit/85ebd2a436881cf223765f3c07fd83357e1e244e) |
+| **[CIVWATCH App](https://github.com/POWDER-RANGER/civwatch-app)** | Integration spine merged into main | [Latest commit](https://github.com/POWDER-RANGER/civwatch-app/commit/c4c3567fb210a066111db244f6281347eaf319a0) |
+| **[Cell Titan](https://github.com/POWDER-RANGER/civwatch-cell-titan)** | Integration spine merged into main | [Latest commit](https://github.com/POWDER-RANGER/civwatch-cell-titan/commit/22c69d78daf4485f986613141e61b99c9a2d7634) |
+| **[Watchtower](https://github.com/POWDER-RANGER/civwatch-watchtower)** | CI validation blocker documented instead of hidden | [Latest commit](https://github.com/POWDER-RANGER/civwatch-watchtower/commit/3a828cbdaa7a3b57898ea44966f350c423637dd6) |
 
-**Released** — tagged, working code · **Beta** — end-to-end with 
-known gaps · **In development** — design ahead of code · **Research** — experimental
+**Current acceptance state:** core integration is merged, but the CIVINTELLIGENCE repository explicitly withholds a production-readiness claim until CI, tests, builds, and security gates execute and pass.
 
-| System | Domain | What it does | Status | Live |
-|---|---|---|---|---|
-| [RED-AGENT-GOV](https://github.com/POWDER-RANGER/RED-AGENT-GOV) | Agent governance | Deterministic FSM, six-directive output gate, hash-chained audit | Released | [Pages](https://powder-ranger.github.io/RED-AGENT-GOV/) |
-| [OBLISK](https://github.com/POWDER-RANGER/OBLISK) | Multi-agent AI | Encrypted vaults, symbolic planning, policy enforcement | Beta | [Pages](https://powder-ranger.github.io/OBLISK/) |
-| [CIVWATCH](https://github.com/POWDER-RANGER/CIVWATCH) | Civic intelligence | Transparency and anomaly detection | In development | [Pages](https://powder-ranger.github.io/CIVWATCH/) |
-| [NSO Kryptonite](https://github.com/POWDER-RANGER/nso-kryptonite-platform) | Adversarial defense | Purple-team command center — visual baseline for the portfolio | Stable | [Pages](https://powder-ranger.github.io/nso-kryptonite-platform/) |
-| [nine-realities-netcode](https://github.com/POWDER-RANGER/nine-realities-netcode) | Distributed systems | N+1 concurrent simulation for multiplayer reconciliation | Research | [Pages](https://powder-ranger.github.io/nine-realities-netcode/) |
+---
 
-## Live hubs
+## FLAGSHIP SYSTEMS · MOST ADVANCED
 
-The portfolio is the map. Individual systems ship their own GitHub Pages.
+### 01 · [NINE REALITIES NETCODE](https://github.com/POWDER-RANGER/nine-realities-netcode)
+**Distributed systems / Unreal Engine / multiplayer networking**
 
-[powder-ranger.github.io](https://powder-ranger.github.io) · [All live pages](https://powder-ranger.github.io/pages.html) · [Repository browser](https://powder-ranger.github.io/repos.html)
+- **v3.0** Unreal Engine 5.5+ plugin with UE6 forward-compatibility path
+- **15,000+ lines of C++** across runtime/editor modules
+- Server-authoritative simulation with client prediction, rollback, reconciliation, adaptive synchronization
+- Performance documentation and interactive GitHub Pages visualization
+- **6 GitHub stars · 1 fork** currently
 
-## Stack
+[![Stars](https://img.shields.io/github/stars/POWDER-RANGER/nine-realities-netcode?style=flat-square&color=E31C23&labelColor=0A0A0F)](https://github.com/POWDER-RANGER/nine-realities-netcode)
+[![Last Commit](https://img.shields.io/github/last-commit/POWDER-RANGER/nine-realities-netcode?style=flat-square&color=E31C23&labelColor=0A0A0F)](https://github.com/POWDER-RANGER/nine-realities-netcode)
+[![Pages](https://img.shields.io/badge/PAGES-LIVE-E31C23?style=flat-square&labelColor=0A0A0F)](https://powder-ranger.github.io/nine-realities-netcode/)
 
-Python · TypeScript · PowerShell · Rust · C/C++ · Kotlin · Java · GDScript · Unreal Engine  
-Ollama · llama.cpp / GGUF · AES-256-GCM · HMAC-SHA256 · Docker · Actions · PostgreSQL
+### 02 · [CIVINTELLIGENCE](https://github.com/POWDER-RANGER/CivilianIntelligence)
+**Civic intelligence / public-data ingest / system integration**
 
-## Activity
+- Unified civilian intelligence system of record
+- Movement, oversight, finance, privacy, toolkit, Veil briefing, Watchtower and Cell Titan pillars
+- Public-data ingest with traceable sources and explicit demo/snapshot/live/unavailable states
+- Server-side integration boundaries and documented ownership/security contracts
+- Eight-repository integration work now converging on one application center of gravity
+
+### 03 · [RED-AGENT-GOV](https://github.com/POWDER-RANGER/RED-AGENT-GOV)
+**Agent governance / deterministic enforcement**
+
+- Deterministic finite-state execution
+- D01–D06 output governance gates
+- Hash-linked audit chain
+- HMAC-backed recovery/integrity mechanisms
+- Structural enforcement rather than prompt-level policy
+
+### 04 · [OBLISK](https://github.com/POWDER-RANGER/OBLISK)
+**Multi-agent AI / symbolic planning / secure state**
+
+- Multi-agent lifecycle and role-based coordination
+- AES-256-GCM encrypted vaults
+- Symbolic goal decomposition and planning
+- Policy enforcement and audit logging
+- Event-driven messaging and observability
+
+### 05 · [NSO KRYPTONITE](https://github.com/POWDER-RANGER/nso-kryptonite-platform)
+**Adversarial defense / purple-team systems**
+
+- Red / Blue / Purple / Spectator operating model
+- React 19 + TypeScript + Vite + WebAssembly/WebGL surface
+- Zero-trust infrastructure concepts, forensic reconstruction and detection engineering
+- Integrated offense/defense accountability model
+
+---
+
+## ACHIEVEMENTS · PROOF OF WORK
+
+### Epic Games / MetaHuman
+I maintain two public contributions to **[EpicGames/MetaHuman-DNA-Calibration](https://github.com/EpicGames/MetaHuman-DNA-Calibration)**:
+
+- **PR #84** — Maya 2025/2026 compatibility foundation
+- **PR #83** — preliminary DNA v2.5 version detection and user-facing error framework
+
+[![Epic PRs](https://img.shields.io/badge/EPIC%20GAMES-2%20PUBLIC%20PRs-E31C23?style=for-the-badge&labelColor=0A0A0F)](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pulls?q=is%3Apr+author%3APOWDER-RANGER)
+
+### Credentials
+- **C|OSINT|P — ZSecurity**, July 2025
+- **Learn Network Hacking From Scratch (WiFi & Wired)** — Zaid Sabih / zSecurity, July 2025
+- **Google Build with AI / AI Learning Lab**, July 2026
+- **ORCID** [0009-0008-9273-2458](https://orcid.org/0009-0008-9273-2458)
+
+### Unreal Engine
+Independent Unreal work through **G6B-Elite Gaming Systems**, including Epic Developer Portal / Marketplace tooling and MetaHuman ecosystem contributions.
+
+---
+
+## GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=POWDER-RANGER&theme=dark&hide_border=true&background=0A0A0F&ring=E31C23&fire=FF1744&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=FF1744&sideLabels=9AA0AA&dates=9AA0AA" alt="Contribution streak" wi
-dth="68%" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=POWDER-RANGER&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=2&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## Credentials
+---
 
-- **C|OSINT|P**, ZSecurity (July 2025)
-- **Udemy / zSecurity** — [Learn Network Hacking From Scratch (WiFi & Wired)](https://ude.my/UC-6a3f028b-9e79-4995-a082-256746365699), Zaid Sabih · 8 hours · 27 Jul 2025
-- **Google Build with AI · AI Learning Lab** — Build your first app with Antigravity 2.0 · Jul 2026
-- **ORCID** [0009-0008-9273-2458](https://orcid.org/0009-0008-9273-2458)
+## ACTIVITY · LIVE TELEMETRY
 
-## Unreal Engine
+<div align="center">
 
-Independent studio **G6B-Elite Gaming Systems** (Owner, Epic Developer Portal). Licensed Unreal Engine development, Epic Games Store and Marketplace seller tooling, and a development team under that organization.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=POWDER-RANGER&theme=dark&hide_border=false&background=0A0000&ring=E31C23&fire=E31C23&currStreakNum=F2E8E8&sideNums=F2E8E8&currStreakLabel=E31C23&sideLabels=A08080&dates=A08080&border=4A1010" alt="Contribution streak" width="72%" />
 
-Contributions to [MetaHuman-DNA-Calibration](https://github.com/EpicGames/MetaHuman-DNA-Calibration) (open):
-- [PR #83](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pull/83) — DNA v2.5 version detection and error messaging
-- [PR #84](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pull/84) — Maya 2025/2026 compatibility
+<br><br>
 
-## Principles
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=POWDER-RANGER&bg_color=0A0000&color=F2E8E8&line=E31C23&point=F2E8E8&area=true&hide_border=true&custom_title=POWDER-RANGER%20ACTIVITY" alt="GitHub activity graph" width="96%" />
 
-1. **Governance is structural.** Enforcement belongs in the architecture.
-2. **Local-first.** The operator controls the system. Cloud is optional.
-3. **Failures are data.** Broken experiments stay visible.
-4. **Independent and self-funded.** Work is self-directed and public by default.
+</div>
 
-<details>
-<summary><strong>Full public index</strong></summary>
+### Contribution Matrix
 
-**Agents and governance**  
-[CharlesAI](https://github.com/POWDER-RANGER/CharlesAI) · [OBELISK-Desktop-AI](https://github.com/POWDER-RANGER/OBELISK-Desktop-AI) · [guiding-light-ai](https://github.com/POWDER-RANGER/guiding-light-ai)
+<div align="center">
 
-**Civic and security**  
-[civwatch-watchtower](https://github.com/POWDER-RANGER/civwatch-watchtower) · [red-team-osint-tool](https://github.com/POWDER-RANGER/red-team-osint-tool)
+<img src="https://raw.githubusercontent.com/POWDER-RANGER/POWDER-RANGER/output/snake-dark.svg" alt="Contribution graph snake" width="96%" />
 
-**Games and simulation**  
-[powder-ranger-bot](https://github.com/POWDER-RANGER/powder-ranger-bot) · [dojin-d](https://github.com/POWDER-RANGER/dojin-d)
+</div>
 
-**Tooling and data**  
-[contextual-memory-ui](https://github.com/POWDER-
-RANGER/contextual-memory-ui) · [dollar-gravity-framework](https://github.com/POWDER-RANGER/dollar-gravity-framework) · [ai-nexus](https://github.com/POWDER-RANGER/ai-nexus)
+---
 
-**Creative**  
-[raingod-studio-v4](https://github.com/POWDER-RANGER/raingod-studio-v4) · [RainGod-Comfy-Studio](https://github.com/POWDER-RANGER/RainGod-Comfy-Studio) · [powder-ranger-stone](https://github.com/POWDER-RANGER/powder-ranger-stone) · [Artifact-Catalog](https://github.com/POWDER-RANGER/Artifact-Catalog)
+## GITHUB STATS · CAPABILITY SIGNAL
 
-Companion notes: [project-index.md](./project-index.md)
+<div align="center">
 
-</details>
+<a href="https://github.com/POWDER-RANGER">
+<img src="https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0000&title_color=E31C23&icon_color=E31C23&text_color=F2E8E8&ring_color=E31C23" alt="POWDER-RANGER GitHub stats" width="49%" />
+</a>
+<a href="https://github.com/POWDER-RANGER">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&langs_count=10&hide_border=true&bg_color=0A0000&title_color=E31C23&text_color=F2E8E8" alt="Top languages" width="49%" />
+</a>
 
-## Work with me
+</div>
 
-Consulting and collaboration on agent governance, security engineering, and civic-data tooling.
+---
+
+## STACK
+
+![Python](https://img.shields.io/badge/Python-Systems-E31C23?style=for-the-badge&logo=python&logoColor=F2E8E8&labelColor=0A0A0F)
+![TypeScript](https://img.shields.io/badge/TypeScript-Platform-E31C23?style=for-the-badge&logo=typescript&logoColor=F2E8E8&labelColor=0A0A0F)
+![C++](https://img.shields.io/badge/C%2B%2B-Engine-E31C23?style=for-the-badge&logo=cplusplus&logoColor=F2E8E8&labelColor=0A0A0F)
+![Rust](https://img.shields.io/badge/Rust-Systems-E31C23?style=for-the-badge&logo=rust&logoColor=F2E8E8&labelColor=0A0A0F)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-E31C23?style=for-the-badge&logo=powershell&logoColor=F2E8E8&labelColor=0A0A0F)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.5%2B-E31C23?style=for-the-badge&logo=unrealengine&logoColor=F2E8E8&labelColor=0A0A0F)
+![Docker](https://img.shields.io/badge/Docker-Infra-E31C23?style=for-the-badge&logo=docker&logoColor=F2E8E8&labelColor=0A0A0F)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-E31C23?style=for-the-badge&logo=githubactions&logoColor=F2E8E8&labelColor=0A0A0F)
+
+**Architecture:** agent governance · distributed systems · civic data · zero-trust · observability · deterministic simulation · public-source intelligence
+
+---
+
+## LIVE ECOSYSTEM
+
+| Domain | Repositories |
+|---|---|
+| **Civic Intelligence** | [CivilianIntelligence](https://github.com/POWDER-RANGER/CivilianIntelligence) · [civwatch-app](https://github.com/POWDER-RANGER/civwatch-app) · [civwatch-watchtower](https://github.com/POWDER-RANGER/civwatch-watchtower) · [civwatch-cell-titan](https://github.com/POWDER-RANGER/civwatch-cell-titan) |
+| **AI & Governance** | [RED-AGENT-GOV](https://github.com/POWDER-RANGER/RED-AGENT-GOV) · [OBLISK](https://github.com/POWDER-RANGER/OBLISK) · [CharlesAI](https://github.com/POWDER-RANGER/CharlesAI) · [OBELISK-Desktop-AI](https://github.com/POWDER-RANGER/OBELISK-Desktop-AI) |
+| **Defense** | [nso-kryptonite-platform](https://github.com/POWDER-RANGER/nso-kryptonite-platform) · [red-team-osint-tool](https://github.com/POWDER-RANGER/red-team-osint-tool) |
+| **Simulation / Games** | [nine-realities-netcode](https://github.com/POWDER-RANGER/nine-realities-netcode) · [dojin-d](https://github.com/POWDER-RANGER/dojin-d) · [powder-ranger-bot](https://github.com/POWDER-RANGER/powder-ranger-bot) |
+| **Tooling / Data** | [contextual-memory-ui](https://github.com/POWDER-RANGER/contextual-memory-ui) · [Artifact-Catalog](https://github.com/POWDER-RANGER/Artifact-Catalog) · [dollar-gravity-framework](https://github.com/POWDER-RANGER/dollar-gravity-framework) · [ai-nexus](https://github.com/POWDER-RANGER/ai-nexus) |
+| **Creative Systems** | [RainGod-Comfy-Studio](https://github.com/POWDER-RANGER/RainGod-Comfy-Studio) · [RAINGOD-ComfyUI-Integration](https://github.com/POWDER-RANGER/RAINGOD-ComfyUI-Integration) · [raingod-studio-v4](https://github.com/POWDER-RANGER/raingod-studio-v4) |
+
+---
+
+## PRINCIPLES
+
+1. **Governance is structural.** Put enforcement in the architecture.
+2. **Local-first.** The operator owns the system; cloud is optional.
+3. **Evidence before inference.** Keep provenance and uncertainty visible.
+4. **Failures are data.** Broken experiments stay documented.
+5. **Independent and self-funded.** Build in public, ship what survives.
+
+---
+
+## WORK WITH ME
+
+Consulting and collaboration on agent governance, security engineering, civic-data tooling, distributed systems and Unreal-oriented systems work.
 
 **Start here:** [powder-ranger.github.io](https://powder-ranger.github.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Curtis%20Farrar-E31C23?style=for-the-badge&logo=linkedin&logoColor=F2E8E8&labelColor=0A0A0F)](https://www.linkedin.com/in/curtis-farrar-20aa3525b)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9273--2458-E31C23?style=for-the-badge&logo=orcid&logoColor=F2E8E8&labelColor=0A0A0F)](https://orcid.org/0009-0008-9273-2458)
