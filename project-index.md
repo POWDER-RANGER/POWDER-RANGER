@@ -137,7 +137,7 @@ nine-realities-netcode · dojin-d · Dojin · powder-ranger-bot · NextGenGameAu
 contextual-memory-ui · Artifact-Catalog · dollar-gravity-framework
 
 ### Creative / infrastructure
-RainGod-Comfy-Studio · RAINGOD-ComfyUI-Integration · raingod-studio-v4 · powder-ranger-stone
+RainGod-Comfy-Studio · RAINGOD-ComfyUI-Integration · raingod-studio-v4
 
 ---
 
