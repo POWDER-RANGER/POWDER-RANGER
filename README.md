@@ -93,10 +93,10 @@ The active build is no longer a collection of unrelated experiments. The current
 ## ACHIEVEMENTS · PROOF OF WORK
 
 ### Epic Games / MetaHuman
-I maintain two public contributions to **[EpicGames/MetaHuman-DNA-Calibration](https://github.com/EpicGames/MetaHuman-DNA-Calibration)**:
+I have two public contributions currently open in **[EpicGames/MetaHuman-DNA-Calibration](https://github.com/EpicGames/MetaHuman-DNA-Calibration)**:
 
-- **PR #84** — Maya 2025/2026 compatibility foundation
-- **PR #83** — preliminary DNA v2.5 version detection and user-facing error framework
+- **[PR #84](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pull/84)** — Maya 2025/2026 compatibility foundation
+- **[PR #83](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pull/83)** — preliminary DNA v2.5 version detection and user-facing error framework
 
 [![Epic PRs](https://img.shields.io/badge/EPIC%20GAMES-2%20PUBLIC%20PRs-E31C23?style=for-the-badge&labelColor=0A0A0F)](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pulls?q=is%3Apr+author%3APOWDER-RANGER)
 
@@ -125,7 +125,7 @@ Independent Unreal work through **G6B-Elite Gaming Systems**, including Epic Dev
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=POWDER-RANGER&theme=dark&hide_border=false&background=0A0000&ring=E31C23&fire=E31C23&currStreakNum=F2E8E8&sideNums=F2E8E8&currStreakLabel=E31C23&sideLabels=A08080&dates=A08080&border=4A1010" alt="Contribution streak" width="72%" />
+<img src="https://streak-stats.demolab.com/?user=POWDER-RANGER&theme=dark&hide_border=false&background=0A0000&ring=E31C23&fire=E31C23&currStreakNum=F2E8E8&sideNums=F2E8E8&currStreakLabel=E31C23&sideLabels=A08080&dates=A08080&border=4A1010" alt="Contribution streak" width="72%" />
 
 <br><br>
 
@@ -148,7 +148,7 @@ Independent Unreal work through **G6B-Elite Gaming Systems**, including Epic Dev
 <div align="center">
 
 <a href="https://github.com/POWDER-RANGER">
-<img src="https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0000&title_color=E31C23&icon_color=E31C23&text_color=F2E8E8&ring_color=E31C23" alt="POWDER-RANGER GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=POWDER-RANGER&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0A0000&title_color=E31C23&icon_color=E31C23&text_color=F2E8E8&ring_color=E31C23" alt="POWDER-RANGER GitHub stats" width="49%" />
 </a>
 <a href="https://github.com/POWDER-RANGER">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POWDER-RANGER&layout=compact&langs_count=10&hide_border=true&bg_color=0A0000&title_color=E31C23&text_color=F2E8E8" alt="Top languages" width="49%" />
