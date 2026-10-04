@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Trophy Board</title>
+  <desc id="desc">GitHub trophies are generated and refreshed by a GitHub Actions workflow.</desc>
+  <rect width="960" height="250" rx="8" fill="#0A0000"/>
+  <rect x="0.5" y="0.5" width="959" height="249" rx="8" fill="none" stroke="#4A1010"/>
+  <text x="32" y="46" font-family="monospace" font-size="22" font-weight="700" fill="#E31C23">GITHUB TROPHY BOARD</text>
+  <text x="32" y="72" font-family="monospace" font-size="13" fill="#A08080">STATIC FALLBACK • AUTO-REFRESHED BY GITHUB ACTIONS</text>
+  <g font-family="monospace" text-anchor="middle">
+    <g transform="translate(72 104)">
+      <circle cx="48" cy="48" r="44" fill="#120000" stroke="#8B0000"/>
+      <path d="M32 28h32v24c0 14-8 24-16 24s-16-10-16-24zM25 32h7v12c0 5 3 9 8 12M71 32h-7v12c0 5-3 9-8 12M40 82h16M36 92h24" fill="none" stroke="#E31C23" stroke-width="4" stroke-linecap="square"/>
+      <text x="48" y="122" font-size="12" fill="#F2E8E8">COMMITS</text>
+    </g>
+    <g transform="translate(220 104)">
+      <circle cx="48" cy="48" r="44" fill="#120000" stroke="#8B0000"/>
+      <path d="M48 22l8 17 19 3-14 14 3 19-16-9-16 9 3-19-14-14 19-3z" fill="none" stroke="#E31C23" stroke-width="4"/>
+      <text x="48" y="122" font-size="12" fill="#F2E8E8">STARS</text>
+    </g>
+    <g transform="translate(368 104)">
+      <circle cx="48" cy="48" r="44" fill="#120000" stroke="#8B0000"/>
+      <circle cx="48" cy="42" r="12" fill="none" stroke="#E31C23" stroke-width="4"/>
+      <path d="M24 78c5-14 15-21 24-21s19 7 24 21" fill="none" stroke="#E31C23" stroke-width="4"/>
+      <text x="48" y="122" font-size="12" fill="#F2E8E8">FOLLOWERS</text>
+    </g>
+    <g transform="translate(516 104)">
+      <circle cx="48" cy="48" r="44" fill="#120000" stroke="#8B0000"/>
+      <rect x="27" y="28" width="42" height="40" rx="2" fill="none" stroke="#E31C23" stroke-width="4"/>
+      <path d="M27 43h42M41 28v40" fill="none" stroke="#E31C23" stroke-width="4"/>
+      <text x="48" y="122" font-size="12" fill="#F2E8E8">REPOS</text>
+    </g>
+    <g transform="translate(664 104)">
+      <circle cx="48" cy="48" r="44" fill="#120000" stroke="#8B0000"/>
+      <path d="M25 35h46v26H40l-15 10z" fill="none" stroke="#E31C23" stroke-width="4"/>
+      <path d="M34 48h28" stroke="#E31C23" stroke-width="4"/>
+      <text x="48" y="122" font-size="12" fill="#F2E8E8">PRs</text>
+    </g>
+    <g transform="translate(812 104)">
+      <circle cx="48" cy="48" r="44" fill="#120000" stroke="#8B0000"/>
+      <path d="M32 67l16-38 16 38M38 55h20" fill="none" stroke="#E31C23" stroke-width="4"/>
+      <text x="48" y="122" font-size="12" fill="#F2E8E8">REVIEWS</text>
+    </g>
+  </g>
+  <text x="928" y="226" font-family="monospace" font-size="11" text-anchor="end" fill="#A08080">POWDER-RANGER // PROFILE TELEMETRY</text>
+</svg>
