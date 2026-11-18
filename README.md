@@ -13,9 +13,9 @@
 
 </div>
 
-> **I architect systems that think, defend themselves, and serve the public good.** Evidence, security and operational limits belong in the architecture, not just the presentation.
+> **I build practical systems for security, automation, AI, and public-interest technology.** My focus is reliable software, thoughtful engineering, and solutions that hold up beyond a demonstration.
 
-**Explore:** [Merged open-source work](https://github.com/thedotmack/claude-mem/pull/6301) · [Explore CIVWATCH](https://github.com/POWDER-RANGER/CivilianIntelligence) · [All project sites](https://powder-ranger.github.io/pages.html)
+**Explore my work:** [Open-source contributions](https://github.com/thedotmack/claude-mem/pull/6301) · [CIVWATCH](https://github.com/POWDER-RANGER/CivilianIntelligence) · [Project websites](https://powder-ranger.github.io/pages.html)
 
 ## Open-source contributions
 
@@ -44,11 +44,11 @@ My [Claude-Mem recovery investigation](https://github.com/thedotmack/claude-mem/
 
 ### CIVWATCH — public evidence and civic transparency
 
-**[CivilianIntelligence](https://github.com/POWDER-RANGER/CivilianIntelligence)** is the web application's source of record. The public system organizes sourced records about surveillance infrastructure, spending and oversight, and shows verification and availability states. Work in October–November 2026 included authentication hardening, server controls, removal of demo surveillance observations from production feeds, lazy-loaded map rendering and a 3D globe. 
+**[CivilianIntelligence](https://github.com/POWDER-RANGER/CivilianIntelligence)** is my public-interest technology project focused on making civic oversight information easier to find and understand. It brings together source-backed records, mapping, and tools for examining surveillance infrastructure and government accountability. Recent development has focused on authentication, API security, clearer data provenance, map performance, and 3D visualization.
 
 [Live web app](https://civintelligence.onrender.com/) · [Project site](https://powder-ranger.github.io/CIVWATCH/) · [Platform services](https://github.com/POWDER-RANGER/civwatch-watchtower) · [Cell Monitor](https://github.com/POWDER-RANGER/civwatch-cell-titan) · [Flutter client](https://github.com/POWDER-RANGER/civwatch-app)
 
-**Notable engineering evidence:**
+**Selected technical work:**
 
 - [Cell Monitor PR #15](https://github.com/POWDER-RANGER/civwatch-cell-titan/pull/15): Ed25519-signed evidence records, verification and public-key export.
 - [Platform PR #14](https://github.com/POWDER-RANGER/civwatch-watchtower/pull/14): PostGIS-backed feature/report persistence and a first server test suite.
@@ -58,7 +58,7 @@ My [Claude-Mem recovery investigation](https://github.com/thedotmack/claude-mem/
 
 **[Nine Realities Netcode](https://github.com/POWDER-RANGER/nine-realities-netcode)** explores server-authoritative simulation, client prediction, rollback, reconciliation and adaptive synchronization for Unreal Engine. The repository documents a v3.0 Unreal Engine 5.5+ plugin and UE6 forward-compatibility work. [Technical presentation](https://powder-ranger.github.io/nine-realities-netcode/).
 
-### Agent governance and defensive systems
+### AI, automation, and defensive systems
 
 - **[OBLISK](https://github.com/POWDER-RANGER/OBLISK)** — multi-agent orchestration, symbolic planning, AES-GCM vault work and observability. Active development.
 - **[RED-AGENT-GOV](https://github.com/POWDER-RANGER/RED-AGENT-GOV)** — deterministic finite-state governance, D01–D06 directive gates and hash-linked audits.
@@ -76,11 +76,11 @@ My [Claude-Mem recovery investigation](https://github.com/thedotmack/claude-mem/
 
 </div>
 
-[View my contribution history](https://github.com/POWDER-RANGER?tab=overview).
+[View my contribution history](https://github.com/POWDER-RANGER?tab=overview)
 
 ## Achievements and milestones
 
-[GitHub achievements](https://github.com/POWDER-RANGER?tab=achievements) · Selected engineering milestones
+[GitHub achievements](https://github.com/POWDER-RANGER?tab=achievements) · Highlights from my engineering work
 
 <div align="center">
 
@@ -102,8 +102,6 @@ My [Claude-Mem recovery investigation](https://github.com/thedotmack/claude-mem/
 [![Unreal Engine](assets/badges/unreal-engine.svg)](https://github.com/POWDER-RANGER/nine-realities-netcode)
 
 </div>
-
-
 
 ## Project websites
 
@@ -128,8 +126,8 @@ Additional projects include [RainGod Comfy Studio](https://github.com/POWDER-RAN
 
 ## About me
 
-I'm a self-taught developer and systems engineer working across security, AI, automation, and distributed software. I enjoy tracing difficult bugs to their source, building practical fixes, and testing them against real operating conditions.
+I'm a self-taught developer and systems engineer with a background in hands-on technical work. I work across security, AI, automation, and distributed systems, and I enjoy solving problems that cross the boundaries between software, infrastructure, and real-world operations.
 
-I value clear documentation, reproducible tests, secure design, and software that works outside a demo.
+I care about clear documentation, reproducible tests, secure design, and building software that people can actually use.
 
 **Connect:** [Portfolio](https://powder-ranger.github.io/) · [LinkedIn](https://www.linkedin.com/in/curtis-farrar-20aa3525b) · [ORCID](https://orcid.org/0009-0008-9273-2458)
