@@ -22,7 +22,7 @@ def summarize(events):
         payload = event.get("payload") or {}
         if not isinstance(payload, dict) or not repo_name or repo_name == f"{USER}/{USER}":
             continue
-        if not all(c.isalnum() or c in "-_./" for c in repo_name) or repo_name.count("/") != 1:
+        if (repo_name.count("/") != 1 or any(part in {"", ".", ".."} for part in repo_name.split("/"))\n                or not all(c.isalnum() or c in "-_." for part in repo_name.split("/") for c in part)):
             continue
         url = f"https://github.com/{repo_name}"
         if kind == "PullRequestEvent":
