@@ -17,22 +17,17 @@
 
 **Explore my work:** [Open-source contributions](https://github.com/thedotmack/claude-mem/pull/6301) · [CIVWATCH](https://github.com/POWDER-RANGER/CivilianIntelligence) · [Project websites](https://powder-ranger.github.io/pages.html)
 
+
+
 ## Open-source contributions
 
-I contribute fixes and improvements to tools I use, with a focus on reliability, cross-platform behavior, and maintainability.
+I contribute fixes and improvements to open-source tools, particularly where reliability, cross-platform behavior, and maintainability matter.
 
-### Merged contributions
-
-**[Claude-Mem · Cross-platform timeline fix](https://github.com/thedotmack/claude-mem/pull/6301)**  
-Merged November 18, 2026. Normalized project-file labels across operating systems to make timeline entries more consistent.
-
-**[Claude-Mem · Developer documentation](https://github.com/thedotmack/claude-mem/pull/5324)**  
-Merged November 4, 2026. Updated setup requirements and test instructions to reflect the project's current tooling.
-
-### Approved upstream contribution
-
-**[Hyperframes · Markdown link validation](https://github.com/heygen-com/hyperframes/pull/8124)**  
-Approved by a project collaborator following code review and successful tests. The checker detects missing or incorrectly capitalized local links in published skill documentation. Integration is awaiting a verified, signed commit.
+| Project | Contribution | Result |
+|:--|:--|:--|
+| **[Claude-Mem](https://github.com/thedotmack/claude-mem/pull/6301)** | Cross-platform timeline labels | **Merged · Nov 18, 2026** |
+| **[Claude-Mem](https://github.com/thedotmack/claude-mem/pull/5324)** | Development setup and test documentation | **Merged · Nov 4, 2026** |
+| **[Hyperframes](https://github.com/heygen-com/hyperframes/pull/8124)** | Validate missing and mis-cased Markdown links | **Maintainer-approved · signing pending** |
 
 ### Additional upstream work
 
@@ -41,6 +36,8 @@ I've contributed to [Hyperframes skill documentation](https://github.com/heygen-
 My [Claude-Mem recovery investigation](https://github.com/thedotmack/claude-mem/pull/6316) also helped narrow a proposed reliability fix. The original approach was closed after maintainer feedback, with a simpler follow-up suggested.
 
 ## Selected projects
+
+These are the systems I'm building and improving. Each project links to its source, technical work, or public interface.
 
 ### CIVWATCH — public evidence and civic transparency
 
@@ -67,6 +64,8 @@ My [Claude-Mem recovery investigation](https://github.com/thedotmack/claude-mem/
 
 ## GitHub activity
 
+A snapshot of my recent public work, alongside the contribution history GitHub maintains.
+
 <div align="center">
 
 [![GitHub contributions](https://img.shields.io/badge/VIEW-CONTRIBUTION%20GRAPH-E31C23?style=flat-square&logo=github&labelColor=0A0A0F)](https://github.com/POWDER-RANGER?tab=overview)
@@ -78,9 +77,16 @@ My [Claude-Mem recovery investigation](https://github.com/thedotmack/claude-mem/
 
 [View my contribution history](https://github.com/POWDER-RANGER?tab=overview)
 
+### Recent public activity
+
+[Recent pull requests](https://github.com/pulls?q=is%3Apr+author%3APOWDER-RANGER+sort%3Aupdated-desc) · [Public contribution history](https://github.com/POWDER-RANGER?tab=overview)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Achievements and milestones
 
-[GitHub achievements](https://github.com/POWDER-RANGER?tab=achievements) · Highlights from my engineering work
+[See my earned GitHub achievements](https://github.com/POWDER-RANGER?tab=achievements). The engineering milestone board below highlights selected work and is separate from GitHub's official awards.
 
 <div align="center">
 
@@ -105,7 +111,7 @@ My [Claude-Mem recovery investigation](https://github.com/thedotmack/claude-mem/
 
 ## Project websites
 
-**[Browse my project websites](https://powder-ranger.github.io/pages.html)**
+**[Explore the complete project directory](https://powder-ranger.github.io/pages.html)**
 
 | Destination | Focus |
 |---|---|
