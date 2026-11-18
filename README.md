@@ -15,6 +15,8 @@
 
 > **I architect systems that think, defend themselves, and serve the public good.** Evidence, security and operational limits belong in the architecture, not just the presentation.
 
+**START HERE:** [Accepted upstream work](https://github.com/thedotmack/claude-mem/pull/5324) · [Explore CIVWATCH](https://github.com/POWDER-RANGER/CivilianIntelligence) · [All project sites](https://powder-ranger.github.io/pages.html)
+
 ## EXTERNAL CONTRIBUTIONS · ACCEPTED WORK FIRST
 
 The strongest proof is work accepted by maintainers in repositories I do not own. Forks remain attributed to their original owners; my contribution is the specific pull request and its documented changes, not the upstream product.
@@ -25,7 +27,8 @@ The strongest proof is work accepted by maintainers in repositories I do not own
 
 **[thedotmack/claude-mem · PR #5324](https://github.com/thedotmack/claude-mem/pull/5324)** — development documentation updated to match current Node/Bun prerequisites, test lanes, and valid test commands. **Merged November 4, 2026.**
 
-### Additional upstream work · submitted, not represented as merged
+<details>
+<summary><strong>Additional upstream contributions · 7 submitted PRs (expand)</strong></summary>
 
 | Upstream project | Contribution | Evidence |
 |---|---|---|
@@ -38,6 +41,8 @@ The strongest proof is work accepted by maintainers in repositories I do not own
 | [Epic Games MetaHuman DNA Calibration](https://github.com/EpicGames/MetaHuman-DNA-Calibration) | Preliminary DNA v2.5 version detection and error messaging | [PR #83](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pull/83) |
 
 *PR status reviewed November 18, 2026. Open contributions are not described as accepted, shipped or production-deployed. The linked PR remains the current status source.*
+
+</details>
 
 ## ORIGINAL ENGINEERING · CURRENT AND SUBSTANTIAL
 
