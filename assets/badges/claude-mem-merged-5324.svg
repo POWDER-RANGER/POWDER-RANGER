@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="62" viewBox="0 0 510 62" role="img" aria-label="Merged upstream contribution: claude-mem pull request 5324">
+<title>Merged upstream contribution: claude-mem PR #5324</title>
+<defs><linearGradient id="metal" y2="1"><stop stop-color="#23100F"/><stop offset="1" stop-color="#090A0D"/></linearGradient><filter id="halo"><feGaussianBlur stdDeviation="3"/></filter></defs>
+<rect width="510" height="62" fill="#07090C"/>
+<path d="M1 1H509V61H1Z" fill="url(#metal)" stroke="#D99B4C" stroke-width="2"/>
+<path d="M3 4H507" stroke="#F1BF76" stroke-width="4"/>
+<path d="M18 28L27 37L42 19" fill="none" stroke="#F4B96D" stroke-width="8" filter="url(#halo)" opacity=".75"/>
+<path d="M18 28L27 37L42 19" fill="none" stroke="#F9D6A3" stroke-width="3.5"/>
+<text x="60" y="25" font-family="Consolas,Menlo,monospace" font-size="17" font-weight="700" fill="#F8E7CC">MERGED UPSTREAM</text>
+<text x="60" y="46" font-family="Consolas,Menlo,monospace" font-size="14" fill="#D5A776">CLAUDE-MEM  /  PR #5324  /  NOV 2026</text>
+</svg>
