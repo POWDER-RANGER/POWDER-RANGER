@@ -17,17 +17,11 @@
 
 **Explore my work:** [Open-source contributions](https://github.com/thedotmack/claude-mem/pull/6301) · [CIVWATCH](https://github.com/POWDER-RANGER/CivilianIntelligence) · [Project websites](https://powder-ranger.github.io/pages.html)
 
-<div align="center">
 
-<a href="https://github.com/POWDER-RANGER?tab=achievements"><img src="https://img.shields.io/badge/GITHUB-ACHIEVEMENTS-F1B96C?style=for-the-badge&logo=github&labelColor=15151B" alt="View earned GitHub achievements"></a>
-<a href="https://github.com/POWDER-RANGER?tab=overview"><img src="https://img.shields.io/badge/CONTRIBUTIONS-ACTIVITY-E64A56?style=for-the-badge&logo=githubactions&labelColor=15151B" alt="View contribution history"></a>
-<a href="https://powder-ranger.github.io/pages.html"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-E64A56?style=for-the-badge&logo=githubpages&labelColor=15151B" alt="Explore project websites"></a>
-
-</div>
 
 ## Open-source contributions
 
-I contribute fixes and improvements to tools I use, with a focus on reliability, cross-platform behavior, and maintainability.
+I contribute fixes and improvements to open-source tools, particularly where reliability, cross-platform behavior, and maintainability matter.
 
 | Project | Contribution | Result |
 |:--|:--|:--|
@@ -85,12 +79,14 @@ A snapshot of my recent public work, alongside the contribution history GitHub m
 
 ### Recent public activity
 
+[Recent pull requests](https://github.com/pulls?q=is%3Apr+author%3APOWDER-RANGER+sort%3Aupdated-desc) · [Public contribution history](https://github.com/POWDER-RANGER?tab=overview)
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ## Achievements and milestones
 
-My [official GitHub achievements](https://github.com/POWDER-RANGER?tab=achievements) are displayed on my GitHub profile, including the badges I've earned through collaboration and contributions. Below is a separate collection of engineering milestones from my work.
+[See my earned GitHub achievements](https://github.com/POWDER-RANGER?tab=achievements). The engineering milestone board below highlights selected work and is separate from GitHub's official awards.
 
 <div align="center">
 
