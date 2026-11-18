@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
-      - name: Refresh public activity
+      - name: Validate activity renderer\n        run: python3 -m unittest discover -s tests -p 'test_*.py' -v\n      - name: Refresh public activity
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/update_activity.py
