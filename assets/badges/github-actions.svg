@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 52" width="290" height="52" role="img" aria-label="GITHUB ACTIONS — CI / CD">
+  <title>GITHUB ACTIONS · CI / CD</title>
+  <defs>
+    <linearGradient id="plate" x2="0" y2="1"><stop stop-color="#1C070A"/><stop offset="1" stop-color="#08090C"/></linearGradient>
+    <filter id="phosphor" x="-35%" y="-110%" width="170%" height="320%"><feGaussianBlur stdDeviation="2.4"/></filter>
+  </defs>
+  <rect width="290" height="52" fill="#060709"/>
+  <path d="M1 1H289V51H1Z" fill="url(#plate)" stroke="#7D2832" stroke-width="1.4"/>
+  <path d="M0 0H290V3H0Z" fill="#F03744"/>
+  <path d="M2 12H288 M2 24H288 M2 36H288 M2 48H288" stroke="#F9A8A8" stroke-opacity=".055"/>
+  <path d="M62 4V49" stroke="#7D2832"/>
+  <rect x="9" y="11" width="45" height="30" fill="#270C11" stroke="#DF4351"/>
+  <text x="31.5" y="30.5" font-family="Consolas,Menlo,monospace" font-weight="800" font-size="16" letter-spacing=".5" text-anchor="middle" fill="#E43A48" filter="url(#phosphor)">CI</text>
+  <text x="31.5" y="30.5" font-family="Consolas,Menlo,monospace" font-weight="800" font-size="16" letter-spacing=".5" text-anchor="middle" fill="#FFD9D9">CI</text>
+  <text x="74" y="22" font-family="Consolas,Menlo,monospace" font-size="14.4" font-weight="700" letter-spacing=".3" fill="#F5E6E6">GITHUB ACTIONS</text>
+  <text x="74" y="38" font-family="Consolas,Menlo,monospace" font-size="10" letter-spacing="1.15" fill="#E7AD76">CI / CD</text>
+  <path d="M277 38V43H271" stroke="#E43A48" fill="none"/>
+</svg>
