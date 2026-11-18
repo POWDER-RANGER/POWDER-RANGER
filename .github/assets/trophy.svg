@@ -1,68 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="385" viewBox="0 0 960 385" role="img" aria-labelledby="title desc">
-  <title id="title">POWDER-RANGER Trophy Board</title>
-  <desc id="desc">Repo-native proof-of-work trophies highlighting current systems, engineering depth, and public contributions.</desc>
-  <rect width="960" height="385" rx="8" fill="#0A0000"/>
-  <rect x="0.5" y="0.5" width="959" height="384" rx="8" fill="none" stroke="#4A1010"/>
-  <text x="20" y="38" fill="#E31C23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700" letter-spacing="1">POWDER-RANGER // TROPHY BOARD</text>
-  <text x="20" y="62" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">REPO-NATIVE PROOF OF WORK • STATIC SVG • NO REMOTE IMAGE RENDERER</text>
-
-  <g transform="translate(20 84)">
-    <rect width="300" height="130" rx="4" fill="#120000" stroke="#4A1010"/>
-    <circle cx="38" cy="38" r="23" fill="#1A0000" stroke="#8B0000"/>
-    <path d="M28 30h20v10c0 8-4.5 14-10 14s-10-6-10-14zM24 31h4v6c0 4 2 6 5 8M52 31h-4v6c0 4-2 6-5 8M34 58h12M31 64h18" fill="none" stroke="#E31C23" stroke-width="2.5"/>
-    <text x="72" y="31" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.2">NINE REALITIES</text>
-    <text x="72" y="61" fill="#F2E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">v3.0</text>
-    <text x="72" y="84" fill="#E31C23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">15K+ C++</text>
-    <text x="18" y="111" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">SERVER-AUTH • PREDICTION • ROLLBACK</text>
-  </g>
-
-  <g transform="translate(330 84)">
-    <rect width="300" height="130" rx="4" fill="#120000" stroke="#4A1010"/>
-    <circle cx="38" cy="38" r="23" fill="#1A0000" stroke="#8B0000"/>
-    <path d="M24 33h28v18H36l-12 8zM29 42h18" fill="none" stroke="#E31C23" stroke-width="2.5"/>
-    <text x="72" y="31" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.2">CIVINTELLIGENCE</text>
-    <text x="72" y="61" fill="#F2E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">INTEGRATION</text>
-    <text x="72" y="84" fill="#E31C23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700">SPINE</text>
-    <text x="18" y="111" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">SYSTEM OF RECORD • WATCHTOWER • CELL TITAN</text>
-  </g>
-
-  <g transform="translate(640 84)">
-    <rect width="300" height="130" rx="4" fill="#120000" stroke="#4A1010"/>
-    <circle cx="38" cy="38" r="23" fill="#1A0000" stroke="#8B0000"/>
-    <path d="M26 29h24v19H38l-8 6v-6h-4zM30 35h16M30 41h11" fill="none" stroke="#E31C23" stroke-width="2.5"/>
-    <text x="72" y="31" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.2">RED-AGENT-GOV</text>
-    <text x="72" y="61" fill="#F2E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">D01–D06</text>
-    <text x="72" y="84" fill="#E31C23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">STRUCTURAL GOV</text>
-    <text x="18" y="111" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">FSM • HASH-LINKED AUDIT • HMAC RECOVERY</text>
-  </g>
-
-  <g transform="translate(20 234)">
-    <rect width="300" height="130" rx="4" fill="#120000" stroke="#4A1010"/>
-    <circle cx="38" cy="38" r="23" fill="#1A0000" stroke="#8B0000"/>
-    <path d="M27 48l8-18 8 18-5-3-3 7-3-7z" fill="none" stroke="#E31C23" stroke-width="2.5"/>
-    <text x="72" y="31" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.2">EPIC GAMES</text>
-    <text x="72" y="61" fill="#F2E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">PR #84</text>
-    <text x="72" y="84" fill="#E31C23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">MAYA 2025 / 2026</text>
-    <text x="18" y="111" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">METAHUMAN-DNA-CALIBRATION • PUBLIC</text>
-  </g>
-
-  <g transform="translate(330 234)">
-    <rect width="300" height="130" rx="4" fill="#120000" stroke="#4A1010"/>
-    <circle cx="38" cy="38" r="23" fill="#1A0000" stroke="#8B0000"/>
-    <path d="M27 48l8-18 8 18-5-3-3 7-3-7z" fill="none" stroke="#E31C23" stroke-width="2.5"/>
-    <text x="72" y="31" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.2">EPIC GAMES</text>
-    <text x="72" y="61" fill="#F2E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">PR #83</text>
-    <text x="72" y="84" fill="#E31C23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">DNA v2.5</text>
-    <text x="18" y="111" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">VERSION DETECTION • ERROR FRAMEWORK • PUBLIC</text>
-  </g>
-
-  <g transform="translate(640 234)">
-    <rect width="300" height="130" rx="4" fill="#120000" stroke="#4A1010"/>
-    <circle cx="38" cy="38" r="23" fill="#1A0000" stroke="#8B0000"/>
-    <path d="M26 35h24v17H26zM30 29h16v6M32 43h12" fill="none" stroke="#E31C23" stroke-width="2.5"/>
-    <text x="72" y="31" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.2">PAGES + PORTFOLIO</text>
-    <text x="72" y="61" fill="#F2E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700">LIVE ECOSYSTEM</text>
-    <text x="72" y="84" fill="#E31C23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700">APPS • DOCS • GAMES</text>
-    <text x="18" y="111" fill="#A08080" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">GITHUB PAGES • SHARED BRAND • LIVE ROUTES</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="505" viewBox="0 0 960 505" role="img" aria-labelledby="title desc">
+<title id="title">POWDER-RANGER engineering milestones</title>
+<desc id="desc">A self-curated proof-of-work board, not official GitHub achievements. One merged external contribution, two submitted external pull requests, and three original project milestones.</desc>
+<rect width="960" height="505" fill="#07090C"/>
+<path d="M1 1H959V504H1Z" fill="none" stroke="#6D2530" stroke-width="2"/>
+<path d="M0 0H960V6H0Z" fill="#EB3647"/>
+<path d="M0 499H960V505H0Z" fill="#EB3647"/>
+<text x="20" y="33" font-family="Consolas,Menlo,monospace" font-size="26" fill="#F4E5E5" font-weight="700">ENGINEERING MILESTONES  //  POWDER-RANGER</text>
+<text x="20" y="55" font-family="Consolas,Menlo,monospace" font-size="13" fill="#B58F91">CURATED PROOF OF WORK  ·  NOT GITHUB-ISSUED TROPHIES  ·  NOV 2026</text>
+<g transform="translate(16 75)">
+<rect x="0" y="0" width="450" height="121" fill="#110D12" stroke="#5B222B" stroke-width="2"/>
+<path d="M1 1H449" stroke="#F0B66F" stroke-width="3"/>
+<text x="18" y="32" font-family="Consolas,Menlo,monospace" font-size="14" fill="#D9A26C" letter-spacing="1.2">UPSTREAM MERGE</text>
+<text x="18" y="67" font-family="Consolas,Menlo,monospace" font-size="24" font-weight="700" fill="#F6E9E9">CLAUDE-MEM  #5324</text>
+<text x="18" y="93" font-family="Consolas,Menlo,monospace" font-size="13" fill="#C9A4A7">Development tooling docs • merged</text>
+<text x="422" y="105" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="26" fill="#F0B66F" opacity=".26">01</text>
+</g>
+<g transform="translate(482 75)">
+<rect x="0" y="0" width="450" height="121" fill="#110D12" stroke="#5B222B" stroke-width="2"/>
+<path d="M1 1H449" stroke="#E64A56" stroke-width="3"/>
+<text x="18" y="32" font-family="Consolas,Menlo,monospace" font-size="14" fill="#D9A26C" letter-spacing="1.2">UPSTREAM PATCH</text>
+<text x="18" y="67" font-family="Consolas,Menlo,monospace" font-size="24" font-weight="700" fill="#F6E9E9">CLAUDE-MEM  #6301</text>
+<text x="18" y="93" font-family="Consolas,Menlo,monospace" font-size="13" fill="#C9A4A7">Windows timeline path normalization • PR</text>
+<text x="422" y="105" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="26" fill="#E64A56" opacity=".26">02</text>
+</g>
+<g transform="translate(16 212)">
+<rect x="0" y="0" width="450" height="121" fill="#110D12" stroke="#5B222B" stroke-width="2"/>
+<path d="M1 1H449" stroke="#E64A56" stroke-width="3"/>
+<text x="18" y="32" font-family="Consolas,Menlo,monospace" font-size="14" fill="#D9A26C" letter-spacing="1.2">UPSTREAM PATCH</text>
+<text x="18" y="67" font-family="Consolas,Menlo,monospace" font-size="24" font-weight="700" fill="#F6E9E9">CLAUDE-MEM  #6316</text>
+<text x="18" y="93" font-family="Consolas,Menlo,monospace" font-size="13" fill="#C9A4A7">Chroma delete quarantine • PR</text>
+<text x="422" y="105" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="26" fill="#E64A56" opacity=".26">03</text>
+</g>
+<g transform="translate(482 212)">
+<rect x="0" y="0" width="450" height="121" fill="#110D12" stroke="#5B222B" stroke-width="2"/>
+<path d="M1 1H449" stroke="#E64A56" stroke-width="3"/>
+<text x="18" y="32" font-family="Consolas,Menlo,monospace" font-size="14" fill="#D9A26C" letter-spacing="1.2">CRYPTOGRAPHIC EVIDENCE</text>
+<text x="18" y="67" font-family="Consolas,Menlo,monospace" font-size="24" font-weight="700" fill="#F6E9E9">CIVWATCH CELL MONITOR</text>
+<text x="18" y="93" font-family="Consolas,Menlo,monospace" font-size="13" fill="#C9A4A7">Ed25519 record signatures • v0.2.0</text>
+<text x="422" y="105" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="26" fill="#E64A56" opacity=".26">04</text>
+</g>
+<g transform="translate(16 349)">
+<rect x="0" y="0" width="450" height="121" fill="#110D12" stroke="#5B222B" stroke-width="2"/>
+<path d="M1 1H449" stroke="#E64A56" stroke-width="3"/>
+<text x="18" y="32" font-family="Consolas,Menlo,monospace" font-size="14" fill="#D9A26C" letter-spacing="1.2">SPATIAL PERSISTENCE</text>
+<text x="18" y="67" font-family="Consolas,Menlo,monospace" font-size="24" font-weight="700" fill="#F6E9E9">CIVWATCH PLATFORM</text>
+<text x="18" y="93" font-family="Consolas,Menlo,monospace" font-size="13" fill="#C9A4A7">PostGIS feature &amp; report storage</text>
+<text x="422" y="105" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="26" fill="#E64A56" opacity=".26">05</text>
+</g>
+<g transform="translate(482 349)">
+<rect x="0" y="0" width="450" height="121" fill="#110D12" stroke="#5B222B" stroke-width="2"/>
+<path d="M1 1H449" stroke="#E64A56" stroke-width="3"/>
+<text x="18" y="32" font-family="Consolas,Menlo,monospace" font-size="14" fill="#D9A26C" letter-spacing="1.2">ENGINE SYSTEMS</text>
+<text x="18" y="67" font-family="Consolas,Menlo,monospace" font-size="24" font-weight="700" fill="#F6E9E9">NINE REALITIES v3.0</text>
+<text x="18" y="93" font-family="Consolas,Menlo,monospace" font-size="13" fill="#C9A4A7">Authoritative multiplayer netcode</text>
+<text x="422" y="105" text-anchor="end" font-family="Consolas,Menlo,monospace" font-size="26" fill="#E64A56" opacity=".26">06</text>
+</g>
 </svg>
