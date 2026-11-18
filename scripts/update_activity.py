@@ -1,74 +1,99 @@
 #!/usr/bin/env python3
-"""Update the public activity section from GitHub's public events API."""
+"""Publish a short, verified summary of recent public GitHub activity."""
 import json
 import os
-import pathlib
-import urllib.request
+from pathlib import Path
+from urllib.request import Request, urlopen
 
-README = pathlib.Path("README.md")
+USER = "POWDER-RANGER"
 START = "<!--START_SECTION:activity-->"
 END = "<!--END_SECTION:activity-->"
-USER = "POWDER-RANGER"
-TOKEN = os.environ.get("GITHUB_TOKEN", "")
-headers = {"Accept": "application/vnd.github+json", "User-Agent": "powder-ranger-profile"}
-if TOKEN:
-    headers["Authorization"] = f"Bearer {TOKEN}"
+README = Path("README.md")
 
-request = urllib.request.Request(
-    f"https://api.github.com/users/{USER}/events/public?per_page=100", headers=headers
-)
-with urllib.request.urlopen(request, timeout=20) as response:
-    events = json.load(response)
 
-rows = []
-seen = set()
-for event in events:
-    kind = event.get("type")
-    repo = event.get("repo", {}).get("name", "")
-    payload = event.get("payload", {})
-    if not repo or kind not in {"PullRequestEvent", "PushEvent", "ReleaseEvent", "IssuesEvent"}:
-        continue
-    if repo == f"{USER}/{USER}" or repo in seen:
-        continue
-    if kind == "PullRequestEvent":
-        pr = payload.get("pull_request", {})
-        action = payload.get("action", "")
-        if action != "closed" or not pr.get("merged"):
+def summarize(events):
+    lines, seen = [], set()
+    for event in events:
+        if not isinstance(event, dict):
             continue
-        title = "Merged a pull request"
-        url = pr.get("html_url", f"https://github.com/{repo}")
-    elif kind == "PushEvent":
-        title = "Pushed commits"
-        url = f"https://github.com/{repo}/commits"
-    elif kind == "ReleaseEvent":
-        title = "Published a release"
-        url = payload.get("release", {}).get("html_url", f"https://github.com/{repo}")
+        kind = event.get("type")
+        repo = event.get("repo") or {}
+        repo_name = repo.get("name", "") if isinstance(repo, dict) else ""
+        payload = event.get("payload") or {}
+        if not isinstance(payload, dict) or not repo_name or repo_name == f"{USER}/{USER}":
+            continue
+        if not all(c.isalnum() or c in "-_./" for c in repo_name) or repo_name.count("/") != 1:
+            continue
+        url = f"https://github.com/{repo_name}"
+        if kind == "PullRequestEvent":
+            pr = payload.get("pull_request") or {}
+            if payload.get("action") != "closed" or not isinstance(pr, dict) or not pr.get("merged"):
+                continue
+            number = pr.get("number")
+            if not isinstance(number, int) or number < 1:
+                continue
+            url += f"/pull/{number}"
+            label = "Merged a pull request"
+        elif kind == "PushEvent":
+            url += "/commits"
+            label = "Pushed code"
+        elif kind == "ReleaseEvent":
+            label = "Published a release"
+            url += "/releases"
+        elif kind == "IssuesEvent" and payload.get("action") == "opened":
+            issue = payload.get("issue") or {}
+            number = issue.get("number") if isinstance(issue, dict) else None
+            if not isinstance(number, int) or number < 1:
+                continue
+            url += f"/issues/{number}"
+            label = "Opened an issue"
+        else:
+            continue
+        key = (kind, repo_name)
+        if key in seen:
+            continue
+        seen.add(key)
+        lines.append(f"- **{label}** in [{repo_name}](<{url}>)")
+        if len(lines) == 6:
+            break
+    return lines
+
+
+def replace_section(content, lines):
+    if content.count(START) != 1 or content.count(END) != 1:
+        raise ValueError("README activity markers missing or duplicated")
+    a = content.index(START) + len(START)
+    b = content.index(END)
+    if a > b:
+        raise ValueError("README activity markers out of order")
+    if not lines:
+        return content
+    return content[:a] + "\n" + "\n".join(lines) + "\n" + content[b:]
+
+
+def main():
+    token = os.environ.get("GITHUB_TOKEN", "")
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "powder-ranger-profile",
+        "X-GitHub-Api-Version": "2022-11-28",
+    }
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    request = Request(f"https://api.github.com/users/{USER}/events/public?per_page=100", headers=headers)
+    with urlopen(request, timeout=25) as response:
+        events = json.load(response)
+    if not isinstance(events, list):
+        raise ValueError("Unexpected GitHub events response")
+    lines = summarize(events)
+    current = README.read_text(encoding="utf-8")
+    updated = replace_section(current, lines)
+    if updated != current:
+        README.write_text(updated, encoding="utf-8")
+        print(f"Updated {len(lines)} public activity entries")
     else:
-        if payload.get("action") != "opened":
-            continue
-        title = "Opened an issue"
-        url = payload.get("issue", {}).get("html_url", f"https://github.com/{repo}")
-    if not url.startswith("https://github.com/"):
-        continue
-    rows.append(f"- **{title}** in [{repo}](<{url}>)")
-    seen.add(repo)
-    if len(rows) >= 6:
-        break
+        print("No eligible changes")
 
-if not rows:
-    print("No eligible public activity; preserving existing README section.")
-    raise SystemExit(0)
 
-content = README.read_text(encoding="utf-8")
-if content.count(START) != 1 or content.count(END) != 1:
-    raise SystemExit("README activity markers missing or duplicated")
-a = content.index(START) + len(START)
-b = content.index(END)
-if a > b:
-    raise SystemExit("Activity markers out of order")
-updated = content[:a] + "\n" + "\n".join(rows) + "\n" + content[b:]
-if updated != content:
-    README.write_text(updated, encoding="utf-8")
-    print("Updated public activity.")
-else:
-    print("No changes.")
+if __name__ == "__main__":
+    main()
