@@ -15,7 +15,7 @@
 
 > **I architect systems that think, defend themselves, and serve the public good.** Evidence, security and operational limits belong in the architecture, not just the presentation.
 
-**Explore:** [Merged open-source work](https://github.com/thedotmack/claude-mem/pull/5324) · [Explore CIVWATCH](https://github.com/POWDER-RANGER/CivilianIntelligence) · [All project sites](https://powder-ranger.github.io/pages.html)
+**Explore:** [Merged open-source work](https://github.com/thedotmack/claude-mem/pull/6301) · [Explore CIVWATCH](https://github.com/POWDER-RANGER/CivilianIntelligence) · [All project sites](https://powder-ranger.github.io/pages.html)
 
 ## Open-source contributions
 
@@ -29,9 +29,16 @@ Merged November 18, 2026. Normalized project-file labels across operating system
 **[Claude-Mem · Developer documentation](https://github.com/thedotmack/claude-mem/pull/5324)**  
 Merged November 4, 2026. Updated setup requirements and test instructions to reflect the project's current tooling.
 
-### Other contributions
+### Approved upstream contribution
 
-I've also submitted work on [Claude-Mem recovery safety](https://github.com/thedotmack/claude-mem/pull/6316), [Hyperframes skill documentation](https://github.com/heygen-com/hyperframes/pull/7079), [Hyperframes link validation](https://github.com/heygen-com/hyperframes/pull/8124), [Vercel Skills registry writes](https://github.com/vercel-labs/skills/pull/2780), and [MetaHuman DNA Calibration](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pulls?q=is%3Apr+author%3APOWDER-RANGER). These links show the work and its current status.
+**[Hyperframes · Markdown link validation](https://github.com/heygen-com/hyperframes/pull/8124)**  
+Approved by a project collaborator following code review and successful tests. The checker detects missing or incorrectly capitalized local links in published skill documentation. Integration is awaiting a verified, signed commit.
+
+### Additional upstream work
+
+I've contributed to [Hyperframes skill documentation](https://github.com/heygen-com/hyperframes/pull/7079), [Vercel Skills registry handling](https://github.com/vercel-labs/skills/pull/2780), and [MetaHuman DNA Calibration](https://github.com/EpicGames/MetaHuman-DNA-Calibration/pulls?q=is%3Apr+author%3APOWDER-RANGER).
+
+My [Claude-Mem recovery investigation](https://github.com/thedotmack/claude-mem/pull/6316) also helped narrow a proposed reliability fix. The original approach was closed after maintainer feedback, with a simpler follow-up suggested.
 
 ## Selected projects
 
